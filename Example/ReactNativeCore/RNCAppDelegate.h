@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
-#import <RCTBridgeDelegate.h>
+@import React;
+
 @interface RNCAppDelegate : UIResponder <UIApplicationDelegate, RCTBridgeDelegate>
 
 @property (strong, nonatomic) UIWindow *window;

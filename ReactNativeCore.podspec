@@ -162,6 +162,8 @@ Pod::Spec.new do |s|
     ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     'ReactCommon/jsi/**/*.{h,cpp}'
+    ss.private_header_files =
+    'ReactCommon/jsi/**/*.{h}'
     ss.exclude_files = 'ReactCommon/jsi/jsi/test'
   end
 
@@ -185,9 +187,11 @@ Pod::Spec.new do |s|
 
   # #import <React/*>
   s.subspec 'RCTRequired' do |ss|
+    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     'Libraries/RCTRequired/**/*.{h,mm}'
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    ss.private_header_files =
+    'Libraries/RCTRequired/RCTRequired/RCTRequired.h'
   end
   
   # #import <React/*>
@@ -195,6 +199,9 @@ Pod::Spec.new do |s|
     ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     'Libraries/TypeSafety/**/*.{h,mm}'
+    ss.private_header_files =
+    'Libraries/TypeSafety/RCTConvertHelpers.h',
+    'Libraries/TypeSafety/RCTTypedModuleConstants.h'
   end
 
   # #import <React/*>
@@ -244,7 +251,10 @@ Pod::Spec.new do |s|
 
   s.subspec 'RCTBlob' do |ss|
     ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-    ss.source_files = 'Libraries/Blob/*.{h,m,mm}'
+    ss.source_files = 'Libraries/Blob/**/*.{h,m,mm}'
+    ss.private_header_files =
+    'Libraries/Blob/RCTBlobCollector.h',
+    'Libraries/Blob/RCTBlobPlugins.h'
   end
 
   s.subspec 'RCTImage' do |ss|
