@@ -13,11 +13,11 @@
 #import <React/RCTLog.h>
 #import <React/RCTProfile.h>
 #import <React/RCTUtils.h>
-#import <cxxreact/JSBigString.h>
-#import <cxxreact/JSExecutor.h>
-#import <cxxreact/MessageQueueThread.h>
-#import <cxxreact/ModuleRegistry.h>
-#import <cxxreact/RAMBundleRegistry.h>
+#import <React/JSBigString.h>
+#import <React/JSExecutor.h>
+#import <React/MessageQueueThread.h>
+#import <React/ModuleRegistry.h>
+#import <React/RAMBundleRegistry.h>
 #import <folly/json.h>
 
 namespace facebook {

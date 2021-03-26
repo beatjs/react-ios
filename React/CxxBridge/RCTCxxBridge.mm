@@ -27,13 +27,13 @@
 #import <React/RCTRedBox.h>
 #import <React/RCTReloadCommand.h>
 #import <React/RCTUtils.h>
-#import <cxxreact/CxxNativeModule.h>
-#import <cxxreact/Instance.h>
-#import <cxxreact/JSBundleType.h>
-#import <cxxreact/JSIndexedRAMBundle.h>
-#import <cxxreact/ModuleRegistry.h>
-#import <cxxreact/RAMBundleRegistry.h>
-#import <cxxreact/ReactMarker.h>
+#import <React/CxxNativeModule.h>
+#import <React/Instance.h>
+#import <React/JSBundleType.h>
+#import <React/JSIndexedRAMBundle.h>
+#import <React/ModuleRegistry.h>
+#import <React/RAMBundleRegistry.h>
+#import <React/ReactMarker.h>
 #import <React/JSIExecutor.h>
 
 #import "JSCExecutorFactory.h"

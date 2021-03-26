@@ -8,7 +8,7 @@
 #import <Foundation/Foundation.h>
 
 #import <React/RCTBridgeMethod.h>
-#import <cxxreact/CxxModule.h>
+#import <React/CxxModule.h>
 
 @interface RCTCxxMethod : NSObject <RCTBridgeMethod>
 

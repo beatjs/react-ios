@@ -10,7 +10,7 @@
 #import <React/RCTBridge.h>
 #import <React/RCTFollyConvert.h>
 #import <React/RCTLog.h>
-#import <cxxreact/CxxModule.h>
+#import <React/CxxModule.h>
 
 #import "RCTCxxMethod.h"
 

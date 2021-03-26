@@ -11,7 +11,7 @@
 #import <React/RCTBridge.h>
 #import <React/RCTConvert.h>
 #import <React/RCTFollyConvert.h>
-#import <cxxreact/JsArgumentHelpers.h>
+#import <React/JsArgumentHelpers.h>
 
 #import "RCTCxxUtils.h"
 

@@ -9,7 +9,7 @@
 @import UIKit;
 @import React;
 
-@interface RNCAppDelegate : UIResponder <UIApplicationDelegate, RCTBridgeDelegate>
+@interface RNCAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

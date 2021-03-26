@@ -1,7 +1,7 @@
 use_frameworks!
 
 platform :ios, '11.0'
-
+ 
 target 'ReactNativeCore_Example' do
   pod 'ReactNativeCore', :path => '../'
   target 'ReactNativeCore_Tests' do

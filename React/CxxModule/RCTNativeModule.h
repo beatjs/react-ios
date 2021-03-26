@@ -6,7 +6,7 @@
  */
 
 #import <React/RCTModuleData.h>
-#import <cxxreact/NativeModule.h>
+#import <React/NativeModule.h>
 
 namespace facebook {
 namespace react {

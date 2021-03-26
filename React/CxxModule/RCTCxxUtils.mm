@@ -10,7 +10,7 @@
 #import <React/RCTFollyConvert.h>
 #import <React/RCTModuleData.h>
 #import <React/RCTUtils.h>
-#import <cxxreact/CxxNativeModule.h>
+#import <React/CxxNativeModule.h>
 #import <React//jsi.h>
 
 #import "DispatchMessageQueueThread.h"

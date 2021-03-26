@@ -9,7 +9,7 @@
 
 #if RCT_DEV
 
-#include <jsinspector/InspectorInterfaces.h>
+#include <React/InspectorInterfaces.h>
 
 #import <React/RCTDefines.h>
 #import <React/RCTInspectorPackagerConnection.h>
