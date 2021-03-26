@@ -5,13 +5,13 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#include "jsireact/JSINativeModules.h"
+#include "React/JSINativeModules.h"
 
 #include <glog/logging.h>
 
-#include <cxxreact/ReactMarker.h>
+#include <React/ReactMarker.h>
 
-#include <jsi/JSIDynamic.h>
+#include <React/JSIDynamic.h>
 
 #include <string>
 

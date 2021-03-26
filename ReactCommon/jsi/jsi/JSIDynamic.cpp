@@ -10,7 +10,7 @@
 #include <glog/logging.h>
 
 #include <folly/dynamic.h>
-#include <jsi/jsi.h>
+#include <React/jsi.h>
 
 using namespace facebook::jsi;
 

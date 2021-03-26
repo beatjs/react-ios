@@ -2,287 +2,161 @@ PODS:
   - boost-for-react-native (1.63.0)
   - DoubleConversion (1.1.5)
   - glog (0.3.4)
-  - ReactNativeCallInvoker (0.1.0)
-  - ReactNativeCore (0.1.0):
+  - ReactNativeCore (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/CoreModules (= 0.1.0)
-    - ReactNativeCore/Default (= 0.1.0)
-    - ReactNativeCore/DevSupport (= 0.1.0)
-    - ReactNativeCore/FBReactNativeSpec (= 0.1.0)
-    - ReactNativeCore/RCTActionSheet (= 0.1.0)
-    - ReactNativeCore/RCTAnimation (= 0.1.0)
-    - ReactNativeCore/RCTBlob (= 0.1.0)
-    - ReactNativeCore/RCTImage (= 0.1.0)
-    - ReactNativeCore/RCTLinking (= 0.1.0)
-    - ReactNativeCore/RCTNetwork (= 0.1.0)
-    - ReactNativeCore/RCTSettings (= 0.1.0)
-    - ReactNativeCore/RCTText (= 0.1.0)
-    - ReactNativeCore/RCTTypeSafety (= 0.1.0)
-    - ReactNativeCore/RCTVibration (= 0.1.0)
-    - ReactNativeCore/RCTWebSocket (= 0.1.0)
-    - ReactNativeCore/ReactCommon (= 0.1.0)
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
+    - ReactNativeCore/All (= 0.2.0)
     - Yoga (= 1.14.0)
-  - ReactNativeCore/CoreModules (0.1.0):
+  - ReactNativeCore/All (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
+    - ReactNativeCore/callinvoker
+    - ReactNativeCore/CoreModules
+    - ReactNativeCore/cxxreact
     - ReactNativeCore/Default
+    - ReactNativeCore/DevSupport
+    - ReactNativeCore/FBLazyVector
     - ReactNativeCore/FBReactNativeSpec
+    - ReactNativeCore/folly
+    - ReactNativeCore/jsi
+    - ReactNativeCore/jsinspector
+    - ReactNativeCore/jsireact
+    - ReactNativeCore/RCTActionSheet
+    - ReactNativeCore/RCTAnimation
+    - ReactNativeCore/RCTBlob
+    - ReactNativeCore/RCTImage
+    - ReactNativeCore/RCTLinking
+    - ReactNativeCore/RCTNetwork
+    - ReactNativeCore/RCTRequired
+    - ReactNativeCore/RCTSettings
+    - ReactNativeCore/RCTText
     - ReactNativeCore/RCTTypeSafety
-    - ReactNativeCore/ReactCommon
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
-    - Yoga (= 1.14.0)
-  - ReactNativeCore/Default (0.1.0):
-    - boost-for-react-native (= 1.63.0)
-    - DoubleConversion (= 1.1.5)
-    - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
-    - Yoga (= 1.14.0)
-  - ReactNativeCore/DevSupport (0.1.0):
-    - boost-for-react-native (= 1.63.0)
-    - DoubleConversion (= 1.1.5)
-    - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
+    - ReactNativeCore/RCTVibration
     - ReactNativeCore/RCTWebSocket
     - ReactNativeCore/ReactCommon
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/FBReactNativeSpec (0.1.0):
+  - ReactNativeCore/callinvoker (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTActionSheet (0.1.0):
+  - ReactNativeCore/CoreModules (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTAnimation (0.1.0):
+  - ReactNativeCore/cxxreact (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTBlob (0.1.0):
+  - ReactNativeCore/Default (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTImage (0.1.0):
+  - ReactNativeCore/DevSupport (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTLinking (0.1.0):
+  - ReactNativeCore/FBLazyVector (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTNetwork (0.1.0):
+  - ReactNativeCore/FBReactNativeSpec (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTSettings (0.1.0):
+  - ReactNativeCore/folly (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTText (0.1.0):
+  - ReactNativeCore/jsi (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTTypeSafety (0.1.0):
+  - ReactNativeCore/jsinspector (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTVibration (0.1.0):
+  - ReactNativeCore/jsireact (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/RCTWebSocket (0.1.0):
+  - ReactNativeCore/RCTActionSheet (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCore/Default
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/ReactCommon (0.1.0):
+  - ReactNativeCore/RCTAnimation (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCxxreact (0.1.0):
+  - ReactNativeCore/RCTBlob (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCallInvoker
-    - ReactNativeFolly
-    - ReactNativeInspector
-  - ReactNativeExecutor (0.1.0):
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTImage (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCxxreact
-    - ReactNativeFolly
-    - ReactNativeJsi
-  - ReactNativeFolly (0.1.6):
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTLinking (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-  - ReactNativeInspector (0.1.0)
-  - ReactNativeJsi (0.1.0):
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTNetwork (0.2.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeFolly (= 0.1.6)
-  - ReactNativeLazyVector (0.1.0)
-  - ReactNativeRequired (0.1.5)
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTRequired (0.2.0):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTSettings (0.2.0):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTText (0.2.0):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTTypeSafety (0.2.0):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTVibration (0.2.0):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/RCTWebSocket (0.2.0):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - Yoga (= 1.14.0)
+  - ReactNativeCore/ReactCommon (0.2.0):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - Yoga (= 1.14.0)
   - Yoga (1.14.0)
 
 DEPENDENCIES:
@@ -293,14 +167,6 @@ SPEC REPOS:
     - boost-for-react-native
     - DoubleConversion
     - glog
-    - ReactNativeCallInvoker
-    - ReactNativeCxxreact
-    - ReactNativeExecutor
-    - ReactNativeFolly
-    - ReactNativeInspector
-    - ReactNativeJsi
-    - ReactNativeLazyVector
-    - ReactNativeRequired
     - Yoga
 
 EXTERNAL SOURCES:
@@ -311,17 +177,9 @@ SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
   glog: 1de0bb937dccdc981596d3b5825ebfb765017ded
-  ReactNativeCallInvoker: 1e9ffb6bd3d85d13fa80763c37917c3ec64744be
-  ReactNativeCore: 7c2b718967724bb15a24da4a458b2be9e00080bd
-  ReactNativeCxxreact: a1d4ccfeaaf7dae4ec187345ec07e245f10c4ce6
-  ReactNativeExecutor: 95578f5975433e00036b87e6cdfdd9618743866e
-  ReactNativeFolly: 441c57941fc336af649ce5c4d62fe6a29e17305a
-  ReactNativeInspector: 274dcd5cba8b08780fd255c7c291d159f88afd1c
-  ReactNativeJsi: 9547bffbbde5095955967625b3b9315fa34468ed
-  ReactNativeLazyVector: 4a502c92fb3db653bf18d87e2ae0ef16f79f0be6
-  ReactNativeRequired: 42f607135d2cb652ddd66c543aa982f01a50c4c6
+  ReactNativeCore: cfcfbca76408540619be87deb5580fd51384da69
   Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
 
-PODFILE CHECKSUM: a653c86733545cdc1ab523ce39f2f765e357b51b
+PODFILE CHECKSUM: 28765cf1f59337c3cbdc8368ac0bad20a9c243ed
 
 COCOAPODS: 1.10.1

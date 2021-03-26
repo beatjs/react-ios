@@ -8,7 +8,7 @@
 #include <glog/logging.h>
 
 #include <React/RCTLog.h>
-#include <cxxreact/MessageQueueThread.h>
+#include <React/MessageQueueThread.h>
 
 namespace facebook {
 namespace react {

@@ -12,7 +12,7 @@
 #import <React/RCTBridge.h>
 #import <React/RCTBridgeModule.h>
 #import <React/RCTModuleMethod.h>
-#import <ReactNativeCallInvoker/CallInvoker.h>
+#import <React/CallInvoker.h>
 #import <React/TurboModule.h>
 #import <React/TurboModuleUtils.h>
 #import <string>

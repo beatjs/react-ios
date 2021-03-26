@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBLazyVector/FBLazyVector.h>
+#import <React/FBLazyVector.h>
 #import <folly/Optional.h>
 
 namespace facebook {

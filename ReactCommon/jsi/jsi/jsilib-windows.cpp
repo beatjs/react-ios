@@ -7,7 +7,7 @@
 
 #ifdef _WINDOWS
 
-#include <jsi/jsilib.h>
+#include <React/jsilib.h>
 
 namespace facebook {
 namespace jsi {

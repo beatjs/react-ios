@@ -11,7 +11,7 @@
 #include <string>
 #include <unordered_map>
 
-#include <jsi/jsi.h>
+#include <React/jsi.h>
 
 namespace facebook {
 namespace jsi {

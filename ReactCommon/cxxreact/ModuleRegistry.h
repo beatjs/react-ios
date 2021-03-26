@@ -11,7 +11,7 @@
 #include <unordered_set>
 #include <vector>
 
-#include <cxxreact/JSExecutor.h>
+#include <React/JSExecutor.h>
 #include <folly/Optional.h>
 #include <folly/dynamic.h>
 

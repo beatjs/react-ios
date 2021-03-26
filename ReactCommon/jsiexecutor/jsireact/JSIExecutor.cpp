@@ -5,17 +5,17 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#include "jsireact/JSIExecutor.h"
+#include "JSIExecutor.h"
 
-#include <cxxreact/JSBigString.h>
-#include <cxxreact/ModuleRegistry.h>
-#include <cxxreact/ReactMarker.h>
-#include <cxxreact/SystraceSection.h>
+#include <React/JSBigString.h>
+#include <React/ModuleRegistry.h>
+#include <React/ReactMarker.h>
+#include <React/SystraceSection.h>
 #include <folly/Conv.h>
 #include <folly/json.h>
 #include <glog/logging.h>
-#include <jsi/JSIDynamic.h>
-#include <jsi/instrumentation.h>
+#include <React/JSIDynamic.h>
+#include <React/instrumentation.h>
 
 #include <sstream>
 #include <stdexcept>

@@ -10,8 +10,8 @@
 #include <cstdlib>
 #include <stdexcept>
 
-#include <jsi/instrumentation.h>
-#include <jsi/jsi.h>
+#include <React/instrumentation.h>
+#include <React/jsi.h>
 
 namespace facebook {
 namespace jsi {

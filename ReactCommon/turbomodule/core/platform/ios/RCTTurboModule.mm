@@ -18,7 +18,7 @@
 #import <React/RCTManagedPointer.h>
 #import <React/RCTModuleMethod.h>
 #import <React/RCTUtils.h>
-#import <ReactNativeCallInvoker/CallInvoker.h>
+#import <React/CallInvoker.h>
 #import <React/LongLivedObject.h>
 #import <React/TurboModule.h>
 #import <React/TurboModuleUtils.h>

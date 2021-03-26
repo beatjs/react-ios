@@ -7,7 +7,7 @@
 
 #include <memory>
 
-#include <cxxreact/CxxModule.h>
+#include <React/CxxModule.h>
 
 namespace facebook {
 namespace xplat {

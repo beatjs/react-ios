@@ -17,7 +17,7 @@
 #include "RecoverableError.h"
 #include "SystraceSection.h"
 
-#include <cxxreact/JSIndexedRAMBundle.h>
+#include <React/JSIndexedRAMBundle.h>
 #include <folly/MoveWrapper.h>
 #include <folly/json.h>
 

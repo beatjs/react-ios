@@ -12,7 +12,7 @@
 #include <memory>
 #include <mutex>
 
-#include <cxxreact/NativeToJsBridge.h>
+#include <React/NativeToJsBridge.h>
 
 #ifndef RN_EXPORT 
 #define RN_EXPORT __attribute__((visibility("default")))

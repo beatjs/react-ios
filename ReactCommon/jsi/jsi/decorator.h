@@ -9,8 +9,8 @@
 
 #include <tuple>
 
-#include <jsi/instrumentation.h>
-#include <jsi/jsi.h>
+#include <React/instrumentation.h>
+#include <React/jsi.h>
 
 // This file contains objects to help API users create their own
 // runtime adapters, i.e. if you want to compose runtimes to add your

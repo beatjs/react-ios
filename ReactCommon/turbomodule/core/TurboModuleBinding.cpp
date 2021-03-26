@@ -11,7 +11,7 @@
 #include <string>
 
 #include <React/LongLivedObject.h>
-#include <cxxreact/SystraceSection.h>
+#include <React/SystraceSection.h>
 
 using namespace facebook;
 

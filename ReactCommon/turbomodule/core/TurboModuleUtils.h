@@ -11,9 +11,9 @@
 #include <string>
 
 #include <folly/Optional.h>
-#include <jsi/jsi.h>
+#include <React/jsi.h>
 
-#include <ReactNativeCallInvoker/CallInvoker.h>
+#include <React/CallInvoker.h>
 #include <React/LongLivedObject.h>
 
 using namespace facebook;

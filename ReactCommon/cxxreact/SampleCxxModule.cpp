@@ -6,7 +6,7 @@
  */
 
 #include "SampleCxxModule.h"
-#include <cxxreact/JsArgumentHelpers.h>
+#include <React/JsArgumentHelpers.h>
 
 #include <glog/logging.h>
 

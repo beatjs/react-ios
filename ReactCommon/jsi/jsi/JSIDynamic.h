@@ -8,7 +8,7 @@
 #pragma once
 
 #include <folly/dynamic.h>
-#include <jsi/jsi.h>
+#include <React/jsi.h>
 
 namespace facebook {
 namespace jsi {

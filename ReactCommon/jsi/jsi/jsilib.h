@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <jsi/jsi.h>
+#include <React/jsi.h>
 
 namespace facebook {
 namespace jsi {

@@ -10,9 +10,9 @@
 #include <string>
 #include <unordered_map>
 
-#include <jsi/jsi.h>
+#include <React/jsi.h>
 
-#include <ReactNativeCallInvoker/CallInvoker.h>
+#include <React/CallInvoker.h>
 
 namespace facebook {
 namespace react {

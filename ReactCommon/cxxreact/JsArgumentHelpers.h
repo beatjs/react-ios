@@ -122,4 +122,4 @@ inline std::string jsArgAsString(const folly::dynamic &args, size_t n) {
 } // namespace xplat
 } // namespace facebook
 
-#include <cxxreact/JsArgumentHelpers-inl.h>
+#include <React/JsArgumentHelpers-inl.h>

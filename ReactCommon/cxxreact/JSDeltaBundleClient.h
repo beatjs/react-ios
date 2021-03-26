@@ -12,8 +12,8 @@
 #include <string>
 #include <unordered_map>
 
-#include <cxxreact/JSBigString.h>
-#include <cxxreact/JSModulesUnbundle.h>
+#include <React/JSBigString.h>
+#include <React/JSModulesUnbundle.h>
 #include <folly/dynamic.h>
 
 namespace facebook {

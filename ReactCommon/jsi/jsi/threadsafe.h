@@ -9,8 +9,8 @@
 
 #include <mutex>
 
-#include <jsi/decorator.h>
-#include <jsi/jsi.h>
+#include <React/decorator.h>
+#include <React/jsi.h>
 
 namespace facebook {
 namespace jsi {

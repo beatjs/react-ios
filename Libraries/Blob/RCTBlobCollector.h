@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#import <jsi/jsi.h>
+#import <React//jsi.h>
 
 using namespace facebook;
 

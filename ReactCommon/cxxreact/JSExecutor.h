@@ -10,7 +10,7 @@
 #include <memory>
 #include <string>
 
-#include <cxxreact/NativeModule.h>
+#include <React/NativeModule.h>
 #include <folly/dynamic.h>
 
 #ifndef RN_EXPORT

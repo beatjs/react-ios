@@ -7,11 +7,11 @@
 
 #import <UIKit/UIKit.h>
 
-#import <React/RCTBridgeDelegate.h>
-#import <React/RCTBridgeModule.h>
-#import <React/RCTDefines.h>
-#import <React/RCTFrameUpdate.h>
-#import <React/RCTInvalidating.h>
+#import "RCTBridgeDelegate.h"
+#import "RCTBridgeModule.h"
+#import "RCTDefines.h"
+#import "RCTFrameUpdate.h"
+#import "RCTInvalidating.h"
 
 @class JSValue;
 @class RCTBridge;

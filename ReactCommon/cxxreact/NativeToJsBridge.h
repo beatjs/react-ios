@@ -12,8 +12,8 @@
 #include <map>
 #include <vector>
 
-#include <ReactCommon/CallInvoker.h>
-#include <cxxreact/JSExecutor.h>
+#include <React/CallInvoker.h>
+#include <React/JSExecutor.h>
 
 namespace folly {
 struct dynamic;

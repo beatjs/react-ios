@@ -34,7 +34,7 @@
 #import <cxxreact/ModuleRegistry.h>
 #import <cxxreact/RAMBundleRegistry.h>
 #import <cxxreact/ReactMarker.h>
-#import <jsireact/JSIExecutor.h>
+#import <React/JSIExecutor.h>
 
 #import "JSCExecutorFactory.h"
 #import "NSDataBigString.h"

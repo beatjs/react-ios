@@ -13,7 +13,7 @@
 #include <unordered_map>
 #include <utility>
 
-#include <cxxreact/JSModulesUnbundle.h>
+#include <React/JSModulesUnbundle.h>
 
 #ifndef RN_EXPORT
 #define RN_EXPORT __attribute__((visibility("default")))

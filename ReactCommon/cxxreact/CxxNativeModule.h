@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <cxxreact/CxxModule.h>
-#include <cxxreact/NativeModule.h>
+#include <React/CxxModule.h>
+#include <React/NativeModule.h>
 
 #ifndef RN_EXPORT
 #define RN_EXPORT __attribute__((visibility("default")))

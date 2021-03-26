@@ -8,7 +8,7 @@
 #include "JSCExecutorFactory.h"
 
 #import <React/RCTLog.h>
-#import <jsi/JSCRuntime.h>
+#import <React//JSCRuntime.h>
 
 #import <memory>
 

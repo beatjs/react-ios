@@ -16,7 +16,7 @@
 #include <cstdarg>
 #include <stdexcept>
 
-#include <jsi/jsilib.h>
+#include <React/jsilib.h>
 
 #if __APPLE__
 #include <mach/vm_statistics.h>

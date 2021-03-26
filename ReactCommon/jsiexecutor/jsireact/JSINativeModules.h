@@ -10,9 +10,9 @@
 #include <memory>
 #include <string>
 
-#include <cxxreact/ModuleRegistry.h>
+#include <React/ModuleRegistry.h>
 #include <folly/Optional.h>
-#include <jsi/jsi.h>
+#include <React/jsi.h>
 
 namespace facebook {
 namespace react {
