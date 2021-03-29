@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.author = { 'Liam Xu' => 'liamxujia@outlook.com' }
   s.source = { :git => 'https://github.com/beatjs/ReactNativeCore.git', :tag => s.version.to_s }
-  s.platforms = { :ios => "11.0", :tvos => "11.0" }
+  s.platforms = { :ios => "11.0"}
   s.resource_bundle = { 'AccessibilityResources' => ['React/AccessibilityResources/*.lproj']}
   s.header_dir = 'React'
   s.library = 'stdc++'
@@ -46,18 +46,11 @@ Pod::Spec.new do |s|
     ss.dependency 'ReactNativeCore/jsiexecutor'
     ss.dependency 'ReactNativeCore/RCTRequired'
     ss.dependency 'ReactNativeCore/FBLazyVector'
-    # ss.dependency 'ReactNativeCore/ReactCommon'
-    # ss.dependency 'ReactNativeCore/RCTTypeSafety'
-    # ss.dependency 'ReactNativeCore/FBReactNativeSpec'
     ss.dependency 'ReactNativeCore/Default'
-    ss.dependency 'ReactNativeCore/RCTActionSheet'
     ss.dependency 'ReactNativeCore/RCTAnimation'
     ss.dependency 'ReactNativeCore/RCTNetwork'
     ss.dependency 'ReactNativeCore/RCTBlob'
     ss.dependency 'ReactNativeCore/RCTImage'
-    # ss.dependency 'ReactNativeCore/RCTWebSocket'
-    # ss.dependency 'ReactNativeCore/DevSupport'
-    # ss.dependency 'ReactNativeCore/CoreModules'
     ss.dependency 'ReactNativeCore/RCTLinking'
     ss.dependency 'ReactNativeCore/RCTSettings'
     ss.dependency 'ReactNativeCore/RCTText'
@@ -175,11 +168,6 @@ Pod::Spec.new do |s|
     ss.dependency 'ReactNativeCore/cxxreact'
   end
 
-  # s.subspec 'CoreModules' do |ss|
-  #   ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-  #   ss.source_files = 'React/CoreModules/**/*.{c,h,m,mm,cpp}'
-  # end
-
   #import <React/*>
   s.subspec 'RCTRequired' do |ss|
     ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
@@ -198,29 +186,6 @@ Pod::Spec.new do |s|
     'Libraries/FBLazyVector/FBLazyVector/**/*.{h}'
   end
 
-  #import <React/*>
-  # s.subspec 'RCTTypeSafety' do |ss|
-  #   ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-  #   ss.source_files =
-  #   'Libraries/TypeSafety/**/*.{h,mm}'
-  #   ss.private_header_files =
-  #   'Libraries/TypeSafety/RCTConvertHelpers.h',
-  #   'Libraries/TypeSafety/RCTTypedModuleConstants.h'
-
-  #   ss.dependency 'ReactNativeCore/folly'
-  #   ss.dependency 'ReactNativeCore/FBLazyVector'
-  #   ss.dependency 'ReactNativeCore/RCTRequired'
-  # end
-
-  #import <React/*>
-  # s.subspec 'FBReactNativeSpec' do |ss|
-  #   ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-  #   ss.source_files =
-  #   'Libraries/FBReactNativeSpec/FBReactNativeSpec/**/*.{h,mm,cpp}'
-  #   ss.private_header_files =
-  #   'Libraries/FBReactNativeSpec/FBReactNativeSpec/**/*.{h}'
-  # end
-
   s.subspec 'Default' do |ss|
     ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
@@ -232,19 +197,8 @@ Pod::Spec.new do |s|
     'React/DevSupport/*.{h,mm,m}',
     'React/Inspector/*.{h,mm,m}'
     ss.exclude_files =
-    # 'React/CoreModules/**/*',
-    # 'React/DevSupport/**/*',
     'React/Fabric/**/*',
-    # 'React/Inspector/**/*',
     'ReactCommon/turbomodule/core/platform/android/**/*'
-    # ss.ios.exclude_files = 'React/**/RCTTV*.*'
-    # ss.tvos.exclude_files =
-    # 'React/Modules/RCTClipboard*',
-    # 'React/Views/RCTDatePicker*',
-    # 'React/Views/RCTPicker*',
-    # 'React/Views/RCTRefreshControl*',
-    # 'React/Views/RCTSlider*',
-    # 'React/Views/RCTSwitch*'
     ss.private_header_files = 
     'React/Cxx*/*.h',
     'Libraries/TypeSafety/RCTConvertHelpers.h',
@@ -262,40 +216,6 @@ Pod::Spec.new do |s|
     ss.dependency 'ReactNativeCore/jsiexecutor'
     ss.dependency 'ReactNativeCore/FBLazyVector'
     ss.dependency 'ReactNativeCore/RCTRequired'
-  end
-
-  #import <React/*>
-  # s.subspec 'ReactCommon' do |ss|
-  #   ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-  #   ss.source_files =
-  #   'ReactCommon/turbomodule/core/**/*.{h,mm,m,cpp}'
-  #   ss.private_header_files =
-  #   'ReactCommon/turbomodule/core/**/*.{h}'
-  #   ss.exclude_files =
-  #   'ReactCommon/turbomodule/core/platform/android/**/*'
-
-  #   ss.dependency 'ReactNativeCore/jsi'
-  #   ss.dependency 'ReactNativeCore/callinvoker'
-  #   ss.dependency 'ReactNativeCore/cxxreact'
-  # end
-
-  # s.subspec 'RCTWebSocket' do |ss|
-  #   ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-  #   ss.source_files = 'Libraries/WebSocket/*.{h,m}'
-  # end
-  
-  # s.subspec 'DevSupport' do |ss|
-  #   ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-  #   ss.source_files =
-  #   'React/DevSupport/*.{h,mm,m}',
-  #   'React/Inspector/*.{h,mm,m}'
-  # end
-
-  s.subspec 'RCTActionSheet' do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-    ss.source_files = 'Libraries/ActionSheetIOS/**/*.{h,m}'
-
-    ss.dependency 'ReactNativeCore/Default'
   end
 
   s.subspec 'RCTAnimation' do |ss|
@@ -372,9 +292,4 @@ Pod::Spec.new do |s|
     ss.dependency 'ReactNativeCore/jsi'
     ss.dependency 'ReactNativeCore/Default'
   end
-
-  # s.dependency 'Yoga', '1.14.0'
-  # s.dependency 'boost-for-react-native', '1.63.0'
-  # s.dependency 'DoubleConversion', '1.1.5'
-  # s.dependency 'glog', '0.3.4'
 end

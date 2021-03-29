@@ -2,9 +2,9 @@ PODS:
   - boost-for-react-native (1.63.0)
   - DoubleConversion (1.1.5)
   - glog (0.3.4)
-  - ReactNativeCore (0.1.0):
-    - ReactNativeCore/All (= 0.1.0)
-  - ReactNativeCore/All (0.1.0):
+  - ReactNativeCore (0.2.1):
+    - ReactNativeCore/All (= 0.2.1)
+  - ReactNativeCore/All (0.2.1):
     - ReactNativeCore/callinvoker
     - ReactNativeCore/cxxreact
     - ReactNativeCore/Default
@@ -13,7 +13,6 @@ PODS:
     - ReactNativeCore/jsi
     - ReactNativeCore/jsiexecutor
     - ReactNativeCore/jsinspector
-    - ReactNativeCore/RCTActionSheet
     - ReactNativeCore/RCTAnimation
     - ReactNativeCore/RCTBlob
     - ReactNativeCore/RCTImage
@@ -23,15 +22,15 @@ PODS:
     - ReactNativeCore/RCTSettings
     - ReactNativeCore/RCTText
     - ReactNativeCore/RCTVibration
-  - ReactNativeCore/callinvoker (0.1.0)
-  - ReactNativeCore/cxxreact (0.1.0):
+  - ReactNativeCore/callinvoker (0.2.1)
+  - ReactNativeCore/cxxreact (0.2.1):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
     - ReactNativeCore/callinvoker
     - ReactNativeCore/folly
     - ReactNativeCore/jsinspector
-  - ReactNativeCore/Default (0.1.0):
+  - ReactNativeCore/Default (0.2.1):
     - glog (= 0.3.4)
     - ReactNativeCore/callinvoker
     - ReactNativeCore/cxxreact
@@ -42,81 +41,76 @@ PODS:
     - ReactNativeCore/jsinspector
     - ReactNativeCore/RCTRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/FBLazyVector (0.1.0)
-  - ReactNativeCore/folly (0.1.0):
+  - ReactNativeCore/FBLazyVector (0.2.1)
+  - ReactNativeCore/folly (0.2.1):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-  - ReactNativeCore/jsi (0.1.0):
+  - ReactNativeCore/jsi (0.2.1):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
     - ReactNativeCore/folly
-  - ReactNativeCore/jsiexecutor (0.1.0):
+  - ReactNativeCore/jsiexecutor (0.2.1):
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
     - ReactNativeCore/cxxreact
     - ReactNativeCore/folly
     - ReactNativeCore/jsi
-  - ReactNativeCore/jsinspector (0.1.0)
-  - ReactNativeCore/RCTActionSheet (0.1.0):
-    - ReactNativeCore/Default
-  - ReactNativeCore/RCTAnimation (0.1.0):
+  - ReactNativeCore/jsinspector (0.2.1)
+  - ReactNativeCore/RCTAnimation (0.2.1):
     - ReactNativeCore/Default
     - ReactNativeCore/folly
     - ReactNativeCore/jsi
-  - ReactNativeCore/RCTBlob (0.1.0):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-    - ReactNativeCore/RCTNetwork
-  - ReactNativeCore/RCTImage (0.1.0):
+  - ReactNativeCore/RCTBlob (0.2.1):
     - ReactNativeCore/Default
     - ReactNativeCore/folly
     - ReactNativeCore/jsi
     - ReactNativeCore/RCTNetwork
-  - ReactNativeCore/RCTLinking (0.1.0):
+  - ReactNativeCore/RCTImage (0.2.1):
     - ReactNativeCore/Default
     - ReactNativeCore/folly
     - ReactNativeCore/jsi
-  - ReactNativeCore/RCTNetwork (0.1.0):
+    - ReactNativeCore/RCTNetwork
+  - ReactNativeCore/RCTLinking (0.2.1):
     - ReactNativeCore/Default
     - ReactNativeCore/folly
     - ReactNativeCore/jsi
-  - ReactNativeCore/RCTRequired (0.1.0)
-  - ReactNativeCore/RCTSettings (0.1.0):
+  - ReactNativeCore/RCTNetwork (0.2.1):
     - ReactNativeCore/Default
     - ReactNativeCore/folly
     - ReactNativeCore/jsi
-  - ReactNativeCore/RCTText (0.1.0):
+  - ReactNativeCore/RCTRequired (0.2.1)
+  - ReactNativeCore/RCTSettings (0.2.1):
     - ReactNativeCore/Default
-  - ReactNativeCore/RCTVibration (0.1.0):
+    - ReactNativeCore/folly
+    - ReactNativeCore/jsi
+  - ReactNativeCore/RCTText (0.2.1):
+    - ReactNativeCore/Default
+  - ReactNativeCore/RCTVibration (0.2.1):
     - ReactNativeCore/Default
     - ReactNativeCore/folly
     - ReactNativeCore/jsi
   - Yoga (1.14.0)
 
 DEPENDENCIES:
-  - ReactNativeCore (from `../`)
+  - ReactNativeCore
 
 SPEC REPOS:
   trunk:
     - boost-for-react-native
     - DoubleConversion
     - glog
+    - ReactNativeCore
     - Yoga
-
-EXTERNAL SOURCES:
-  ReactNativeCore:
-    :path: "../"
 
 SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
   glog: 1de0bb937dccdc981596d3b5825ebfb765017ded
-  ReactNativeCore: 2972e84ea86cbd1940a4385e6e4cae212c9140f6
+  ReactNativeCore: 13e047ca0cfa1ec3164e097a91c39766695ecb43
   Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
 
-PODFILE CHECKSUM: ea8e1c68c75e53c8dd1c5c5de68612a820bb3696
+PODFILE CHECKSUM: a6f917771fdf2a7cf90dc193f7c61becb179715e
 
 COCOAPODS: 1.10.1
