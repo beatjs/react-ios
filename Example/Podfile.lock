@@ -2,115 +2,118 @@ PODS:
   - boost-for-react-native (1.63.0)
   - DoubleConversion (1.1.5)
   - glog (0.3.4)
-  - ReactNativeCore (0.2.1):
-    - ReactNativeCore/All (= 0.2.1)
-  - ReactNativeCore/All (0.2.1):
-    - ReactNativeCore/callinvoker
-    - ReactNativeCore/cxxreact
-    - ReactNativeCore/Default
-    - ReactNativeCore/FBLazyVector
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-    - ReactNativeCore/jsiexecutor
-    - ReactNativeCore/jsinspector
-    - ReactNativeCore/RCTAnimation
-    - ReactNativeCore/RCTBlob
-    - ReactNativeCore/RCTImage
-    - ReactNativeCore/RCTLinking
-    - ReactNativeCore/RCTNetwork
-    - ReactNativeCore/RCTRequired
-    - ReactNativeCore/RCTSettings
-    - ReactNativeCore/RCTText
-    - ReactNativeCore/RCTVibration
-  - ReactNativeCore/callinvoker (0.2.1)
-  - ReactNativeCore/cxxreact (0.2.1):
+  - react-ios (0.63.4.0):
+    - react-ios/All (= 0.63.4.0)
+  - react-ios/All (0.63.4.0):
+    - react-ios/callinvoker
+    - react-ios/cxxreact
+    - react-ios/Default
+    - react-ios/FBLazyVector
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/jsiexecutor
+    - react-ios/jsinspector
+    - react-ios/RCTAnimation
+    - react-ios/RCTBlob
+    - react-ios/RCTImage
+    - react-ios/RCTLinking
+    - react-ios/RCTNetwork
+    - react-ios/RCTRequired
+    - react-ios/RCTSettings
+    - react-ios/RCTText
+    - react-ios/RCTVibration
+  - react-ios/callinvoker (0.63.4.0)
+  - react-ios/cxxreact (0.63.4.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCore/callinvoker
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsinspector
-  - ReactNativeCore/Default (0.2.1):
+    - react-ios/callinvoker
+    - react-ios/folly
+    - react-ios/jsinspector
+  - react-ios/Default (0.63.4.0):
     - glog (= 0.3.4)
-    - ReactNativeCore/callinvoker
-    - ReactNativeCore/cxxreact
-    - ReactNativeCore/FBLazyVector
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-    - ReactNativeCore/jsiexecutor
-    - ReactNativeCore/jsinspector
-    - ReactNativeCore/RCTRequired
+    - react-ios/callinvoker
+    - react-ios/cxxreact
+    - react-ios/FBLazyVector
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/jsiexecutor
+    - react-ios/jsinspector
+    - react-ios/RCTRequired
     - Yoga (= 1.14.0)
-  - ReactNativeCore/FBLazyVector (0.2.1)
-  - ReactNativeCore/folly (0.2.1):
+  - react-ios/FBLazyVector (0.63.4.0)
+  - react-ios/folly (0.63.4.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-  - ReactNativeCore/jsi (0.2.1):
+  - react-ios/jsi (0.63.4.0):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCore/folly
-  - ReactNativeCore/jsiexecutor (0.2.1):
+    - react-ios/folly
+  - react-ios/jsiexecutor (0.63.4.0):
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - ReactNativeCore/cxxreact
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-  - ReactNativeCore/jsinspector (0.2.1)
-  - ReactNativeCore/RCTAnimation (0.2.1):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-  - ReactNativeCore/RCTBlob (0.2.1):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-    - ReactNativeCore/RCTNetwork
-  - ReactNativeCore/RCTImage (0.2.1):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-    - ReactNativeCore/RCTNetwork
-  - ReactNativeCore/RCTLinking (0.2.1):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-  - ReactNativeCore/RCTNetwork (0.2.1):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-  - ReactNativeCore/RCTRequired (0.2.1)
-  - ReactNativeCore/RCTSettings (0.2.1):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
-  - ReactNativeCore/RCTText (0.2.1):
-    - ReactNativeCore/Default
-  - ReactNativeCore/RCTVibration (0.2.1):
-    - ReactNativeCore/Default
-    - ReactNativeCore/folly
-    - ReactNativeCore/jsi
+    - react-ios/cxxreact
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/jsinspector (0.63.4.0)
+  - react-ios/RCTAnimation (0.63.4.0):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTBlob (0.63.4.0):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/RCTNetwork
+  - react-ios/RCTImage (0.63.4.0):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/RCTNetwork
+  - react-ios/RCTLinking (0.63.4.0):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTNetwork (0.63.4.0):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTRequired (0.63.4.0)
+  - react-ios/RCTSettings (0.63.4.0):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTText (0.63.4.0):
+    - react-ios/Default
+  - react-ios/RCTVibration (0.63.4.0):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
   - Yoga (1.14.0)
 
 DEPENDENCIES:
-  - ReactNativeCore
+  - react-ios (from `../`)
 
 SPEC REPOS:
   trunk:
     - boost-for-react-native
     - DoubleConversion
     - glog
-    - ReactNativeCore
     - Yoga
+
+EXTERNAL SOURCES:
+  react-ios:
+    :path: "../"
 
 SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
   glog: 1de0bb937dccdc981596d3b5825ebfb765017ded
-  ReactNativeCore: 13e047ca0cfa1ec3164e097a91c39766695ecb43
+  react-ios: 10f44801d6ad4891337ba0844188a723ea1a70bf
   Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
 
-PODFILE CHECKSUM: a6f917771fdf2a7cf90dc193f7c61becb179715e
+PODFILE CHECKSUM: e4633d064e09c152a34737581b73aac08658fbb8
 
 COCOAPODS: 1.10.1
