@@ -1,9 +1,9 @@
-# ReactNativeCore
+# react-ios
 
-[![CI Status](https://img.shields.io/travis/beatjs/ReactNativeCore.svg?style=flat)](https://travis-ci.org/beatjs/ReactNativeCore)
-[![Version](https://img.shields.io/cocoapods/v/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/ReactNativeCore)
-[![License](https://img.shields.io/cocoapods/l/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/ReactNativeCore)
-[![Platform](https://img.shields.io/cocoapods/p/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/ReactNativeCore)
+[![CI Status](https://img.shields.io/travis/beatjs/ReactNativeCore.svg?style=flat)](https://travis-ci.org/beatjs/react-ios)
+[![Version](https://img.shields.io/cocoapods/v/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/react-ios)
+[![License](https://img.shields.io/cocoapods/l/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/react-ios)
+[![Platform](https://img.shields.io/cocoapods/p/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/react-ios)
 
 ## Example
 
@@ -17,7 +17,7 @@ ReactNativeCore is available through [CocoaPods](https://cocoapods.org). To inst
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ReactNativeCore'
+pod 'react-ios'
 ```
 
 ## Author
