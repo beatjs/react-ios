@@ -111,7 +111,7 @@ SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
   glog: 1de0bb937dccdc981596d3b5825ebfb765017ded
-  react-ios: 10f44801d6ad4891337ba0844188a723ea1a70bf
+  react-ios: 7675d56bf5272f5d368352feeb6897a20e3c97dc
   Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
 
 PODFILE CHECKSUM: e4633d064e09c152a34737581b73aac08658fbb8

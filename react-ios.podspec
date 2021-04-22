@@ -224,7 +224,7 @@ Pod::Spec.new do |s|
 
   s.subspec "RCTAnimation" do |ss|
     ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
-    ss.source_files = "Libraries/NativeAnimation/{Drivers/*,Nodes/*,*}.{h}"
+    ss.source_files = "Libraries/NativeAnimation/{Drivers/*,Nodes/*,*}.{h,m,mm}"
 
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"

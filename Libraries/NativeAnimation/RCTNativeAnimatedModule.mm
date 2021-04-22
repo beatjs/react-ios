@@ -5,11 +5,11 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#import <FBReactNativeSpec/FBReactNativeSpec.h>
+#import <React/FBReactNativeSpec.h>
 #import <React/RCTNativeAnimatedModule.h>
 #import <React/RCTNativeAnimatedNodesManager.h>
 
-#import <RCTTypeSafety/RCTConvertHelpers.h>
+#import <React/RCTConvertHelpers.h>
 
 #import "RCTAnimationPlugins.h"
 
