@@ -109,7 +109,7 @@ Pod::Spec.new do |s|
   
   #import <React/*>
   s.subspec "jsi" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/jsi/**/*.{h,cpp}"
     ss.private_header_files =
@@ -124,7 +124,7 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "callinvoker" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/callinvoker/ReactCommon/**/*.{h}"
     ss.private_header_files =
@@ -133,7 +133,7 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "jsinspector" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/jsinspector/**/*.{h,cpp}"
     ss.private_header_files =
@@ -142,7 +142,7 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "cxxreact" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/cxxreact/**/*.{h,cpp}"
     ss.private_header_files =
@@ -159,7 +159,7 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "jsiexecutor" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/jsiexecutor/jsireact/**/*.{h,cpp}"
     ss.private_header_files =
@@ -174,7 +174,7 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "RCTRequired" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "Libraries/RCTRequired/**/*.{h,mm}"
     ss.private_header_files =
@@ -183,7 +183,7 @@ Pod::Spec.new do |s|
   
   #import <React/*>
   s.subspec "FBLazyVector" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "Libraries/FBLazyVector/FBLazyVector/**/*.{h}"
     ss.private_header_files =
@@ -191,7 +191,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "Default" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "React/**/*.{c,h,m,mm,S,cpp}",
     "Libraries/TypeSafety/**/*.{h,mm}",
@@ -223,7 +223,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTAnimation" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/NativeAnimation/{Drivers/*,Nodes/*,*}.{h,m,mm}"
 
     ss.dependency "react-ios/folly"
@@ -232,7 +232,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTNetwork" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Network/*.{h,m,mm}"
 
     ss.dependency "react-ios/folly"
@@ -241,7 +241,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTBlob" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Blob/**/*.{h,m,mm}"
     ss.private_header_files =
     "Libraries/Blob/RCTBlobCollector.h",
@@ -254,7 +254,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTImage" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Image/*.{h,m,mm}"
 
     ss.dependency "react-ios/folly"
@@ -264,7 +264,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTLinking" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/LinkingIOS/*.{h,m,mm}"
 
     ss.dependency "react-ios/folly"
@@ -273,7 +273,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTSettings" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Settings/*.{h,m,mm}"
 
     ss.dependency "react-ios/folly"
@@ -282,14 +282,14 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTText" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Text/**/*.{h,m,mm}"
 
     ss.dependency "react-ios/Default"
   end
 
   s.subspec "RCTVibration" do |ss|
-    ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Vibration/*.{h,m,mm}"
 
     ss.dependency "react-ios/folly"

@@ -8,6 +8,7 @@
 
 @import UIKit;
 @import React;
+@import Expo;
 
 @interface RNCAppDelegate : UIResponder <UIApplicationDelegate>
 
