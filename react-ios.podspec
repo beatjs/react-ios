@@ -15,7 +15,7 @@ yoga_version = "1.14.0"
 
 Pod::Spec.new do |s|
   s.name = "react-ios"
-  s.version = "0.63.4.1"
+  s.version = "0.63.4.2"
   s.summary = "An runtime base on react-native."
   s.description =
   <<-DESC
@@ -27,7 +27,6 @@ Pod::Spec.new do |s|
   s.author = { "Liam Xu" => "liamxujia@outlook.com" }
   s.source = { :git => "https://github.com/beatjs/react-ios.git", :tag => s.version.to_s }
   s.platforms = { :ios => "11.0"}
-  s.resource_bundle = { "AccessibilityResources" => ["React/AccessibilityResources/*.lproj"]}
   s.header_dir = "React"
   s.library = "stdc++"
   s.framework = 
@@ -39,9 +38,17 @@ Pod::Spec.new do |s|
     "DEFINES_MODULE" => "YES"
   }
   s.compiler_flags = folly_compiler_flags + " " + boost_compiler_flags
-  s.default_subspec = "All"
+  s.default_subspec = "source"
   
-  s.subspec "All" do |ss|
+  s.subspec "framework" do |ss|
+    ss.vendored_frameworks = "#{s.module_name}.xcframework"
+    ss.dependency "boost-for-react-native", boost_for_react_native_version
+    ss.dependency "DoubleConversion", double_conversion_version
+    ss.dependency "glog", glog_version
+    ss.dependency "Yoga", yoga_version
+  end
+
+  s.subspec "source" do |ss|
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/callinvoker"
@@ -109,7 +116,6 @@ Pod::Spec.new do |s|
   
   #import <React/*>
   s.subspec "jsi" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/jsi/**/*.{h,cpp}"
     ss.private_header_files =
@@ -124,7 +130,6 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "callinvoker" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/callinvoker/ReactCommon/**/*.{h}"
     ss.private_header_files =
@@ -133,7 +138,6 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "jsinspector" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/jsinspector/**/*.{h,cpp}"
     ss.private_header_files =
@@ -142,7 +146,6 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "cxxreact" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/cxxreact/**/*.{h,cpp}"
     ss.private_header_files =
@@ -159,7 +162,6 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "jsiexecutor" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "ReactCommon/jsiexecutor/jsireact/**/*.{h,cpp}"
     ss.private_header_files =
@@ -174,7 +176,6 @@ Pod::Spec.new do |s|
 
   #import <React/*>
   s.subspec "RCTRequired" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "Libraries/RCTRequired/**/*.{h,mm}"
     ss.private_header_files =
@@ -183,7 +184,6 @@ Pod::Spec.new do |s|
   
   #import <React/*>
   s.subspec "FBLazyVector" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files =
     "Libraries/FBLazyVector/FBLazyVector/**/*.{h}"
     ss.private_header_files =
@@ -191,7 +191,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "Default" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
+    ss.resource_bundle = { "AccessibilityResources" => ["React/AccessibilityResources/*.lproj"]}
     ss.source_files =
     "React/**/*.{c,h,m,mm,S,cpp}",
     "Libraries/TypeSafety/**/*.{h,mm}",
@@ -223,30 +223,24 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTAnimation" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/NativeAnimation/{Drivers/*,Nodes/*,*}.{h,m,mm}"
-
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/Default"
   end
 
   s.subspec "RCTNetwork" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Network/*.{h,m,mm}"
-
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/Default"
   end
 
   s.subspec "RCTBlob" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Blob/**/*.{h,m,mm}"
     ss.private_header_files =
     "Libraries/Blob/RCTBlobCollector.h",
     "Libraries/Blob/RCTBlobPlugins.h"
-
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/Default"
@@ -254,9 +248,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTImage" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Image/*.{h,m,mm}"
-
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/Default"
@@ -264,34 +256,26 @@ Pod::Spec.new do |s|
   end
 
   s.subspec "RCTLinking" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/LinkingIOS/*.{h,m,mm}"
-
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/Default"
   end
 
   s.subspec "RCTSettings" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Settings/*.{h,m,mm}"
-
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/Default"
   end
 
   s.subspec "RCTText" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Text/**/*.{h,m,mm}"
-
     ss.dependency "react-ios/Default"
   end
 
   s.subspec "RCTVibration" do |ss|
-    # ss.pod_target_xcconfig = { "USE_HEADERMAP" => "YES" }
     ss.source_files = "Libraries/Vibration/*.{h,m,mm}"
-
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/Default"

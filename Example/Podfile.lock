@@ -1,149 +1,22 @@
 PODS:
   - boost-for-react-native (1.63.0)
   - DoubleConversion (1.1.5)
-  - DVAssetLoaderDelegate (0.3.3)
   - glog (0.3.4)
-  - libwebp (1.2.0):
-    - libwebp/demux (= 1.2.0)
-    - libwebp/mux (= 1.2.0)
-    - libwebp/webp (= 1.2.0)
-  - libwebp/demux (1.2.0):
-    - libwebp/webp
-  - libwebp/mux (1.2.0):
-    - libwebp/demux
-  - libwebp/webp (1.2.0)
-  - lottie-ios (3.1.9)
-  - react-component (1.0.0):
-    - DVAssetLoaderDelegate (~> 0.3.1)
-    - lottie-ios (~> 3.1.8)
-    - react-ios (~> 0.63.4.1)
-    - SDWebImage (~> 5.8)
-    - SDWebImageWebPCoder (~> 0.6.1)
-    - Sentry (~> 6.1.4)
-    - SPTPersistentCache (~> 1.1.0)
-  - react-expo (0.0.1):
-    - react-component (~> 1.0.0)
-    - react-ios (~> 0.63.4.1)
-  - react-ios (0.63.4.1):
-    - react-ios/All (= 0.63.4.1)
-  - react-ios/All (0.63.4.1):
-    - react-ios/callinvoker
-    - react-ios/cxxreact
-    - react-ios/Default
-    - react-ios/FBLazyVector
-    - react-ios/folly
-    - react-ios/jsi
-    - react-ios/jsiexecutor
-    - react-ios/jsinspector
-    - react-ios/RCTAnimation
-    - react-ios/RCTBlob
-    - react-ios/RCTImage
-    - react-ios/RCTLinking
-    - react-ios/RCTNetwork
-    - react-ios/RCTRequired
-    - react-ios/RCTSettings
-    - react-ios/RCTText
-    - react-ios/RCTVibration
-  - react-ios/callinvoker (0.63.4.1)
-  - react-ios/cxxreact (0.63.4.1):
+  - react-ios/framework (0.63.4.1):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
-    - react-ios/callinvoker
-    - react-ios/folly
-    - react-ios/jsinspector
-  - react-ios/Default (0.63.4.1):
-    - glog (= 0.3.4)
-    - react-ios/callinvoker
-    - react-ios/cxxreact
-    - react-ios/FBLazyVector
-    - react-ios/folly
-    - react-ios/jsi
-    - react-ios/jsiexecutor
-    - react-ios/jsinspector
-    - react-ios/RCTRequired
     - Yoga (= 1.14.0)
-  - react-ios/FBLazyVector (0.63.4.1)
-  - react-ios/folly (0.63.4.1):
-    - boost-for-react-native (= 1.63.0)
-    - DoubleConversion (= 1.1.5)
-    - glog (= 0.3.4)
-  - react-ios/jsi (0.63.4.1):
-    - boost-for-react-native (= 1.63.0)
-    - DoubleConversion (= 1.1.5)
-    - glog (= 0.3.4)
-    - react-ios/folly
-  - react-ios/jsiexecutor (0.63.4.1):
-    - DoubleConversion (= 1.1.5)
-    - glog (= 0.3.4)
-    - react-ios/cxxreact
-    - react-ios/folly
-    - react-ios/jsi
-  - react-ios/jsinspector (0.63.4.1)
-  - react-ios/RCTAnimation (0.63.4.1):
-    - react-ios/Default
-    - react-ios/folly
-    - react-ios/jsi
-  - react-ios/RCTBlob (0.63.4.1):
-    - react-ios/Default
-    - react-ios/folly
-    - react-ios/jsi
-    - react-ios/RCTNetwork
-  - react-ios/RCTImage (0.63.4.1):
-    - react-ios/Default
-    - react-ios/folly
-    - react-ios/jsi
-    - react-ios/RCTNetwork
-  - react-ios/RCTLinking (0.63.4.1):
-    - react-ios/Default
-    - react-ios/folly
-    - react-ios/jsi
-  - react-ios/RCTNetwork (0.63.4.1):
-    - react-ios/Default
-    - react-ios/folly
-    - react-ios/jsi
-  - react-ios/RCTRequired (0.63.4.1)
-  - react-ios/RCTSettings (0.63.4.1):
-    - react-ios/Default
-    - react-ios/folly
-    - react-ios/jsi
-  - react-ios/RCTText (0.63.4.1):
-    - react-ios/Default
-  - react-ios/RCTVibration (0.63.4.1):
-    - react-ios/Default
-    - react-ios/folly
-    - react-ios/jsi
-  - SDWebImage (5.11.1):
-    - SDWebImage/Core (= 5.11.1)
-  - SDWebImage/Core (5.11.1)
-  - SDWebImageWebPCoder (0.6.1):
-    - libwebp (~> 1.0)
-    - SDWebImage/Core (~> 5.7)
-  - Sentry (6.1.4):
-    - Sentry/Core (= 6.1.4)
-  - Sentry/Core (6.1.4)
-  - SPTPersistentCache (1.1.0)
   - Yoga (1.14.0)
 
 DEPENDENCIES:
-  - react-component
-  - react-expo
-  - react-ios (from `../`)
+  - react-ios/framework (from `../`)
 
 SPEC REPOS:
   trunk:
     - boost-for-react-native
     - DoubleConversion
-    - DVAssetLoaderDelegate
     - glog
-    - libwebp
-    - lottie-ios
-    - react-component
-    - react-expo
-    - SDWebImage
-    - SDWebImageWebPCoder
-    - Sentry
-    - SPTPersistentCache
     - Yoga
 
 EXTERNAL SOURCES:
@@ -153,19 +26,10 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
-  DVAssetLoaderDelegate: 0caec20e4e08b8560b691131539e9180024d4bce
   glog: 1de0bb937dccdc981596d3b5825ebfb765017ded
-  libwebp: e90b9c01d99205d03b6bb8f2c8c415e5a4ef66f0
-  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
-  react-component: 33619ff556e5f7d0e8df6ba2976b79382f7af137
-  react-expo: 6bde3c2820ea764caf1321a1f1846aa0cc801040
-  react-ios: b7559a8cb53134256a8e00793ab9ec828a42acbe
-  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
-  SDWebImageWebPCoder: d0dac55073088d24b2ac1b191a71a8f8d0adac21
-  Sentry: 9d055e2de30a77685e86b219acf02e59b82091fc
-  SPTPersistentCache: df36ea46762d7cf026502bbb86a8b79d0080dff4
+  react-ios: 56486cebeb7e2008be087cc284ef9302ae5e2cae
   Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
 
-PODFILE CHECKSUM: 5559c8bfa86b31441e9210a452eb57329d8489c9
+PODFILE CHECKSUM: 10f9cf722d267339dd976b9693ed2dc54ff9a3c5
 
 COCOAPODS: 1.10.1
