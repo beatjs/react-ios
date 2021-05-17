@@ -200,7 +200,7 @@ Pod::Spec.new do |s|
     "Libraries/WebSocket/*.{h,m}",
     "React/DevSupport/*.{h,mm,m}",
     "React/Inspector/*.{h,mm,m}"
-    ss.exclude_files =
+    ss.exclude_files = 
     "React/Fabric/**/*",
     "ReactCommon/turbomodule/core/platform/android/**/*"
     ss.private_header_files = 
