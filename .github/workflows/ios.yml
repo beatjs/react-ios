@@ -19,6 +19,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install CocoaPods
-      run: brew install cocoapods
+      run: pod --version
     - name: Pod lib lint
       run: pod lib lint react-ios.podspec --allow-warnings --verbose --no-clean
