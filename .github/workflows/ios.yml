@@ -18,7 +18,7 @@ jobs:
         destination: ["OS=14.4,name=iPhone 12 Pro"] #, "OS=12.4,name=iPhone XS", "OS=11.4,name=iPhone X", "OS=10.3.1,name=iPhone SE"]
     steps:
     - uses: actions/checkout@v2
-    - name: Install Cocopods
-      run: brew install cocopods
+    - name: Install CocoaPods
+      run: brew install cocoapods
     - name: Pod lib lint
     - run: pod lib lint react-ios.podspec --allow-warnings --verbose --no-clean
