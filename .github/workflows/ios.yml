@@ -21,4 +21,4 @@ jobs:
     - name: Install CocoaPods
       run: brew install cocoapods
     - name: Pod lib lint
-    - run: pod lib lint react-ios.podspec --allow-warnings --verbose --no-clean
+      run: pod lib lint react-ios.podspec --allow-warnings --verbose --no-clean
