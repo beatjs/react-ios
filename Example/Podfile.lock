@@ -13,21 +13,232 @@ PODS:
     - libwebp/demux
   - libwebp/webp (1.2.0)
   - lottie-ios (3.1.9)
-  - react-component/framework (1.1.0):
-    - DVAssetLoaderDelegate (~> 0.3.1)
+  - react-component (1.1.0):
+    - react-component/source (= 1.1.0)
+  - react-component/lottie-react-native (1.1.0):
     - lottie-ios (~> 3.1.8)
-    - react-ios/framework (~> 0.63.4.2)
+    - react-ios (~> 0.63.4.1)
+  - react-component/react-native-get-random-values (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/react-native-image-resizer (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/react-native-safe-area-context (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/react-native-video (1.1.0):
+    - DVAssetLoaderDelegate (~> 0.3.1)
+    - react-ios (~> 0.63.4.1)
+    - SPTPersistentCache (~> 1.1.0)
+  - react-component/react-native-webview (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/RNCMaskedView (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/RNDeviceInfo (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/RNFastImage (1.1.0):
+    - react-ios (~> 0.63.4.1)
     - SDWebImage (~> 5.8)
     - SDWebImageWebPCoder (~> 0.6.1)
+  - react-component/RNGestureHandler (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/RNReanimated (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/RNScreens (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/RNSentry (1.1.0):
+    - react-ios (~> 0.63.4.1)
     - Sentry (~> 6.1.4)
-    - SPTPersistentCache (~> 1.1.0)
-  - react-expo/framework (1.1.0):
-    - react-component/framework (~> 1.1.0)
-  - react-ios/framework (0.63.4.2):
+  - react-component/RNVectorIcons (1.1.0):
+    - react-ios (~> 0.63.4.1)
+  - react-component/source (1.1.0):
+    - react-component/lottie-react-native
+    - react-component/react-native-get-random-values
+    - react-component/react-native-image-resizer
+    - react-component/react-native-safe-area-context
+    - react-component/react-native-video
+    - react-component/react-native-webview
+    - react-component/RNCMaskedView
+    - react-component/RNDeviceInfo
+    - react-component/RNFastImage
+    - react-component/RNGestureHandler
+    - react-component/RNReanimated
+    - react-component/RNScreens
+    - react-component/RNSentry
+    - react-component/RNVectorIcons
+  - react-expo (1.1.0):
+    - react-expo/source (= 1.1.0)
+  - react-expo/EXApplication (1.1.0):
+    - react-expo/UMCore
+  - react-expo/EXConstants (1.1.0):
+    - react-expo/UMConstantsInterface
+    - react-expo/UMCore
+  - react-expo/EXErrorRecovery (1.1.0):
+    - react-expo/UMCore
+  - react-expo/EXFileSystem (1.1.0):
+    - react-expo/UMCore
+    - react-expo/UMFileSystemInterface
+    - react-ios (~> 0.63.4.1)
+  - react-expo/EXFont (1.1.0):
+    - react-expo/UMCore
+    - react-expo/UMFontInterface
+  - react-expo/EXImageLoader (1.1.0):
+    - react-expo/UMCore
+    - react-expo/UMImageLoaderInterface
+    - react-ios (~> 0.63.4.1)
+  - react-expo/EXKeepAwake (1.1.0):
+    - react-expo/UMCore
+  - react-expo/EXPermissions (1.1.0):
+    - react-expo/UMCore
+    - react-expo/UMPermissionsInterface
+  - react-expo/EXSplashScreen (1.1.0):
+    - react-expo/UMCore
+    - react-ios (~> 0.63.4.1)
+  - react-expo/EXStructuredHeaders (1.1.0):
+    - react-expo/UMCore
+  - react-expo/EXUpdates (1.1.0):
+    - react-expo/EXStructuredHeaders
+    - react-expo/UMCore
+    - react-ios (~> 0.63.4.1)
+  - react-expo/EXWebBrowser (1.1.0):
+    - react-expo/UMCore
+  - react-expo/source (1.1.0):
+    - react-component (~> 1.1.0)
+    - react-expo/EXApplication
+    - react-expo/EXConstants
+    - react-expo/EXErrorRecovery
+    - react-expo/EXFileSystem
+    - react-expo/EXFont
+    - react-expo/EXImageLoader
+    - react-expo/EXKeepAwake
+    - react-expo/EXPermissions
+    - react-expo/EXSplashScreen
+    - react-expo/EXStructuredHeaders
+    - react-expo/EXUpdates
+    - react-expo/EXWebBrowser
+    - react-expo/UMAppLoader
+    - react-expo/UMBarCodeScannerInterface
+    - react-expo/UMCameraInterface
+    - react-expo/UMConstantsInterface
+    - react-expo/UMCore
+    - react-expo/UMFaceDetectorInterface
+    - react-expo/UMFileSystemInterface
+    - react-expo/UMFontInterface
+    - react-expo/UMImageLoaderInterface
+    - react-expo/UMPermissionsInterface
+    - react-expo/UMReactNativeAdapter
+    - react-expo/UMSensorsInterface
+    - react-expo/UMTaskManagerInterface
+  - react-expo/UMAppLoader (1.1.0)
+  - react-expo/UMBarCodeScannerInterface (1.1.0):
+    - react-expo/UMCore
+  - react-expo/UMCameraInterface (1.1.0):
+    - react-expo/UMCore
+  - react-expo/UMConstantsInterface (1.1.0):
+    - react-expo/UMCore
+  - react-expo/UMCore (1.1.0)
+  - react-expo/UMFaceDetectorInterface (1.1.0)
+  - react-expo/UMFileSystemInterface (1.1.0)
+  - react-expo/UMFontInterface (1.1.0)
+  - react-expo/UMImageLoaderInterface (1.1.0)
+  - react-expo/UMPermissionsInterface (1.1.0):
+    - react-expo/UMCore
+  - react-expo/UMReactNativeAdapter (1.1.0):
+    - react-expo/UMCore
+    - react-expo/UMFontInterface
+    - react-expo/UMPermissionsInterface
+    - react-ios (~> 0.63.4.1)
+  - react-expo/UMSensorsInterface (1.1.0):
+    - react-expo/UMCore
+  - react-expo/UMTaskManagerInterface (1.1.0):
+    - react-expo/UMCore
+  - react-ios (0.63.4.2):
+    - react-ios/source (= 0.63.4.2)
+  - react-ios/callinvoker (0.63.4.2)
+  - react-ios/cxxreact (0.63.4.2):
     - boost-for-react-native (= 1.63.0)
     - DoubleConversion (= 1.1.5)
     - glog (= 0.3.4)
+    - react-ios/callinvoker
+    - react-ios/folly
+    - react-ios/jsinspector
+  - react-ios/Default (0.63.4.2):
+    - glog (= 0.3.4)
+    - react-ios/callinvoker
+    - react-ios/cxxreact
+    - react-ios/FBLazyVector
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/jsiexecutor
+    - react-ios/jsinspector
+    - react-ios/RCTRequired
     - Yoga (= 1.14.0)
+  - react-ios/FBLazyVector (0.63.4.2)
+  - react-ios/folly (0.63.4.2):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+  - react-ios/jsi (0.63.4.2):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - react-ios/folly
+  - react-ios/jsiexecutor (0.63.4.2):
+    - DoubleConversion (= 1.1.5)
+    - glog (= 0.3.4)
+    - react-ios/cxxreact
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/jsinspector (0.63.4.2)
+  - react-ios/RCTAnimation (0.63.4.2):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTBlob (0.63.4.2):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/RCTNetwork
+  - react-ios/RCTImage (0.63.4.2):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/RCTNetwork
+  - react-ios/RCTLinking (0.63.4.2):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTNetwork (0.63.4.2):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTRequired (0.63.4.2)
+  - react-ios/RCTSettings (0.63.4.2):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/RCTText (0.63.4.2):
+    - react-ios/Default
+  - react-ios/RCTVibration (0.63.4.2):
+    - react-ios/Default
+    - react-ios/folly
+    - react-ios/jsi
+  - react-ios/source (0.63.4.2):
+    - react-ios/callinvoker
+    - react-ios/cxxreact
+    - react-ios/Default
+    - react-ios/FBLazyVector
+    - react-ios/folly
+    - react-ios/jsi
+    - react-ios/jsiexecutor
+    - react-ios/jsinspector
+    - react-ios/RCTAnimation
+    - react-ios/RCTBlob
+    - react-ios/RCTImage
+    - react-ios/RCTLinking
+    - react-ios/RCTNetwork
+    - react-ios/RCTRequired
+    - react-ios/RCTSettings
+    - react-ios/RCTText
+    - react-ios/RCTVibration
   - SDWebImage (5.11.1):
     - SDWebImage/Core (= 5.11.1)
   - SDWebImage/Core (5.11.1)
@@ -41,9 +252,9 @@ PODS:
   - Yoga (1.14.0)
 
 DEPENDENCIES:
-  - react-component/framework (from `../../react-component`)
-  - react-expo/framework (from `../../react-expo`)
-  - react-ios/framework (from `../`)
+  - react-component (from `../../react-component`)
+  - react-expo (from `../../react-expo`)
+  - react-ios (from `../`)
 
 SPEC REPOS:
   trunk:
@@ -83,6 +294,6 @@ SPEC CHECKSUMS:
   SPTPersistentCache: df36ea46762d7cf026502bbb86a8b79d0080dff4
   Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
 
-PODFILE CHECKSUM: 051eac2def5039e9a97b0cbfccc5dba1049f10d2
+PODFILE CHECKSUM: 41892d2489ff1470cd1f43470a9ec3fc0393ddfb
 
 COCOAPODS: 1.10.1

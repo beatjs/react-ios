@@ -356,9 +356,9 @@
 				"${BUILT_PRODUCTS_DIR}/glog/glog.framework",
 				"${BUILT_PRODUCTS_DIR}/libwebp/libwebp.framework",
 				"${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/ReactComponent/ReactComponent.framework/ReactComponent",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Expo/Expo.framework/Expo",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/React/React.framework/React",
+				"${BUILT_PRODUCTS_DIR}/react-component/ReactComponent.framework",
+				"${BUILT_PRODUCTS_DIR}/react-expo/Expo.framework",
+				"${BUILT_PRODUCTS_DIR}/react-ios/React.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
