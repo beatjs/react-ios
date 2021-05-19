@@ -1,9 +1,9 @@
 # react-ios
 
-[![CI Status](https://img.shields.io/travis/beatjs/ReactNativeCore.svg?style=flat)](https://travis-ci.org/beatjs/react-ios)
-[![Version](https://img.shields.io/cocoapods/v/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/react-ios)
-[![License](https://img.shields.io/cocoapods/l/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/react-ios)
-[![Platform](https://img.shields.io/cocoapods/p/ReactNativeCore.svg?style=flat)](https://cocoapods.org/pods/react-ios)
+[![ios](https://github.com/beatjs/react-ios/actions/workflows/ios.yml/badge.svg?branch=main)](https://github.com/beatjs/react-ios/actions/workflows/ios.yml)
+[![Version](https://img.shields.io/cocoapods/v/react-ios.svg?style=flat)](https://cocoapods.org/pods/react-ios)
+[![License](https://img.shields.io/cocoapods/l/react-ios.svg?style=flat)](https://cocoapods.org/pods/react-ios)
+[![Platform](https://img.shields.io/cocoapods/p/react-ios.svg?style=flat)](https://cocoapods.org/pods/react-ios)
 
 ## Example
 
