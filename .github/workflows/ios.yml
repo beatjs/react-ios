@@ -1,4 +1,4 @@
-name: ios
+name: iOS CI with CocoaPods
 
 on:
   push:
