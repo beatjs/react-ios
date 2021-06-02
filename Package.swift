@@ -15,9 +15,9 @@ let package = Package(
     
   ],
   targets: [
-    .target(name: "DoubleConversion"),
-    .target(name: "glog"),
-    .target(name: "yoga"),
+    .target(name: "DoubleConversion", path: "Example/Pods/DoubleConversion"),
+    .target(name: "glog", path: "Example/Pods/glog"),
+    .target(name: "yoga", path: "Example/Pods/Yoga"),
     .target(name: "react-ios", dependencies: ["DoubleConversion", "glog", "yoga"])
   ]
 )
