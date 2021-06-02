@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FE86BCE50D541BEBBFCB1D9FF6F0EA14"
-               BuildableName = "React.framework"
+               BuildableName = "react-ios"
                BlueprintName = "react-ios"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE86BCE50D541BEBBFCB1D9FF6F0EA14"
-            BuildableName = "React.framework"
+            BuildableName = "react-ios"
             BlueprintName = "react-ios"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>

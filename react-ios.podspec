@@ -19,7 +19,7 @@ yoga_version = "1.14.0"
 
 Pod::Spec.new do |s|
   s.name = "react-ios"
-  s.version = "0.63.4.2"
+  s.version = "0.63.4.3"
   s.summary = "An runtime base on react-native."
   s.description =
   <<-DESC
@@ -50,10 +50,6 @@ Pod::Spec.new do |s|
     "#{double_conversion}.xcframework",
     "#{glog}.xcframework",
     "#{yoga}.xcframework"
-    # ss.dependency "boost-for-react-native", boost_for_react_native_version
-    # ss.dependency "DoubleConversion", double_conversion_version
-    # ss.dependency "glog", glog_version
-    # ss.dependency "Yoga", yoga_version
   end
 
   s.subspec "source" do |ss|
@@ -130,9 +126,6 @@ Pod::Spec.new do |s|
     "ReactCommon/jsi/**/*.{h}"
     ss.exclude_files = "ReactCommon/jsi/jsi/test"
 
-    # ss.dependency "boost-for-react-native", boost_for_react_native_version
-    # ss.dependency "DoubleConversion", double_conversion_version
-    # ss.dependency "glog", glog_version
     ss.dependency "react-ios/folly"
   end
 
@@ -160,9 +153,6 @@ Pod::Spec.new do |s|
     "ReactCommon/cxxreact/**/*.{h}"
     ss.exclude_files = "ReactCommon/cxxreact/tests"
 
-    # ss.dependency "boost-for-react-native", boost_for_react_native_version
-    # ss.dependency "DoubleConversion", double_conversion_version
-    # ss.dependency "glog", glog_version
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsinspector"
     ss.dependency "react-ios/callinvoker"
@@ -175,8 +165,6 @@ Pod::Spec.new do |s|
     ss.private_header_files =
     "ReactCommon/jsiexecutor/jsireact/**/*.{h}"
 
-    # ss.dependency "DoubleConversion", double_conversion_version
-    # ss.dependency "glog", glog_version
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/cxxreact"
