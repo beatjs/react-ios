@@ -15,6 +15,6 @@ let package = Package(
     .target(name: "DoubleConversion", path: "Example/"),
     .target(name: "glog", path: "Example/"),
     .target(name: "Yoga", path: "Example/"),
-    .target(name: "React", path: "Example/", dependencies: ["DoubleConversion", "glog", "Yoga"])
+    .target(name: "React", dependencies: ["DoubleConversion", "glog", "Yoga"], path: "Example/")
   ]
 )
