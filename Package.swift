@@ -12,9 +12,9 @@ let package = Package(
     .library(name: "yoga", targets: ["Yoga"])
   ],
   targets: [
+    .target(name: "DoubleConversion", path: "Example/"),
+    .target(name: "glog", path: "Example/"),
+    .target(name: "Yoga", path: "Example/"),
     .target(name: "React", path: "Example/", dependencies: ["DoubleConversion", "glog", "Yoga"])
-    .target(name: "DoubleConversion", path: "Example/")
-    .target(name: "glog", path: "Example/")
-    .target(name: "Yoga", path: "Example/")
   ]
 )
