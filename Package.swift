@@ -8,7 +8,7 @@ let package = Package(
   products: [
     .library(name: "DoubleConversion", targets: ["DoubleConversion"]),
     .library(name: "glog", targets: ["glog"]),
-    .library(name: "yoga", targets: ["Yoga"]),
+    .library(name: "Yoga", targets: ["Yoga"]),
     .library(name: "react-ios", targets: ["react-ios"])
   ],
   dependencies: [
