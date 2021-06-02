@@ -1,0 +1,6 @@
+framework module Pods_ReactNativeCore_Tests {
+  umbrella header "Pods-ReactNativeCore_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

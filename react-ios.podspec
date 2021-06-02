@@ -8,9 +8,13 @@
 
 folly_compiler_flags = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -Wno-comma -Wno-shorten-64-to-32"
 boost_compiler_flags = "-Wno-documentation -Wno-nullability-completeness"
+boost_for_react_native = "boost-for-react-native"
 boost_for_react_native_version = "1.63.0"
+double_conversion = "DoubleConversion"
 double_conversion_version = "1.1.5"
+glog = "glog"
 glog_version = "0.3.4"
+yoga = "yoga"
 yoga_version = "1.14.0"
 
 Pod::Spec.new do |s|
@@ -41,11 +45,15 @@ Pod::Spec.new do |s|
   s.default_subspec = "source"
   
   s.subspec "framework" do |ss|
-    ss.vendored_frameworks = "#{s.module_name}.xcframework"
-    ss.dependency "boost-for-react-native", boost_for_react_native_version
-    ss.dependency "DoubleConversion", double_conversion_version
-    ss.dependency "glog", glog_version
-    ss.dependency "Yoga", yoga_version
+    ss.vendored_frameworks =
+    "#{s.module_name}.xcframework",
+    "#{double_conversion}.xcframework",
+    "#{glog}.xcframework",
+    "#{yoga}.xcframework"
+    # ss.dependency "boost-for-react-native", boost_for_react_native_version
+    # ss.dependency "DoubleConversion", double_conversion_version
+    # ss.dependency "glog", glog_version
+    # ss.dependency "Yoga", yoga_version
   end
 
   s.subspec "source" do |ss|
@@ -122,9 +130,9 @@ Pod::Spec.new do |s|
     "ReactCommon/jsi/**/*.{h}"
     ss.exclude_files = "ReactCommon/jsi/jsi/test"
 
-    ss.dependency "boost-for-react-native", boost_for_react_native_version
-    ss.dependency "DoubleConversion", double_conversion_version
-    ss.dependency "glog", glog_version
+    # ss.dependency "boost-for-react-native", boost_for_react_native_version
+    # ss.dependency "DoubleConversion", double_conversion_version
+    # ss.dependency "glog", glog_version
     ss.dependency "react-ios/folly"
   end
 
@@ -152,9 +160,9 @@ Pod::Spec.new do |s|
     "ReactCommon/cxxreact/**/*.{h}"
     ss.exclude_files = "ReactCommon/cxxreact/tests"
 
-    ss.dependency "boost-for-react-native", boost_for_react_native_version
-    ss.dependency "DoubleConversion", double_conversion_version
-    ss.dependency "glog", glog_version
+    # ss.dependency "boost-for-react-native", boost_for_react_native_version
+    # ss.dependency "DoubleConversion", double_conversion_version
+    # ss.dependency "glog", glog_version
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsinspector"
     ss.dependency "react-ios/callinvoker"
@@ -167,8 +175,8 @@ Pod::Spec.new do |s|
     ss.private_header_files =
     "ReactCommon/jsiexecutor/jsireact/**/*.{h}"
 
-    ss.dependency "DoubleConversion", double_conversion_version
-    ss.dependency "glog", glog_version
+    # ss.dependency "DoubleConversion", double_conversion_version
+    # ss.dependency "glog", glog_version
     ss.dependency "react-ios/folly"
     ss.dependency "react-ios/jsi"
     ss.dependency "react-ios/cxxreact"

@@ -1,0 +1,6 @@
+framework module ReactComponent {
+  umbrella header "react-component-umbrella.h"
+
+  export *
+  module * { export * }
+}

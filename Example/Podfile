@@ -4,13 +4,14 @@ use_frameworks!
 inhibit_all_warnings!
 
 target 'ReactNativeCore_Example' do
-  pod 'react-ios', :path => '../'
-  pod 'react-component', :path => '../../react-component'
-  pod 'react-expo', :path => '../../react-expo'
   
-#  pod 'react-ios/framework', :path => '../'
-#  pod 'react-component/framework', :path => '../../react-component'
-#  pod 'react-expo/framework', :path => '../../react-expo'
+   pod 'react-ios', :path => '../'
+   pod 'react-component', :path => '../../react-component'
+   pod 'react-expo', :path => '../../react-expo'
+  
+# pod 'react-ios/framework', :path => '../'
+# pod 'react-component/framework', :path => '../../react-component'
+# pod 'react-expo/framework', :path => '../../react-expo'
   
   target 'ReactNativeCore_Tests' do
     inherit! :search_paths

@@ -1,0 +1,6 @@
+framework module Expo {
+  umbrella header "react-expo-umbrella.h"
+
+  export *
+  module * { export * }
+}
