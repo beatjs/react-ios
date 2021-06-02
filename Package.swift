@@ -8,13 +8,13 @@ let package = Package(
   products: [
     .library(name: "ReactNativeCore", targets: ["DoubleConversion"]),
     .library(name: "ReactNativeCore", targets: ["glog"]),
-    .library(name: "ReactNativeCore", targets: ["Yoga"]),
-    .library(name: "ReactNativeCore", targets: ["react-ios"])
+    .library(name: "ReactNativeCore", targets: ["Yoga"])
+    // .library(name: "ReactNativeCore", targets: ["react-ios"])
   ],
   targets: [
     .target(name: "DoubleConversion", path: "Example/"),
     .target(name: "glog", path: "Example/"),
-    .target(name: "Yoga", path: "Example/"),
-    .target(name: "react-ios", dependencies: ["DoubleConversion", "glog", "Yoga"], path: "Example/")
+    .target(name: "Yoga", path: "Example/")
+    // .target(name: "react-ios", dependencies: ["DoubleConversion", "glog", "Yoga"], path: "Example/")
   ]
 )
