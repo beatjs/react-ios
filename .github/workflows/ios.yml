@@ -24,4 +24,6 @@ jobs:
         cd example
         pod install --repo-update
     - name: Xcode build
-      run: xcodebuild -workspace ReactNativeCore.xcworkspace -scheme ReactNativeCore
+      run: | 
+        cd example
+        xcodebuild -workspace ReactNativeCore.xcworkspace -scheme ReactNativeCore
