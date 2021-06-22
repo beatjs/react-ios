@@ -5,13 +5,9 @@ inhibit_all_warnings!
 
 target 'ReactNativeCore_Example' do
   
-  #  pod 'react-ios', :path => '../'
-  #  pod 'react-component', :pa th => '../../react-component'
-  #  pod 'react-expo', :path => '../../react-expo'
-  
-  pod 'react-ios/framework', :path => '../'
-  pod 'react-component/framework', :path => '../../react-component'
-  pod 'react-expo/framework', :path => '../../react-expo'
+  pod 'react-ios', path: '../'
+  pod 'react-component', '~> 1.2.0'
+#  pod 'react-expo', '~> 1.1.0'
   
   target 'ReactNativeCore_Tests' do
     inherit! :search_paths

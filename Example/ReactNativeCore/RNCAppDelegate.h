@@ -8,9 +8,11 @@
 
 @import UIKit;
 @import React;
+#if __has_include(<UMModuleRegistryAdapter.h>)
 @import Expo;
+#endif
 
-@interface RNCAppDelegate : UIResponder <UIApplicationDelegate>
+@interface RNCAppDelegate : UIResponder <UIApplicationDelegate, RCTBridgeDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

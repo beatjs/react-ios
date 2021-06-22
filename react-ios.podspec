@@ -44,13 +44,13 @@ Pod::Spec.new do |s|
   s.compiler_flags = folly_compiler_flags + " " + boost_compiler_flags
   s.default_subspec = "source"
   
-  s.subspec "framework" do |ss|
-    ss.vendored_frameworks =
-    "#{s.module_name}.xcframework",
-    "#{double_conversion}.xcframework",
-    "#{glog}.xcframework",
-    "#{yoga}.xcframework"
-  end
+  # s.subspec "framework" do |ss|
+  #   ss.vendored_frameworks =
+  #   "#{s.module_name}.xcframework",
+  #   "#{double_conversion}.xcframework",
+  #   "#{glog}.xcframework",
+  #   "#{yoga}.xcframework"
+  # end
 
   s.subspec "source" do |ss|
     ss.dependency "react-ios/folly"

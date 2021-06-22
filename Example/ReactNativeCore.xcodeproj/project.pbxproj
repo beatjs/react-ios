@@ -23,10 +23,8 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
-		B57BC8862645123C00C277CF /* ReactNative.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B57BC8852645123C00C277CF /* ReactNative.bundle */; };
-		B57BC88C2645155C00C277CF /* Expo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B57BC88B2645155C00C277CF /* Expo.bundle */; };
-		B57BC8B82645502800C277CF /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = B57BC8B72645502800C277CF /* Expo.plist */; };
-		B57BC90C26463F7300C277CF /* app.config in Resources */ = {isa = PBXBuildFile; fileRef = B57BC90B26463F7100C277CF /* app.config */; };
+		B5B7E7A026818A37004B2C29 /* AwesomeProject.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B57BC8852645123C00C277CF /* AwesomeProject.bundle */; };
+		B5B7E7A326818A39004B2C29 /* ExpoProject.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B57BC88B2645155C00C277CF /* ExpoProject.bundle */; };
 		C9D5D0AB7D859C0BCD0F970E /* Pods_ReactNativeCore_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD94585345F9C532A66B49B3 /* Pods_ReactNativeCore_Example.framework */; };
 /* End PBXBuildFile section */
 
@@ -66,8 +64,8 @@
 		77791DF693BDC1C4E2EE1845 /* Pods_ReactNativeCore_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ReactNativeCore_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9FE63B998CC15B36E5884111 /* ReactNativeCore.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ReactNativeCore.podspec; path = ../ReactNativeCore.podspec; sourceTree = "<group>"; };
-		B57BC8852645123C00C277CF /* ReactNative.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ReactNative.bundle; sourceTree = "<group>"; };
-		B57BC88B2645155C00C277CF /* Expo.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Expo.bundle; sourceTree = "<group>"; };
+		B57BC8852645123C00C277CF /* AwesomeProject.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AwesomeProject.bundle; sourceTree = "<group>"; };
+		B57BC88B2645155C00C277CF /* ExpoProject.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ExpoProject.bundle; sourceTree = "<group>"; };
 		B57BC8B72645502800C277CF /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
 		B57BC90B26463F7100C277CF /* app.config */ = {isa = PBXFileReference; lastKnownFileType = text; path = app.config; sourceTree = "<group>"; };
 		B587617063A8832919675A45 /* Pods-ReactNativeCore_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeCore_Example.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeCore_Example/Pods-ReactNativeCore_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -147,8 +145,8 @@
 			isa = PBXGroup;
 			children = (
 				B57BC90B26463F7100C277CF /* app.config */,
-				B57BC8852645123C00C277CF /* ReactNative.bundle */,
-				B57BC88B2645155C00C277CF /* Expo.bundle */,
+				B57BC8852645123C00C277CF /* AwesomeProject.bundle */,
+				B57BC88B2645155C00C277CF /* ExpoProject.bundle */,
 				6003F59C195388D20070C39A /* RNCAppDelegate.h */,
 				6003F59D195388D20070C39A /* RNCAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
@@ -296,13 +294,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
-				B57BC8862645123C00C277CF /* ReactNative.bundle in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
-				B57BC88C2645155C00C277CF /* Expo.bundle in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
-				B57BC8B82645502800C277CF /* Expo.plist in Resources */,
+				B5B7E7A026818A37004B2C29 /* AwesomeProject.bundle in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
-				B57BC90C26463F7300C277CF /* app.config in Resources */,
+				B5B7E7A326818A39004B2C29 /* ExpoProject.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,34 +343,32 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ReactNativeCore_Example/Pods-ReactNativeCore_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/DVAssetLoaderDelegate/DVAssetLoaderDelegate.framework",
+				"${BUILT_PRODUCTS_DIR}/DoubleConversion/DoubleConversion.framework",
 				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
 				"${BUILT_PRODUCTS_DIR}/SDWebImageWebPCoder/SDWebImageWebPCoder.framework",
 				"${BUILT_PRODUCTS_DIR}/SPTPersistentCache/SPTPersistentCache.framework",
 				"${BUILT_PRODUCTS_DIR}/Sentry/Sentry.framework",
+				"${BUILT_PRODUCTS_DIR}/Yoga/yoga.framework",
+				"${BUILT_PRODUCTS_DIR}/glog/glog.framework",
 				"${BUILT_PRODUCTS_DIR}/libwebp/libwebp.framework",
 				"${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/ReactComponent/ReactComponent.framework/ReactComponent",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Expo/Expo.framework/Expo",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/React/React.framework/React",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/DoubleConversion/DoubleConversion.framework/DoubleConversion",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/glog/glog.framework/glog",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/yoga/yoga.framework/yoga",
+				"${BUILT_PRODUCTS_DIR}/react-component/ReactComponent.framework",
+				"${BUILT_PRODUCTS_DIR}/react-ios/React.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DVAssetLoaderDelegate.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DoubleConversion.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImageWebPCoder.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SPTPersistentCache.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Sentry.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/yoga.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/libwebp.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Lottie.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ReactComponent.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Expo.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/React.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DoubleConversion.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/yoga.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -540,14 +534,17 @@
 			baseConfigurationReference = B587617063A8832919675A45 /* Pods-ReactNativeCore_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ReactNativeCore/ReactNativeCore-Prefix.pch";
 				INFOPLIST_FILE = "ReactNativeCore/ReactNativeCore-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0;
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.ReactNativeCore-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -557,14 +554,17 @@
 			baseConfigurationReference = E6FC38DB90EEA9AE23E2FFD3 /* Pods-ReactNativeCore_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ReactNativeCore/ReactNativeCore-Prefix.pch";
 				INFOPLIST_FILE = "ReactNativeCore/ReactNativeCore-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0;
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.ReactNativeCore-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
