@@ -26,4 +26,4 @@ jobs:
     - name: Xcode build
       run: | 
         cd example
-        xcodebuild -workspace ReactNativeCore.xcworkspace -scheme ReactNativeCore
+        xcodebuild -workspace ReactNativeCore.xcworkspace -scheme ReactNativeCore-Example
