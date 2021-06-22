@@ -1,12 +1,6 @@
-name: iOS CI
+name: iOS CI with CocoaPods
 
-on:
-  push:
-    branches: 
-      - main
-  pull_request:
-    branches:
-      - '*'
+on: workflow_dispatch
 
 jobs:
   iOS:
@@ -19,11 +13,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install CocoaPods
-      run: | 
-        pod --version
-        cd example
-        pod install --repo-update
-    - name: Xcode build
-      run: | 
-        cd example
-        xcodebuild -workspace ReactNativeCore.xcworkspace -scheme ReactNativeCore-Example
+      run: pod --version
+    - name: Pod register
+      run: pod trunk register liamxujia@outlook.com 'liamxujia' --description='GitHub register to trunk.'
+    - name: Pod trunk
+      run: pod trunk push react-ios.podspec --allow-warnings --verbose
