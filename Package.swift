@@ -8,7 +8,7 @@ let package = Package(
   products: [
     .library(name: "DoubleConversion", targets: ["DoubleConversion"]),
     .library(name: "glog", targets: ["glog"]),
-    .library(name: "yoga", targets: ["Yoga"]),
+//     .library(name: "yoga", targets: ["Yoga"]),
     .library(name: "react-ios", targets: ["react-ios"])
   ],
   dependencies: [
@@ -17,7 +17,7 @@ let package = Package(
   targets: [
     .target(name: "DoubleConversion", path: "Example/"),
     .target(name: "glog", path: "Example/"),
-    .target(name: "yoga", path: "Example/"),
-    .target(name: "react-ios", path: "Example/", dependencies: ["DoubleConversion", "glog", "yoga"])
+//     .target(name: "yoga", path: "Example/"),
+    .target(name: "react-ios", dependencies: ["DoubleConversion", "glog"], path: "Example/")
   ]
 )
