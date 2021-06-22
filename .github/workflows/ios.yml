@@ -18,12 +18,15 @@ jobs:
         destination: ["OS=12.4,name=iPhone 12 Pro"] #, "OS=12.4,name=iPhone XS", "OS=11.4,name=iPhone X", "OS=10.3.1,name=iPhone SE"]
     steps:
     - uses: actions/checkout@v2
-    - name: Install CocoaPods
+    - name: CocoaPods install
       run: | 
         pod --version
         cd example
         pod install --repo-update
-    - name: Xcode build
-      run: | 
-        cd example
-        xcodebuild test -workspace ReactNativeCore.xcworkspace -scheme ReactNativeCore-Example
+    - name: Carthage build
+      run: |
+        carthage build --no-skip-current --use-xcframeworks
+#     - name: Xcode build
+#       run: | 
+#         cd example
+#         xcodebuild test -workspace ReactNativeCore.xcworkspace -scheme ReactNativeCore-Example
