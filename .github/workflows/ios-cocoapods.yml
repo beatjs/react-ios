@@ -31,9 +31,15 @@ jobs:
         cp -r Example/Carthage/Build/DoubleConversion.xcframework ./
         cp -r Example/Carthage/Build/glog.xcframework ./
         cp -r Example/Carthage/Build/Yoga.xcframework ./
-    - name: Git Push
+    - name: Git push
       run: |
-        
+        touch file
+        git status
+        git add .
+        git commit -m "xcframework"
+        git tag "0.63.4.4"
+        git pull
+        git push origin --tags
     - name: Pod register
       run: pod trunk register liamxujia@outlook.com 'liamxujia' --description='GitHub register to trunk.'
     - name: Pod trunk
