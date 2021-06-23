@@ -25,7 +25,7 @@ jobs:
         pod install --repo-update
     - name: Scheme Shared
       run: |
-        cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
+        cp -r Shared/xcshareddata Example/Pods/Pods.xcodeproj
         rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/*.xcscheme
     - name: Carthage build
       run: |
