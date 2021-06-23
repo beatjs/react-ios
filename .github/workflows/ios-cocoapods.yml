@@ -33,12 +33,12 @@ jobs:
         cp -r Carthage/Build/Yoga.xcframework ./
     - name: Git push
       run: |
-        touch file
         git status
         git add .
         git commit -m "xcframework"
         git tag "0.63.4.4"
-        git pull
+        git pull origin
+        git push origin
         git push origin --tags
     - name: Pod register
       run: pod trunk register liamxujia@outlook.com 'liamxujia' --description='GitHub register to trunk.'
