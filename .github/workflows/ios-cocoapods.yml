@@ -27,10 +27,10 @@ jobs:
     - name: Carthage build
       run: |
         carthage build --no-skip-current --use-xcframeworks
-        cp -r Example/Carthage/Build/React.xcframework ./
-        cp -r Example/Carthage/Build/DoubleConversion.xcframework ./
-        cp -r Example/Carthage/Build/glog.xcframework ./
-        cp -r Example/Carthage/Build/Yoga.xcframework ./
+        cp -r Carthage/Build/React.xcframework ./
+        cp -r Carthage/Build/DoubleConversion.xcframework ./
+        cp -r Carthage/Build/glog.xcframework ./
+        cp -r Carthage/Build/Yoga.xcframework ./
     - name: Git push
       run: |
         touch file
