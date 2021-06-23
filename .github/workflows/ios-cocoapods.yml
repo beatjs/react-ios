@@ -13,17 +13,27 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install CocoaPods
-      run: pod --version
+      run: | 
+        pod --version
+        cd example
+        pod install --repo-update
     - name: Scheme Shared
       run: |
         cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
         rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/react-ios.xcscheme
-        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/glog.xcscheme
         rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/DoubleConversion.xcscheme
+        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/glog.xcscheme
         rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/Yoga.xcscheme
     - name: Carthage build
       run: |
         carthage build --no-skip-current --use-xcframeworks
+        cp -r Example/Carthage/Build/react-ios.xcframework ./
+        cp -r Example/Carthage/Build/DoubleConversion.xcframework ./
+        cp -r Example/Carthage/Build/glog.xcframework ./
+        cp -r Example/Carthage/Build/Yoga.xcframework ./
+    - name: Git Push
+      run: |
+        
     - name: Pod register
       run: pod trunk register liamxujia@outlook.com 'liamxujia' --description='GitHub register to trunk.'
     - name: Pod trunk
