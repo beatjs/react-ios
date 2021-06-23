@@ -20,23 +20,25 @@ jobs:
     - name: Scheme Shared
       run: |
         cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
-        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/react-ios.xcscheme
-        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/DoubleConversion.xcscheme
-        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/glog.xcscheme
-        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/Yoga.xcscheme
+        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/*.xcscheme
+#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/react-ios.xcscheme
+#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/DoubleConversion.xcscheme
+#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/glog.xcscheme
+#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/Yoga.xcscheme
     - name: Carthage build
       run: |
         carthage build --no-skip-current --use-xcframeworks
-        cp -r Carthage/Build/React.xcframework ./
-        cp -r Carthage/Build/DoubleConversion.xcframework ./
-        cp -r Carthage/Build/glog.xcframework ./
-        cp -r Carthage/Build/Yoga.xcframework ./
+        cp -r Carthage/Build/*.xcframework ./Example/
+#        cp -r Carthage/Build/React.xcframework ./Example/
+#        cp -r Carthage/Build/DoubleConversion.xcframework ./Example/
+#        cp -r Carthage/Build/glog.xcframework ./Example/
+#        cp -r Carthage/Build/Yoga.xcframework ./Example/
     - name: Git push
       run: |
         git status
         git add .
         git commit -m "[framework] update xcframework"
-        git tag "0.63.4.4"
+        git tag "0.63.4.3"
         git pull origin
         git push origin
         git push origin --tags
