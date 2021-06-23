@@ -21,18 +21,10 @@ jobs:
       run: |
         cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
         rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/*.xcscheme
-#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/react-ios.xcscheme
-#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/DoubleConversion.xcscheme
-#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/glog.xcscheme
-#        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/Yoga.xcscheme
     - name: Carthage build
       run: |
         carthage build --no-skip-current --use-xcframeworks
-        cp -r Carthage/Build/*.xcframework ./Example/
-#        cp -r Carthage/Build/React.xcframework ./Example/
-#        cp -r Carthage/Build/DoubleConversion.xcframework ./Example/
-#        cp -r Carthage/Build/glog.xcframework ./Example/
-#        cp -r Carthage/Build/Yoga.xcframework ./Example/
+        cp -r Carthage/Build/*.xcframework ./Example/xcframework
     - name: Git push
       run: |
         git status
