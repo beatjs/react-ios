@@ -35,7 +35,7 @@ jobs:
       run: |
         git status
         git add .
-        git commit -m "xcframework"
+        git commit -m "[framework] update xcframework"
         git tag "0.63.4.4"
         git pull origin
         git push origin
