@@ -23,6 +23,15 @@ jobs:
         pod --version
         cd example
         pod install --repo-update
+    - name: Git push
+      run: |
+        touch file
+        git status
+        git add .
+        git commit -m "xcframework"
+        git tag "0.63.4.4"
+        git pull
+        git push origin --tags
     - name: Scheme Shared
       run: |
         cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
