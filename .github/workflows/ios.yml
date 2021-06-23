@@ -26,6 +26,10 @@ jobs:
     - name: Scheme Shared
       run: |
         cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
+        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/react-ios.xcscheme
+        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/glog.xcscheme
+        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/DoubleConversion.xcscheme
+        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/Yoga.xcscheme
     - name: Carthage build
       run: |
         carthage build --no-skip-current --use-xcframeworks
