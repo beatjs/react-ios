@@ -23,6 +23,9 @@ jobs:
         pod --version
         cd example
         pod install --repo-update
+    - name: Scheme Shared
+      run: |
+        cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
     - name: Carthage build
       run: |
         carthage build --no-skip-current --use-xcframeworks
