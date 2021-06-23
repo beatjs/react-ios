@@ -19,12 +19,12 @@ jobs:
         pod install --repo-update
     - name: Scheme Shared
       run: |
-        cp -r Example/xcshareddata Example/Pods/Pods.xcodeproj
+        cp -r Shared/xcshareddata Example/Pods/Pods.xcodeproj
         rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/*.xcscheme
     - name: Carthage build
       run: |
         carthage build --no-skip-current --use-xcframeworks
-        cp -r Carthage/Build/*.xcframework ./Example/xcframework
+        cp -r Carthage/Build/*.xcframework Framework/
     - name: Git push
       run: |
         git status
