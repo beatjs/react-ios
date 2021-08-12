@@ -17,23 +17,6 @@ jobs:
         pod --version
         cd example
         pod install --repo-update
-    - name: Scheme Shared
-      run: |
-        cp -r Shared/xcshareddata Example/Pods/Pods.xcodeproj
-        rm -rf Example/Pods/Pods.xcodeproj/xcuserdata/*/*/*.xcscheme
-    - name: Carthage build
-      run: |
-        carthage build --no-skip-current --use-xcframeworks
-        cp -r Carthage/Build/*.xcframework Framework/
-    - name: Git push
-      run: |
-        git status
-        git add .
-        git commit -m "[framework] update xcframework"
-        git tag "0.63.4.3"
-        git pull origin
-        git push origin
-        git push origin --tags
     - name: Pod register
       run: pod trunk register liamxujia@outlook.com 'liamxujia' --description='GitHub register to trunk.'
     - name: Pod trunk
