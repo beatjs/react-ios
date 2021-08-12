@@ -7,6 +7,7 @@
 //
 
 #import "RNCAppDelegate.h"
+#import "RNCViewController.h"
 
 @interface RNCAppDelegate ()
 #if __has_include(<UMModuleRegistryAdapter.h>)
@@ -34,11 +35,12 @@
                                               initialProperties:nil];
 #endif
     rootView.backgroundColor = [[UIColor alloc] initWithRed:1.0f green:1.0f blue:1.0f alpha:1];
-    UIViewController *rootViewController = [UIViewController new];
+    RNCViewController *rootViewController = [RNCViewController new];
     rootViewController.view = rootView;
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.rootViewController = rootViewController;
     [self.window makeKeyAndVisible];
+    
     return YES;
 }
 
@@ -57,6 +59,5 @@
     return [NSURL URLWithString:[[[[NSBundle mainBundle] URLForResource:@"AwesomeProject" withExtension:@"bundle"] relativePath] stringByAppendingPathComponent:@"0.63.4/main.jsbundle"]];
 #endif
 }
-
 
 @end

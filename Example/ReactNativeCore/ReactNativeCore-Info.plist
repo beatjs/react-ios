@@ -32,6 +32,11 @@
 		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
+			<key>myqcloud.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
 			<key>localhost</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>

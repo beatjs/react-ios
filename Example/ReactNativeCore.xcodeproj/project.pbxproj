@@ -38,6 +38,19 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		B5C650DB26A57E1600A4CB38 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		3424EE7B3BC0FA74F216336B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ReactNativeCore_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactNativeCore_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -223,7 +236,8 @@
 				6003F586195388D20070C39A /* Sources */,
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
-				6864511DD5E036F5FAB650B2 /* [CP] Embed Pods Frameworks */,
+				88EE0BEC7F5AB84602D511F3 /* [CP] Embed Pods Frameworks */,
+				B5C650DB26A57E1600A4CB38 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -264,6 +278,7 @@
 				ORGANIZATIONNAME = 42330633;
 				TargetAttributes = {
 					6003F589195388D20070C39A = {
+						DevelopmentTeam = LZGGBJSZG3;
 						ProvisioningStyle = Automatic;
 					};
 					6003F5AD195388D20070C39A = {
@@ -338,40 +353,58 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		6864511DD5E036F5FAB650B2 /* [CP] Embed Pods Frameworks */ = {
+		88EE0BEC7F5AB84602D511F3 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ReactNativeCore_Example/Pods-ReactNativeCore_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/DVAssetLoaderDelegate/DVAssetLoaderDelegate.framework",
-				"${BUILT_PRODUCTS_DIR}/DoubleConversion/DoubleConversion.framework",
-				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
-				"${BUILT_PRODUCTS_DIR}/SDWebImageWebPCoder/SDWebImageWebPCoder.framework",
-				"${BUILT_PRODUCTS_DIR}/SPTPersistentCache/SPTPersistentCache.framework",
-				"${BUILT_PRODUCTS_DIR}/Sentry/Sentry.framework",
-				"${BUILT_PRODUCTS_DIR}/Yoga/yoga.framework",
-				"${BUILT_PRODUCTS_DIR}/glog/glog.framework",
-				"${BUILT_PRODUCTS_DIR}/libwebp/libwebp.framework",
-				"${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework",
-				"${BUILT_PRODUCTS_DIR}/react-component/ReactComponent.framework",
-				"${BUILT_PRODUCTS_DIR}/react-ios/React.framework",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/CoreModules/CoreModules.framework/CoreModules",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/cxxreact/cxxreact.framework/cxxreact",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/DoubleConversion/DoubleConversion.framework/DoubleConversion",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/FBReactNativeSpec/FBReactNativeSpec.framework/FBReactNativeSpec",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/folly/folly.framework/folly",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/glog/glog.framework/glog",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/jsi/jsi.framework/jsi",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/jsinspector/jsinspector.framework/jsinspector",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/jsireact/jsireact.framework/jsireact",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTAnimation/RCTAnimation.framework/RCTAnimation",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTBlob/RCTBlob.framework/RCTBlob",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTImage/RCTImage.framework/RCTImage",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTLinking/RCTLinking.framework/RCTLinking",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTNetwork/RCTNetwork.framework/RCTNetwork",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTSettings/RCTSettings.framework/RCTSettings",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTText/RCTText.framework/RCTText",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTTypeSafety/RCTTypeSafety.framework/RCTTypeSafety",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTVibration/RCTVibration.framework/RCTVibration",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/React/React.framework/React",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/ReactCommon/ReactCommon.framework/ReactCommon",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/yoga/yoga.framework/yoga",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DVAssetLoaderDelegate.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CoreModules.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/cxxreact.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DoubleConversion.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImageWebPCoder.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SPTPersistentCache.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Sentry.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/yoga.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBReactNativeSpec.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/folly.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/libwebp.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Lottie.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ReactComponent.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsi.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsinspector.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsireact.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTAnimation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTBlob.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTLinking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTNetwork.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTSettings.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTText.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTTypeSafety.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTVibration.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/React.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ReactCommon.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/yoga.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -540,7 +573,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = LZGGBJSZG3;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ReactNativeCore/ReactNativeCore-Prefix.pch";
 				INFOPLIST_FILE = "ReactNativeCore/ReactNativeCore-Info.plist";
@@ -564,7 +597,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = LZGGBJSZG3;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ReactNativeCore/ReactNativeCore-Prefix.pch";
 				INFOPLIST_FILE = "ReactNativeCore/ReactNativeCore-Info.plist";
