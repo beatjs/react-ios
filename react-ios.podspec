@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
   s.author = { "Liam Xu" => "liamxujia@outlook.com" }
   s.source = { :git => "https://github.com/beatjs/react-ios.git", :tag => s.version.to_s }
   s.platforms = { :ios => "11.0"}
+  s.module_name = "React"
   s.library = "stdc++"
   s.framework = 
   "JavaScriptCore",
@@ -31,26 +32,26 @@ Pod::Spec.new do |s|
   }
 
   s.vendored_frameworks =
-    "CoreModules.xcframework",
-    "cxxreact.xcframework",
-    "DoubleConversion.xcframework",
-    "FBReactNativeSpec.xcframework",
-    "folly.xcframework",
-    "glog.xcframework",
-    "jsi.xcframework",
-    "jsinspector.xcframework",
-    "jsireact.xcframework",
-    "RCTAnimation.xcframework",
-    "RCTBlob.xcframework",
-    "RCTImage.xcframework",
-    "RCTLinking.xcframework",
-    "RCTNetwork.xcframework",
-    "RCTSettings.xcframework",
-    "RCTText.xcframework",
-    "RCTTypeSafety.xcframework",
-    "RCTVibration.xcframework",
-    "React.xcframework",
-    "ReactCommon.xcframework",
-    "yoga.xcframework"
+    "Framework/CoreModules.xcframework",
+    "Framework/cxxreact.xcframework",
+    "Framework/DoubleConversion.xcframework",
+    "Framework/FBReactNativeSpec.xcframework",
+    "Framework/folly.xcframework",
+    "Framework/glog.xcframework",
+    "Framework/jsi.xcframework",
+    "Framework/jsinspector.xcframework",
+    "Framework/jsireact.xcframework",
+    "Framework/RCTAnimation.xcframework",
+    "Framework/RCTBlob.xcframework",
+    "Framework/RCTImage.xcframework",
+    "Framework/RCTLinking.xcframework",
+    "Framework/RCTNetwork.xcframework",
+    "Framework/RCTSettings.xcframework",
+    "Framework/RCTText.xcframework",
+    "Framework/RCTTypeSafety.xcframework",
+    "Framework/RCTVibration.xcframework",
+    "Framework/React.xcframework",
+    "Framework/ReactCommon.xcframework",
+    "Framework/yoga.xcframework"
     
 end
