@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'react-ios'
-  s.version = '0.63.4.3'
+  s.version = '0.63.4.4'
   s.summary = 'An runtime base on react-native.'
   s.description =
   <<-DESC
