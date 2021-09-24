@@ -4,13 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/RCTBlobCollector.h</key>
+		<data>
+		f/2d4QgJI44APUnrNt+J926eCck=
+		</data>
+		<key>Headers/RCTBlobManager.h</key>
+		<data>
+		9nMzU1hctMDF3Y+JwNiPUxn5SXw=
+		</data>
+		<key>Headers/RCTBlobPlugins.h</key>
+		<data>
+		zaM4hwJ14FI4mmJFeHV2PqiAApw=
+		</data>
+		<key>Headers/RCTFileReaderModule.h</key>
+		<data>
+		B1jrNqOoO/VlRC6Lm9Z9lrG40fQ=
+		</data>
 		<key>Headers/React-RCTBlob-umbrella.h</key>
 		<data>
-		AKJGvYipwbeLCrsz3946oCRiIWI=
+		7gqf0EzUEv8pUa8YVc4BQm6fcd4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DrEt4nkWm39yIfzE+h9qxoHxuHk=
+		2wPxkC6lAS0ihuFawu1A84NepO4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -19,15 +35,59 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/RCTBlobCollector.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f/2d4QgJI44APUnrNt+J926eCck=
+			</data>
+			<key>hash2</key>
+			<data>
+			IqSRruPx8LrFcpLSs+AkP1Wj7OPt7CjYQrmuGkhzVAw=
+			</data>
+		</dict>
+		<key>Headers/RCTBlobManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9nMzU1hctMDF3Y+JwNiPUxn5SXw=
+			</data>
+			<key>hash2</key>
+			<data>
+			1kIfih44rMDH6P+9W48vB3a0AtFQCYq5mR5ZxwDzRBc=
+			</data>
+		</dict>
+		<key>Headers/RCTBlobPlugins.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zaM4hwJ14FI4mmJFeHV2PqiAApw=
+			</data>
+			<key>hash2</key>
+			<data>
+			9slJl6WYBiF49iex3b26M3Iz0hjmwwzycWnefu+OGqE=
+			</data>
+		</dict>
+		<key>Headers/RCTFileReaderModule.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B1jrNqOoO/VlRC6Lm9Z9lrG40fQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3KNhLCBwt0713V5aQeQBwhKHzWLPtLgkNkiCZ24RHvs=
+			</data>
+		</dict>
 		<key>Headers/React-RCTBlob-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AKJGvYipwbeLCrsz3946oCRiIWI=
+			7gqf0EzUEv8pUa8YVc4BQm6fcd4=
 			</data>
 			<key>hash2</key>
 			<data>
-			3UlPhLUMqyElvVWOePZ32FlnZEzGrfIA+RENKj2OgzY=
+			4EGhbGx+vn2TM6IEjeAgcV6cX4pQrRNNX3FUJU9RnNw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,9 +6,6 @@ inhibit_all_warnings!
 target 'ReactNativeCore_Example' do
   
   pod 'react-ios', path: '../'
-  # pod 'react-component'
-  # pod 'react-expo'
-  # pod 'react-code-push'
   
   target 'ReactNativeCore_Tests' do
     inherit! :search_paths

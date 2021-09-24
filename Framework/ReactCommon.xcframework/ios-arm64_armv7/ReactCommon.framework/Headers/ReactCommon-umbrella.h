@@ -14,6 +14,7 @@
 #import "TurboCxxModule.h"
 #import "TurboModule.h"
 #import "TurboModuleBinding.h"
+#import "TurboModulePerfLogger.h"
 #import "TurboModuleUtils.h"
 #import "RCTTurboModule.h"
 #import "RCTTurboModuleManager.h"

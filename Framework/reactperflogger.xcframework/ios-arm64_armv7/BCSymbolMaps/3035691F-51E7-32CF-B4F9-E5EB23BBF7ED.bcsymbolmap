@@ -1,0 +1,69 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/xujia/Library/Developer/Xcode/DerivedData/AwesomeProject-ejcghtgaxtaqnablghvffuwbsors/Build/Intermediates.noindex/ArchiveIntermediates/React-perflogger/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/React-perflogger.build/DerivedSources/reactperflogger_vers.c
+/Users/xujia/Developer/GitHub/AwesomeProject/ios/Pods
+__ZNSt3__110unique_ptrIN8facebook5react22NativeModulePerfLoggerENS_14default_deleteIS3_EEED1Ev
+__GLOBAL__sub_I_BridgeNativeModulePerfLogger.cpp
+/Users/xujia/Developer/GitHub/AwesomeProject/node_modules/react-native/ReactCommon/reactperflogger/reactperflogger/BridgeNativeModulePerfLogger.cpp
+_GLOBAL__sub_I_BridgeNativeModulePerfLogger.cpp
+__cxx_global_var_init
+node_modules/react-native/ReactCommon/reactperflogger/reactperflogger/BridgeNativeModulePerfLogger.cpp
+/Users/xujia/Developer/GitHub/AwesomeProject
+unique_ptr<true, void>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/memory
+__compressed_pair<facebook::react::NativeModulePerfLogger *, std::__1::__default_init_tag>
+__compressed_pair_elem<facebook::react::NativeModulePerfLogger *, void>
+asyncMethodCallExecutionFail
+get
+asyncMethodCallExecutionEnd
+asyncMethodCallExecutionArgConversionEnd
+asyncMethodCallExecutionArgConversionStart
+asyncMethodCallExecutionStart
+asyncMethodCallBatchPreprocessEnd
+asyncMethodCallBatchPreprocessStart
+asyncMethodCallFail
+asyncMethodCallEnd
+asyncMethodCallDispatch
+asyncMethodCallArgConversionEnd
+asyncMethodCallArgConversionStart
+asyncMethodCallStart
+syncMethodCallFail
+syncMethodCallEnd
+syncMethodCallReturnConversionEnd
+syncMethodCallReturnConversionStart
+syncMethodCallExecutionEnd
+syncMethodCallExecutionStart
+syncMethodCallArgConversionEnd
+syncMethodCallArgConversionStart
+syncMethodCallStart
+moduleJSRequireEndingFail
+moduleJSRequireEndingEnd
+moduleJSRequireEndingStart
+moduleJSRequireBeginningFail
+moduleJSRequireBeginningEnd
+moduleJSRequireBeginningCacheHit
+moduleJSRequireBeginningStart
+moduleCreateFail
+moduleCreateEnd
+moduleCreateSetUpEnd
+moduleCreateSetUpStart
+moduleCreateConstructEnd
+moduleCreateConstructStart
+moduleCreateCacheHit
+moduleCreateStart
+moduleDataCreateEnd
+moduleDataCreateStart
+disableLogging
+operator=
+reset
+operator()
+enableLogging
+release
+first
+__get
+~unique_ptr
+__OBJC_METACLASS_RO_$_PodsDummy_React_perflogger
+__OBJC_CLASS_RO_$_PodsDummy_React_perflogger
+/Users/xujia/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/React-perflogger/React-perflogger-dummy.m

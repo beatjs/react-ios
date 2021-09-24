@@ -7,6 +7,7 @@
 
 #import <React/RCTImageURLLoader.h>
 #import <React/RCTImageLoaderProtocol.h>
+#import <React/RCTImageLoaderLoggable.h>
 
 // TODO (T61325135): Remove C++ checks
 #ifdef __cplusplus
@@ -16,6 +17,7 @@ namespace react {
 struct ImageURLLoaderAttribution {
   int32_t nativeViewTag = 0;
   int32_t surfaceId = 0;
+  NSString *analyticTag;
 };
 
 } // namespace react
@@ -37,7 +39,7 @@ struct ImageURLLoaderAttribution {
  * Same as the RCTImageURLLoader interface, but allows passing in optional `attribution` information.
  * This is useful for per-app logging and other instrumentation.
  */
-@protocol RCTImageURLLoaderWithAttribution <RCTImageURLLoader>
+@protocol RCTImageURLLoaderWithAttribution <RCTImageURLLoader, RCTImageLoaderLoggable>
 
 // TODO (T61325135): Remove C++ checks
 #ifdef __cplusplus
@@ -54,18 +56,18 @@ struct ImageURLLoaderAttribution {
                                   attribution:(const facebook::react::ImageURLLoaderAttribution &)attribution
                               progressHandler:(RCTImageLoaderProgressBlock)progressHandler
                            partialLoadHandler:(RCTImageLoaderPartialLoadBlock)partialLoadHandler
-                            completionHandler:(RCTImageLoaderCompletionBlock)completionHandler;
+                            completionHandler:(RCTImageLoaderCompletionBlockWithMetadata)completionHandler;
 #endif
-
-/**
- * Image instrumentation - notify that the image content (UIImage) has been set on the native view.
- */
-- (void)trackURLImageContentDidSetForRequest:(RCTImageURLLoaderRequest *)loaderRequest;
 
 /**
  * Image instrumentation - start tracking the on-screen visibility of the native image view.
  */
 - (void)trackURLImageVisibilityForRequest:(RCTImageURLLoaderRequest *)loaderRequest imageView:(UIView *)imageView;
+
+/**
+ * Image instrumentation - notify that the request was destroyed.
+ */
+- (void)trackURLImageRequestDidDestroy:(RCTImageURLLoaderRequest *)loaderRequest;
 
 /**
  * Image instrumentation - notify that the native image view was destroyed.

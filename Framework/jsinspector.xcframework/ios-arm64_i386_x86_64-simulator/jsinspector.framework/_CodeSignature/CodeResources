@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/InspectorInterfaces.h</key>
 		<data>
-		yS4XwrbQutJB/bVnlJn3XEW9rFA=
+		5MzX0yHsthFTJBs8heXCVRc1OPY=
 		</data>
 		<key>Headers/React-jsinspector-umbrella.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZjtNF26P74mViYlUgpNe4dkO1v4=
+		65X5d90BJ5wrsf+7RsS4d4IS208=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,11 +27,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yS4XwrbQutJB/bVnlJn3XEW9rFA=
+			5MzX0yHsthFTJBs8heXCVRc1OPY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8GSAqVLUzT50mUPXoCKYv/we9vdFKmnVTPDEZQtOzqo=
+			ZIWjDxVnOdE43GLjaXi25RWn+0LUcBEs/oJl8UL+Emc=
 			</data>
 		</dict>
 		<key>Headers/React-jsinspector-umbrella.h</key>

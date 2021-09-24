@@ -6,11 +6,19 @@
 	<dict>
 		<key>Headers/YGEnums.h</key>
 		<data>
-		2sBDurcHpWi9GI3ZhJxIX7iDrdo=
+		1mNsoZ3dgvb9onGzh83GAexDm6U=
 		</data>
 		<key>Headers/YGMacros.h</key>
 		<data>
 		JmLDtS6Ca1SRy3aa3T556y5Zh6U=
+		</data>
+		<key>Headers/YGNode.h</key>
+		<data>
+		EmAiZM2W7UKpK/EYE3b/hSTt4Z0=
+		</data>
+		<key>Headers/YGStyle.h</key>
+		<data>
+		4K3He5vPl5FeBftMjFL9mqLufW8=
 		</data>
 		<key>Headers/YGValue.h</key>
 		<data>
@@ -18,15 +26,15 @@
 		</data>
 		<key>Headers/Yoga-umbrella.h</key>
 		<data>
-		WtQYqYJXIlqxH52jb7MWu8Rj4Hw=
+		boTmkp91MNX9CExtv2F5Wq2ru14=
 		</data>
 		<key>Headers/Yoga.h</key>
 		<data>
-		t6OB19nEF49dc/RPlG9ARgEzZlI=
+		jLCn0ZlKmNFbWywPWOOQI1SyVZg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MfTOlfRZaLWe1FcBjZPqnnYsZOg=
+		koFJ5volwZ64C79OZ6C7Aj7d8JE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,11 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2sBDurcHpWi9GI3ZhJxIX7iDrdo=
+			1mNsoZ3dgvb9onGzh83GAexDm6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			0kKsgobZ0DPrLBzQQUC9ohi6hbwAJiKq8jqnk+gDSGA=
+			y3okbkJcNbsay3yMVWUGHEizsZQvPKQBrGjvHheDZZc=
 			</data>
 		</dict>
 		<key>Headers/YGMacros.h</key>
@@ -55,6 +63,28 @@
 			<key>hash2</key>
 			<data>
 			dMNsk7QwcXXbndHla54VkabYFnG/xBBzvHn0nbi9rMw=
+			</data>
+		</dict>
+		<key>Headers/YGNode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EmAiZM2W7UKpK/EYE3b/hSTt4Z0=
+			</data>
+			<key>hash2</key>
+			<data>
+			7iVsl2GvpgQZuLanfuM8eWet5LqC6uoiNEB39ri1wt0=
+			</data>
+		</dict>
+		<key>Headers/YGStyle.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4K3He5vPl5FeBftMjFL9mqLufW8=
+			</data>
+			<key>hash2</key>
+			<data>
+			A93th6MYCoV9IMCytUvCoa2Ny4ABLZ4W6Bvm1og/6/o=
 			</data>
 		</dict>
 		<key>Headers/YGValue.h</key>
@@ -72,22 +102,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WtQYqYJXIlqxH52jb7MWu8Rj4Hw=
+			boTmkp91MNX9CExtv2F5Wq2ru14=
 			</data>
 			<key>hash2</key>
 			<data>
-			3KbI+dbSmPbhNMvaJrWa/b/Z65lBIUEW8N9Fe0JSyTs=
+			XY9fbUpcvRrv0ScNuqId/wi0Mi97b+Mwd3aVgrG4seI=
 			</data>
 		</dict>
 		<key>Headers/Yoga.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t6OB19nEF49dc/RPlG9ARgEzZlI=
+			jLCn0ZlKmNFbWywPWOOQI1SyVZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			XlK1qyJeV5W2d/qsfkE6rF/NpA4yivkjljy8hC8MwlQ=
+			r6StL86x/wy3EqUxlfqgF12Gaojtufb7eAeYQe+e9eU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

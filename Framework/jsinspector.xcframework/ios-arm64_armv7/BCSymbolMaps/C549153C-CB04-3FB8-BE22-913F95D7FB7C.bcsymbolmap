@@ -2,8 +2,8 @@ BCSymbolMap Version: 2.0
 Apple clang version 12.0.5 (clang-1205.0.22.11)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
 iPhoneOS14.5.sdk
-/Users/xujia/Library/Developer/Xcode/DerivedData/AwesomeProject-aubspsktfivdtfehswoedroepnum/Build/Intermediates.noindex/ArchiveIntermediates/React-jsinspector/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/React-jsinspector.build/DerivedSources/jsinspector_vers.c
-/Users/xujia/Documents/GitHub/AwesomeProject/ios/Pods
+/Users/xujia/Library/Developer/Xcode/DerivedData/AwesomeProject-ejcghtgaxtaqnablghvffuwbsors/Build/Intermediates.noindex/ArchiveIntermediates/React-jsinspector/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/React-jsinspector.build/DerivedSources/jsinspector_vers.c
+/Users/xujia/Developer/GitHub/AwesomeProject/ios/Pods
 __ZN8facebook5react12_GLOBAL__N_113InspectorImplD1Ev
 __ZN8facebook5react12_GLOBAL__N_113InspectorImplD0Ev
 __ZN8facebook5react12_GLOBAL__N_113InspectorImpl7addPageERKNSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEESB_NS3_8functionIFNS3_10unique_ptrINS0_16ILocalConnectionENS3_14default_deleteISE_EEEENSD_INS0_17IRemoteConnectionENSF_ISI_EEEEEEE
@@ -23,7 +23,7 @@ __ZGVZN8facebook5react20getInspectorInstanceEvE8instance
 __ZTVN8facebook5react12_GLOBAL__N_113InspectorImplE
 __ZTSN8facebook5react12_GLOBAL__N_113InspectorImplE
 __ZTIN8facebook5react12_GLOBAL__N_113InspectorImplE
-/Users/xujia/Documents/GitHub/AwesomeProject/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp
+/Users/xujia/Developer/GitHub/AwesomeProject/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp
 __deallocate_node
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/__hash_table
 deallocate
@@ -65,7 +65,7 @@ __destroy<facebook::react::InspectorPage>
 destroy
 ~InspectorPage
 node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
-/Users/xujia/Documents/GitHub/AwesomeProject
+/Users/xujia/Developer/GitHub/AwesomeProject
 ~basic_string
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/string
 __get_long_pointer
@@ -209,4 +209,4 @@ getInspectorInstance
 ~IDestructible
 __OBJC_METACLASS_RO_$_PodsDummy_React_jsinspector
 __OBJC_CLASS_RO_$_PodsDummy_React_jsinspector
-/Users/xujia/Documents/GitHub/AwesomeProject/ios/Pods/Target Support Files/React-jsinspector/React-jsinspector-dummy.m
+/Users/xujia/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/React-jsinspector/React-jsinspector-dummy.m
