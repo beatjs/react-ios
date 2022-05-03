@@ -1,0 +1,540 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/React-RCTBlob/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/React-RCTBlob.build/DerivedSources/RCTBlob_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+____ZN8facebook5react16RCTBlobCollectorD2Ev_block_invoke
+___copy_helper_block_ea8_32s40s
+___destroy_helper_block_ea8_32s40s
+___clang_call_terminate
+____ZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManager_block_invoke
+___copy_helper_block_ea8_32s40w
+___destroy_helper_block_ea8_32s40w
+__ZNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEED1Ev
+__ZNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEED0Ev
+__ZNKSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEE7__cloneEv
+__ZNKSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEE7__cloneEPNS0_6__baseISH_EE
+__ZNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEE7destroyEv
+__ZNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEE18destroy_deallocateEv
+__ZNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEEclESD_SF_OSG_Om
+__ZNKSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEE6targetERKSt9type_info
+__ZNKSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEE11target_typeEv
+__ZN8facebook3jsi6Object20createFromHostObjectERNS0_7RuntimeENSt3__110shared_ptrINS0_10HostObjectEEE
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react16RCTBlobCollectorENS_9allocatorIS3_EEED1Ev
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react16RCTBlobCollectorENS_9allocatorIS3_EEED0Ev
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react16RCTBlobCollectorENS_9allocatorIS3_EEE16__on_zero_sharedEv
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react16RCTBlobCollectorENS_9allocatorIS3_EEE21__on_zero_shared_weakEv
+__ZNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEEclESD_SF_OSG_Om.cold.1
+__ZN8facebook3jsi6Object20createFromHostObjectERNS0_7RuntimeENSt3__110shared_ptrINS0_10HostObjectEEE.cold.1
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+___block_descriptor_48_ea8_32s40s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+___block_descriptor_48_ea8_32s40w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.11
+__ZTVNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEEE
+__ZTSNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEEE
+__ZTSNSt3__110__function6__baseIFN8facebook3jsi5ValueERNS3_7RuntimeERKS4_PS7_mEEE
+__ZTINSt3__110__function6__baseIFN8facebook3jsi5ValueERNS3_7RuntimeERKS4_PS7_mEEE
+__ZTINSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEEE
+__ZTSNSt3__120__shared_ptr_emplaceIN8facebook5react16RCTBlobCollectorENS_9allocatorIS3_EEEE
+__ZTINSt3__120__shared_ptr_emplaceIN8facebook5react16RCTBlobCollectorENS_9allocatorIS3_EEEE
+__ZTSZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0
+__ZTIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm
+_ZN8facebook3jsi6Object20createFromHostObjectERNS0_7RuntimeENSt3__110shared_ptrINS0_10HostObjectEEE.cold.1
+node_modules/react-native/ReactCommon/jsi/jsi/jsi.h
+/Users/nxdm/Developer/GitHub/AwesomeProject
+_ZNSt3__110__function6__funcIZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_E3$_0NS_9allocatorIS7_EEFNS2_3jsi5ValueERNSA_7RuntimeERKSB_PSE_mEEclESD_SF_OSG_Om.cold.1
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__functional/function.h
+setProperty<facebook::jsi::Function>
+node_modules/react-native/ReactCommon/jsi/jsi/jsi-inl.h
+setPropertyValue
+toValue<facebook::jsi::Function>
+Value
+Pointer
+__on_zero_shared_weak
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/shared_ptr.h
+deallocate
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/allocator_traits.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/allocator.h
+__libcpp_deallocate
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/new
+__do_deallocate_handle_size<>
+__libcpp_operator_delete<void *>
+__on_zero_shared
+__get_elem
+~__shared_ptr_emplace
+createFromHostObject
+~shared_ptr
+__release_shared
+__libcpp_atomic_refcount_decrement<long>
+shared_ptr
+__add_shared
+__libcpp_atomic_refcount_increment<long>
+target_type
+target
+__target
+first
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/compressed_pair.h
+__get
+operator==
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/typeinfo
+__eq
+__type_name_to_string
+__is_type_name_unique
+operator()
+__call<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9) &, facebook::jsi::Runtime &, const facebook::jsi::Value &, const facebook::jsi::Value *, unsigned long>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__functional/invoke.h
+Value<facebook::jsi::Object>
+Object
+__invoke<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9) &, facebook::jsi::Runtime &, const facebook::jsi::Value &, const facebook::jsi::Value *, unsigned long>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/type_traits
+node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm
+~basic_string
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/string
+__get_long_pointer
+__is_long
+~String
+~Pointer
+shared_ptr<facebook::react::RCTBlobCollector>
+make_shared<facebook::react::RCTBlobCollector, RCTBlobManager *const __strong &, std::__1::string &, void>
+allocate_shared<facebook::react::RCTBlobCollector, std::__1::allocator<facebook::react::RCTBlobCollector>, RCTBlobManager *const __strong &, std::__1::string &, void>
+__create_with_control_block<facebook::react::RCTBlobCollector, std::__1::__shared_ptr_emplace<facebook::react::RCTBlobCollector, std::__1::allocator<facebook::react::RCTBlobCollector> > >
+~__allocation_guard
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/allocation_guard.h
+__shared_ptr_emplace<RCTBlobManager *const __strong &, std::__1::string &>
+RCTBlobCollector
+__shared_weak_count
+__shared_count
+__allocation_guard<std::__1::allocator<facebook::react::RCTBlobCollector> >
+allocate
+__libcpp_allocate
+__libcpp_operator_new<unsigned long>
+utf8
+destroy_deallocate
+destroy
+~__compressed_pair
+~__compressed_pair_elem
+~
+__clone
+__func
+__alloc_func
+__compressed_pair<const (lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9) &, const std::__1::allocator<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9)> &>
+__compressed_pair_elem<const (lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9) &, 0UL>
+_ZZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_EN3$_0C1ERKS4_
+_ZZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_EN3$_0C2ERKS4_
+__compressed_pair<const (lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9) &, std::__1::allocator<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9)> &&>
+~__func
+~__alloc_func
+function
+__value_func
+__as_base
+__destroy_helper_block_ea8_32s40w
+__copy_helper_block_ea8_32s40w
+createFromAscii
+___ZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManager_block_invoke
+~Object
+~PropNameID
+~function
+~__value_func
+~Function
+createFromHostFunction
+function<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9), void>
+__value_func<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9), void>
+__value_func<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9), std::__1::allocator<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9)> >
+__compressed_pair<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9) &&, std::__1::allocator<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9)> &&>
+__compressed_pair_elem<(lambda at /Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobCollector.mm:41:9) &&, 0UL>
+_ZZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_EN3$_0C1EOS4_
+_ZZZN8facebook5react16RCTBlobCollector7installEP14RCTBlobManagerEUb_EN3$_0C2EOS4_
+forAscii
+install
+~RCTBlobCollector
+__destroy_helper_block_ea8_32s40s
+__copy_helper_block_ea8_32s40s
+___ZN8facebook5react16RCTBlobCollectorD2Ev_block_invoke
+c_str
+data
+__get_pointer
+__get_short_pointer
++[RCTBlobManager moduleName]
++[RCTBlobManager load]
+-[RCTBlobManager initialize]
++[RCTBlobManager requiresMainQueueSetup]
+-[RCTBlobManager constantsToExport]
+-[RCTBlobManager getConstants]
+-[RCTBlobManager store:]
+-[RCTBlobManager store:withId:]
+-[RCTBlobManager resolve:]
+-[RCTBlobManager resolve:offset:size:]
+-[RCTBlobManager resolveURL:]
+-[RCTBlobManager remove:]
++[RCTBlobManager __rct_export__1390]
+-[RCTBlobManager addNetworkingHandler]
+___38-[RCTBlobManager addNetworkingHandler]_block_invoke
++[RCTBlobManager __rct_export__1551]
+-[RCTBlobManager addWebSocketHandler:]
+___38-[RCTBlobManager addWebSocketHandler:]_block_invoke
+___copy_helper_block_ea8_32s
+___destroy_helper_block_ea8_32s
++[RCTBlobManager __rct_export__1622]
+-[RCTBlobManager removeWebSocketHandler:]
+___41-[RCTBlobManager removeWebSocketHandler:]_block_invoke
++[RCTBlobManager __rct_export__1703]
+-[RCTBlobManager sendOverSocket:socketID:]
+___42-[RCTBlobManager sendOverSocket:socketID:]_block_invoke
++[RCTBlobManager __rct_export__1774]
+-[RCTBlobManager createFromParts:withId:]
++[RCTBlobManager __rct_export__1965]
+-[RCTBlobManager release:]
+-[RCTBlobManager canHandleRequest:]
+-[RCTBlobManager sendRequest:withDelegate:]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___43-[RCTBlobManager sendRequest:withDelegate:]_block_invoke
+___copy_helper_block_ea8_32s40s48r56w
+___destroy_helper_block_ea8_32s40s48r56w
+-[RCTBlobManager cancelRequest:]
+-[RCTBlobManager canHandleNetworkingRequest:]
+-[RCTBlobManager handleNetworkingRequest:]
+-[RCTBlobManager canHandleNetworkingResponse:]
+-[RCTBlobManager handleNetworkingResponse:data:]
+-[RCTBlobManager processWebsocketMessage:forSocketID:withType:]
+-[RCTBlobManager getTurboModule:]
+-[RCTBlobManager bridge]
+-[RCTBlobManager moduleRegistry]
+-[RCTBlobManager setModuleRegistry:]
+-[RCTBlobManager methodQueue]
+-[RCTBlobManager .cxx_destruct]
+-[RCTBlobManager .cxx_construct]
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react23NativeBlobModuleSpecJSIENS_9allocatorIS3_EEED1Ev
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react23NativeBlobModuleSpecJSIENS_9allocatorIS3_EEED0Ev
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react23NativeBlobModuleSpecJSIENS_9allocatorIS3_EEE16__on_zero_sharedEv
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react23NativeBlobModuleSpecJSIENS_9allocatorIS3_EEE21__on_zero_shared_weakEv
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_CLASSLIST_REFERENCES_$_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+__ZZ36+[RCTBlobManager __rct_export__1390]E6config
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+__ZZ36+[RCTBlobManager __rct_export__1551]E6config
+_OBJC_CLASSLIST_REFERENCES_$_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+___block_descriptor_48_ea8_32s_e5_v8?0l
+__ZZ36+[RCTBlobManager __rct_export__1622]E6config
+__ZZ36+[RCTBlobManager __rct_export__1703]E6config
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+___block_descriptor_56_ea8_32s40s_e5_v8?0l
+__ZZ36+[RCTBlobManager __rct_export__1774]E6config
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_SELECTOR_REFERENCES_.105
+__ZZ36+[RCTBlobManager __rct_export__1965]E6config
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_CLASSLIST_REFERENCES_$_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_CLASSLIST_REFERENCES_$_.118
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+___block_descriptor_64_ea8_32s40s48r56w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_CLASSLIST_REFERENCES_$_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+__OBJC_$_CLASS_METHODS_RCTBlobManager
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RCTNetworkingRequestHandler
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RCTNetworkingRequestHandler
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTNetworkingRequestHandler
+__OBJC_PROTOCOL_$_RCTNetworkingRequestHandler
+__OBJC_LABEL_PROTOCOL_$_RCTNetworkingRequestHandler
+__OBJC_$_PROTOCOL_REFS_RCTNetworkingResponseHandler
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RCTNetworkingResponseHandler
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTNetworkingResponseHandler
+__OBJC_PROTOCOL_$_RCTNetworkingResponseHandler
+__OBJC_LABEL_PROTOCOL_$_RCTNetworkingResponseHandler
+__OBJC_$_PROTOCOL_REFS_RCTWebSocketContentHandler
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RCTWebSocketContentHandler
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTWebSocketContentHandler
+__OBJC_PROTOCOL_$_RCTWebSocketContentHandler
+__OBJC_LABEL_PROTOCOL_$_RCTWebSocketContentHandler
+__OBJC_$_PROTOCOL_REFS_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_RCTBridgeModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROP_LIST_RCTBridgeModule
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTBridgeModule
+__OBJC_PROTOCOL_$_RCTBridgeModule
+__OBJC_LABEL_PROTOCOL_$_RCTBridgeModule
+__OBJC_$_PROTOCOL_REFS_RCTTurboModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RCTTurboModule
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTTurboModule
+__OBJC_PROTOCOL_$_RCTTurboModule
+__OBJC_LABEL_PROTOCOL_$_RCTTurboModule
+__OBJC_$_PROTOCOL_REFS_NativeBlobModuleSpec
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NativeBlobModuleSpec
+__OBJC_$_PROTOCOL_METHOD_TYPES_NativeBlobModuleSpec
+__OBJC_PROTOCOL_$_NativeBlobModuleSpec
+__OBJC_LABEL_PROTOCOL_$_NativeBlobModuleSpec
+__OBJC_$_PROTOCOL_REFS_RCTURLRequestHandler
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RCTURLRequestHandler
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RCTURLRequestHandler
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTURLRequestHandler
+__OBJC_PROTOCOL_$_RCTURLRequestHandler
+__OBJC_LABEL_PROTOCOL_$_RCTURLRequestHandler
+__OBJC_$_PROTOCOL_REFS_RCTInitializing
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RCTInitializing
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTInitializing
+__OBJC_PROTOCOL_$_RCTInitializing
+__OBJC_LABEL_PROTOCOL_$_RCTInitializing
+__OBJC_CLASS_PROTOCOLS_$_RCTBlobManager
+__OBJC_METACLASS_RO_$_RCTBlobManager
+__OBJC_$_INSTANCE_METHODS_RCTBlobManager
+_OBJC_IVAR_$_RCTBlobManager._blobs
+_OBJC_IVAR_$_RCTBlobManager._blobsMutex
+_OBJC_IVAR_$_RCTBlobManager._queue
+_OBJC_IVAR_$_RCTBlobManager._bridge
+_OBJC_IVAR_$_RCTBlobManager._moduleRegistry
+_OBJC_IVAR_$_RCTBlobManager._methodQueue
+__OBJC_$_INSTANCE_VARIABLES_RCTBlobManager
+__OBJC_$_PROP_LIST_RCTBlobManager
+__OBJC_CLASS_RO_$_RCTBlobManager
+_OBJC_CLASSLIST_REFERENCES_$_.317
+__ZTSNSt3__120__shared_ptr_emplaceIN8facebook5react23NativeBlobModuleSpecJSIENS_9allocatorIS3_EEEE
+__ZTINSt3__120__shared_ptr_emplaceIN8facebook5react23NativeBlobModuleSpecJSIENS_9allocatorIS3_EEEE
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm
+RCTBlobManagerCls
+node_modules/react-native/Libraries/Blob/RCTBlobManager.mm
+mutex
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__mutex_base
+shared_ptr<facebook::react::NativeBlobModuleSpecJSI>
+make_shared<facebook::react::NativeBlobModuleSpecJSI, const facebook::react::ObjCTurboModule::InitParams &, void>
+allocate_shared<facebook::react::NativeBlobModuleSpecJSI, std::__1::allocator<facebook::react::NativeBlobModuleSpecJSI>, const facebook::react::ObjCTurboModule::InitParams &, void>
+__create_with_control_block<facebook::react::NativeBlobModuleSpecJSI, std::__1::__shared_ptr_emplace<facebook::react::NativeBlobModuleSpecJSI, std::__1::allocator<facebook::react::NativeBlobModuleSpecJSI> > >
+__shared_ptr_emplace<const facebook::react::ObjCTurboModule::InitParams &>
+__allocation_guard<std::__1::allocator<facebook::react::NativeBlobModuleSpecJSI> >
+__destroy_helper_block_ea8_32s40s48r56w
+__copy_helper_block_ea8_32s40s48r56w
+__43-[RCTBlobManager sendRequest:withDelegate:]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__42-[RCTBlobManager sendOverSocket:socketID:]_block_invoke
+__41-[RCTBlobManager removeWebSocketHandler:]_block_invoke
+__destroy_helper_block_ea8_32s
+__copy_helper_block_ea8_32s
+__38-[RCTBlobManager addWebSocketHandler:]_block_invoke
+__38-[RCTBlobManager addNetworkingHandler]_block_invoke
+~lock_guard
+lock_guard
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1IDnEEPKc
+__ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE20__throw_length_errorEv
+__ZNSt3__1L20__throw_length_errorEPKc
+__ZNSt12length_errorC1EPKc
+__ZNSt3__110unique_ptrINS_11__hash_nodeINS_17__hash_value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEPFP10objc_classvEEEPvEENS_22__hash_node_destructorINS6_ISF_EEEEED1Ev
+__ZNKSt3__14hashINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEclERKS6_
+__ZNSt3__121__murmur2_or_cityhashImLm64EEclEPKvm
+__ZNSt3__121__murmur2_or_cityhashImLm64EE18__hash_len_0_to_16EPKcm
+__ZNSt3__121__murmur2_or_cityhashImLm64EE19__hash_len_17_to_32EPKcm
+__ZNSt3__121__murmur2_or_cityhashImLm64EE19__hash_len_33_to_64EPKcm
+__ZNKSt3__18equal_toINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEclERKS6_S9_
+__ZZ20RCTBlobClassProviderE19sCoreModuleClassMap
+__ZGVZ20RCTBlobClassProviderE19sCoreModuleClassMap
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTBlobPlugins.mm
+find<std::__1::string>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__hash_table
+llvm.loop.mustprogress
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/unordered_map
+__constrain_hash
+__hash
+operator[]
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/unique_ptr.h
+bucket_count
+size
+hash_function
+__deallocate_node
+destroy<std::__1::pair<const std::__1::string, Class (*)()>, void, void>
+~pair
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__utility/pair.h
+~__hash_table
+~unique_ptr
+reset
+__rehash
+reset<std::__1::__hash_node_base<std::__1::__hash_node<std::__1::__hash_value_type<std::__1::string, Class (*)()>, void *> *> **>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__functional/operations.h
+operator==<std::__1::allocator<char> >
+compare
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__string
+__hash_len_33_to_64
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__functional/hash.h
+__shift_mix
+__rotate
+__loadword<unsigned long>
+__hash_len_17_to_32
+__hash_len_16
+__hash_len_0_to_16
+__loadword<unsigned int>
+__rotate_by_at_least_1
+__weak_hash_len_32_with_seeds
+__do_string_hash<const char *>
+__get_ptr
+__get_value
+rehash
+max<unsigned long>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__algorithm/max.h
+max<unsigned long, std::__1::__less<unsigned long, unsigned long> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__algorithm/comp.h
+__next_hash_pow2
+__is_hash_power2
+__construct_node_hash<const std::__1::pair<const std::__1::string, Class (*)()> &>
+construct<std::__1::pair<const std::__1::string, Class (*)()>, const std::__1::pair<const std::__1::string, Class (*)()> &, void>
+construct<std::__1::pair<const std::__1::string, Class (*)()>, const std::__1::pair<const std::__1::string, Class (*)()> &>
+pair
+unique_ptr<true, void>
+__compressed_pair<std::__1::__hash_node<std::__1::__hash_value_type<std::__1::string, Class (*)()>, void *> *&, std::__1::__hash_node_destructor<std::__1::allocator<std::__1::__hash_node<std::__1::__hash_value_type<std::__1::string, Class (*)()>, void *> > > >
+__compressed_pair_elem<std::__1::__hash_node_destructor<std::__1::allocator<std::__1::__hash_node<std::__1::__hash_value_type<std::__1::string, Class (*)()>, void *> > >, void>
+__compressed_pair_elem<std::__1::__hash_node<std::__1::__hash_value_type<std::__1::string, Class (*)()>, void *> *&, void>
+__node_alloc
+unordered_map
+insert<const std::__1::pair<const std::__1::string, Class (*)()> *>
+__insert_unique
+__emplace_unique_key_args<std::__1::string, const std::__1::pair<const std::__1::string, Class (*)()> &>
+release
+get
+operator->
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/math.h
+__get_key
+end
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/initializer_list
+__hash_table
+__compressed_pair<float, std::__1::__default_init_tag>
+__compressed_pair_elem<float, void>
+__compressed_pair<true, void>
+__compressed_pair_elem
+__hash_node_base
+length_error
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/stdexcept
+__throw_length_error
+basic_string<nullptr_t>
+__init
+assign
+copy
+__set_short_size
+__set_long_size
+__set_long_cap
+__set_long_pointer
+__recommend
+__align_it<16UL>
+length
+RCTBlobClassProvider
+node_modules/react-native/Libraries/Blob/RCTBlobPlugins.mm
+operator!=
+find
+pair<char const (&)[11], Class (&)(), false>
+pair<char const (&)[17], Class (&)(), false>
++[RCTFileReaderModule moduleName]
++[RCTFileReaderModule load]
++[RCTFileReaderModule __rct_export__310]
+-[RCTFileReaderModule readAsText:encoding:resolve:reject:]
++[RCTFileReaderModule __rct_export__561]
+-[RCTFileReaderModule readAsDataURL:resolve:reject:]
+-[RCTFileReaderModule getTurboModule:]
+-[RCTFileReaderModule moduleRegistry]
+-[RCTFileReaderModule setModuleRegistry:]
+-[RCTFileReaderModule .cxx_destruct]
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react29NativeFileReaderModuleSpecJSIENS_9allocatorIS3_EEED1Ev
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react29NativeFileReaderModuleSpecJSIENS_9allocatorIS3_EEED0Ev
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react29NativeFileReaderModuleSpecJSIENS_9allocatorIS3_EEE16__on_zero_sharedEv
+__ZNSt3__120__shared_ptr_emplaceIN8facebook5react29NativeFileReaderModuleSpecJSIENS_9allocatorIS3_EEE21__on_zero_shared_weakEv
+__ZZ40+[RCTFileReaderModule __rct_export__310]E6config
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+__ZZ40+[RCTFileReaderModule __rct_export__561]E6config
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.29
+__OBJC_$_CLASS_METHODS_RCTFileReaderModule
+__OBJC_$_PROTOCOL_REFS_NativeFileReaderModuleSpec
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NativeFileReaderModuleSpec
+__OBJC_$_PROTOCOL_METHOD_TYPES_NativeFileReaderModuleSpec
+__OBJC_PROTOCOL_$_NativeFileReaderModuleSpec
+__OBJC_LABEL_PROTOCOL_$_NativeFileReaderModuleSpec
+__OBJC_CLASS_PROTOCOLS_$_RCTFileReaderModule
+__OBJC_METACLASS_RO_$_RCTFileReaderModule
+__OBJC_$_INSTANCE_METHODS_RCTFileReaderModule
+_OBJC_IVAR_$_RCTFileReaderModule._moduleRegistry
+__OBJC_$_INSTANCE_VARIABLES_RCTFileReaderModule
+__OBJC_$_PROP_LIST_RCTFileReaderModule
+__OBJC_CLASS_RO_$_RCTFileReaderModule
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_SELECTOR_REFERENCES_.133
+__ZTSNSt3__120__shared_ptr_emplaceIN8facebook5react29NativeFileReaderModuleSpecJSIENS_9allocatorIS3_EEEE
+__ZTINSt3__120__shared_ptr_emplaceIN8facebook5react29NativeFileReaderModuleSpecJSIENS_9allocatorIS3_EEEE
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/Libraries/Blob/RCTFileReaderModule.mm
+RCTFileReaderModuleCls
+node_modules/react-native/Libraries/Blob/RCTFileReaderModule.mm
+shared_ptr<facebook::react::NativeFileReaderModuleSpecJSI>
+make_shared<facebook::react::NativeFileReaderModuleSpecJSI, const facebook::react::ObjCTurboModule::InitParams &, void>
+allocate_shared<facebook::react::NativeFileReaderModuleSpecJSI, std::__1::allocator<facebook::react::NativeFileReaderModuleSpecJSI>, const facebook::react::ObjCTurboModule::InitParams &, void>
+__create_with_control_block<facebook::react::NativeFileReaderModuleSpecJSI, std::__1::__shared_ptr_emplace<facebook::react::NativeFileReaderModuleSpecJSI, std::__1::allocator<facebook::react::NativeFileReaderModuleSpecJSI> > >
+__allocation_guard<std::__1::allocator<facebook::react::NativeFileReaderModuleSpecJSI> >
+__OBJC_METACLASS_RO_$_PodsDummy_React_RCTBlob
+__OBJC_CLASS_RO_$_PodsDummy_React_RCTBlob
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/React-RCTBlob/React-RCTBlob-dummy.m

@@ -1,0 +1,70 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/React-logger/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/React-logger.build/DerivedSources/logger_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+__OBJC_METACLASS_RO_$_PodsDummy_React_logger
+__OBJC_CLASS_RO_$_PodsDummy_React_logger
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/React-logger/React-logger-dummy.m
+__ZNSt3__116__pad_and_outputIcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_
+___clang_call_terminate
+__ZL19_reactnativelogfunc
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native/ReactCommon/logger/react_native_log.cpp
+__pad_and_output<char, std::__1::char_traits<char> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/locale
+width
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/ios
+sputn
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/streambuf
+~basic_string
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/string
+deallocate
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/allocator_traits.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__memory/allocator.h
+__libcpp_deallocate
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/new
+__do_deallocate_handle_size<>
+__libcpp_operator_delete<void *>
+__get_long_pointer
+__is_long
+data
+__get_pointer
+basic_string
+__init
+assign
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__string
+__set_short_size
+__set_long_size
+__set_long_cap
+__set_long_pointer
+allocate
+__libcpp_allocate
+__libcpp_operator_new<unsigned long>
+__recommend
+__align_it<16UL>
+__put_character_sequence<char, std::__1::char_traits<char> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/ostream
+setstate
+failed
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h
+fill
+widen
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/c++/v1/__locale
+use_facet<std::__1::ctype<char> >
+eq_int_type
+flags
+ostreambuf_iterator
+rdbuf
+operator bool
+operator<<<std::__1::char_traits<char> >
+length
+_react_native_log_default
+node_modules/react-native/ReactCommon/logger/react_native_log.cpp
+/Users/nxdm/Developer/GitHub/AwesomeProject
+react_native_log_fatal
+_react_native_log
+react_native_log_error
+react_native_log_warn
+react_native_log_info
+set_react_native_logfunc

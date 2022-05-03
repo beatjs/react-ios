@@ -278,8 +278,7 @@
 				ORGANIZATIONNAME = 42330633;
 				TargetAttributes = {
 					6003F589195388D20070C39A = {
-						DevelopmentTeam = LZGGBJSZG3;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
@@ -360,28 +359,30 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ReactNativeCore_Example/Pods-ReactNativeCore_Example-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/CoreModules/CoreModules.framework/CoreModules",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/cxxreact/cxxreact.framework/cxxreact",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/DoubleConversion/DoubleConversion.framework/DoubleConversion",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/FBReactNativeSpec/FBReactNativeSpec.framework/FBReactNativeSpec",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/folly/folly.framework/folly",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/glog/glog.framework/glog",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/jsi/jsi.framework/jsi",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/jsinspector/jsinspector.framework/jsinspector",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/jsireact/jsireact.framework/jsireact",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTAnimation/RCTAnimation.framework/RCTAnimation",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTBlob/RCTBlob.framework/RCTBlob",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTImage/RCTImage.framework/RCTImage",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTLinking/RCTLinking.framework/RCTLinking",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTNetwork/RCTNetwork.framework/RCTNetwork",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTSettings/RCTSettings.framework/RCTSettings",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTText/RCTText.framework/RCTText",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTTypeSafety/RCTTypeSafety.framework/RCTTypeSafety",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/RCTVibration/RCTVibration.framework/RCTVibration",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/React/React.framework/React",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/ReactCommon/ReactCommon.framework/ReactCommon",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/reactperflogger/reactperflogger.framework/reactperflogger",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/yoga/yoga.framework/yoga",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/CoreModules.framework/CoreModules",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/cxxreact.framework/cxxreact",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/DoubleConversion.framework/DoubleConversion",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/FBReactNativeSpec.framework/FBReactNativeSpec",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/fmt.framework/fmt",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/folly.framework/folly",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/glog.framework/glog",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/jsi.framework/jsi",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/jsinspector.framework/jsinspector",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/jsireact.framework/jsireact",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/logger.framework/logger",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTAnimation.framework/RCTAnimation",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTBlob.framework/RCTBlob",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTImage.framework/RCTImage",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTLinking.framework/RCTLinking",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTNetwork.framework/RCTNetwork",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTSettings.framework/RCTSettings",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTText.framework/RCTText",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTTypeSafety.framework/RCTTypeSafety",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/RCTVibration.framework/RCTVibration",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/React.framework/React",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/ReactCommon.framework/ReactCommon",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/reactperflogger.framework/reactperflogger",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/react-ios/yoga.framework/yoga",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
@@ -389,11 +390,13 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/cxxreact.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DoubleConversion.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBReactNativeSpec.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/fmt.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/folly.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsi.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsinspector.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsireact.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/logger.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTAnimation.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTBlob.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTImage.framework",
@@ -573,9 +576,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = LZGGBJSZG3;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ReactNativeCore/ReactNativeCore-Prefix.pch";
 				INFOPLIST_FILE = "ReactNativeCore/ReactNativeCore-Info.plist";
@@ -597,9 +600,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = LZGGBJSZG3;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ReactNativeCore/ReactNativeCore-Prefix.pch";
 				INFOPLIST_FILE = "ReactNativeCore/ReactNativeCore-Info.plist";

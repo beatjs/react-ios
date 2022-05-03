@@ -1,5 +1,5 @@
 PODS:
-  - react-ios (0.63.4.3)
+  - react-ios (0.67.4.0)
 
 DEPENDENCIES:
   - react-ios (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  react-ios: b3dd62165a514f038001ed6f74d282b3e1ecba81
+  react-ios: 3cc8b213f0647156a489504ec7d51a1c93079c2c
 
 PODFILE CHECKSUM: c38c8b12df7fefe39e4a300af184a0fd3a31e709
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2
