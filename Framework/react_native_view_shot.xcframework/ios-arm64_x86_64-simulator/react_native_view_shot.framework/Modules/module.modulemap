@@ -1,0 +1,6 @@
+framework module react_native_view_shot {
+  umbrella header "react-native-view-shot-umbrella.h"
+
+  export *
+  module * { export * }
+}

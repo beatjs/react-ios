@@ -1,0 +1,2298 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/RNSVG/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/RNSVG.build/DerivedSources/RNSVG_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
++[RCTConvert(RNSVG) RNSVGCGFCRule:]
+___35+[RCTConvert(RNSVG) RNSVGCGFCRule:]_block_invoke
++[RCTConvert(RNSVG) RNSVGVBMOS:]
+___32+[RCTConvert(RNSVG) RNSVGVBMOS:]_block_invoke
++[RCTConvert(RNSVG) RNSVGUnits:]
+___32+[RCTConvert(RNSVG) RNSVGUnits:]_block_invoke
++[RCTConvert(RNSVG) RNSVGBrush:]
++[RCTConvert(RNSVG) RNSVGCGPath:]
++[RCTConvert(RNSVG) RNSVGLength:]
++[RCTConvert(RNSVG) RNSVGLengthArray:]
++[RCTConvert(RNSVG) RNSVGCGRect:offset:]
++[RCTConvert(RNSVG) UIColor:offset:]
++[RCTConvert(RNSVG) RNSVGCGGradient:]
+_RNSVGCGFCRule:.mapping
+_RNSVGCGFCRule:.onceToken
+___block_descriptor_32_e5_v8?0l
+___block_literal_global
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.9
+_RNSVGVBMOS:.mapping
+_RNSVGVBMOS:.onceToken
+___block_literal_global.10
+_RNSVGUnits:.mapping
+_RNSVGUnits:.onceToken
+___block_literal_global.18
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_CLASSLIST_REFERENCES_$_.70
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_CLASSLIST_REFERENCES_$_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_CLASSLIST_REFERENCES_$_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_CLASSLIST_REFERENCES_$_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+__OBJC_$_CATEGORY_CLASS_METHODS_RCTConvert_$_RNSVG
+__OBJC_$_CATEGORY_RCTConvert_$_RNSVG
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Utils/RCTConvert+RNSVG.m
+llvm.loop.mustprogress
+node_modules/react-native-svg/apple/Utils/RCTConvert+RNSVG.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+__tg_fmax
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/tgmath.h
+__tg_fmin
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+__32+[RCTConvert(RNSVG) RNSVGUnits:]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/once.h
+__32+[RCTConvert(RNSVG) RNSVGVBMOS:]_block_invoke
+__35+[RCTConvert(RNSVG) RNSVGCGFCRule:]_block_invoke
+__OBJC_METACLASS_RO_$_PodsDummy_RNSVG
+__OBJC_CLASS_RO_$_PodsDummy_RNSVG
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/RNSVG/RNSVG-dummy.m
+-[RNSVGBezierElement init]
++[RNSVGBezierElement elementWithPathElement:]
++[RNSVGBezierElement elementsFromCGPath:]
+-[RNSVGBezierElement elementType]
+-[RNSVGBezierElement setElementType:]
+-[RNSVGBezierElement point]
+-[RNSVGBezierElement setPoint:]
+-[RNSVGBezierElement controlPoint1]
+-[RNSVGBezierElement setControlPoint1:]
+-[RNSVGBezierElement controlPoint2]
+-[RNSVGBezierElement setControlPoint2:]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_SELECTOR_REFERENCES_.17
+__OBJC_$_CLASS_METHODS_RNSVGBezierElement
+__OBJC_METACLASS_RO_$_RNSVGBezierElement
+__OBJC_$_INSTANCE_METHODS_RNSVGBezierElement
+_OBJC_IVAR_$_RNSVGBezierElement._elementType
+_OBJC_IVAR_$_RNSVGBezierElement._point
+_OBJC_IVAR_$_RNSVGBezierElement._controlPoint1
+_OBJC_IVAR_$_RNSVGBezierElement._controlPoint2
+__OBJC_$_INSTANCE_VARIABLES_RNSVGBezierElement
+__OBJC_$_PROP_LIST_RNSVGBezierElement
+__OBJC_CLASS_RO_$_RNSVGBezierElement
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Utils/RNSVGBezierElement.m
+node_modules/react-native-svg/apple/Utils/RNSVGBezierElement.h
+node_modules/react-native-svg/apple/Utils/RNSVGBezierElement.m
+RNSVGBezierElement_getBezierElements
+-[RNSVGBrush initWithArray:]
+-[RNSVGBrush paint:opacity:painter:bounds:]
+-[RNSVGBrush applyFillColor:opacity:]
+-[RNSVGBrush applyStrokeColor:opacity:]
+-[RNSVGBrush getColorWithOpacity:]
+-[RNSVGBrush paint:opacity:painter:]
+-[RNSVGBrush brushRef]
+-[RNSVGBrush setBrushRef:]
+-[RNSVGBrush .cxx_destruct]
+__OBJC_METACLASS_RO_$_RNSVGBrush
+__OBJC_$_INSTANCE_METHODS_RNSVGBrush
+_OBJC_IVAR_$_RNSVGBrush._brushRef
+__OBJC_$_INSTANCE_VARIABLES_RNSVGBrush
+__OBJC_$_PROP_LIST_RNSVGBrush
+__OBJC_CLASS_RO_$_RNSVGBrush
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Brushes/RNSVGBrush.m
+node_modules/react-native-svg/apple/Brushes/RNSVGBrush.m
+node_modules/react-native-svg/apple/Brushes/RNSVGBrush.h
+-[RNSVGCircle setCx:]
+-[RNSVGCircle setCy:]
+-[RNSVGCircle setR:]
+-[RNSVGCircle getPath:]
+-[RNSVGCircle cx]
+-[RNSVGCircle cy]
+-[RNSVGCircle r]
+-[RNSVGCircle .cxx_destruct]
+_OBJC_IVAR_$_RNSVGCircle._cx
+_OBJC_IVAR_$_RNSVGCircle._cy
+_OBJC_IVAR_$_RNSVGCircle._r
+__OBJC_METACLASS_RO_$_RNSVGCircle
+__OBJC_$_INSTANCE_METHODS_RNSVGCircle
+__OBJC_$_INSTANCE_VARIABLES_RNSVGCircle
+__OBJC_$_PROP_LIST_RNSVGCircle
+__OBJC_CLASS_RO_$_RNSVGCircle
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Shapes/RNSVGCircle.m
+node_modules/react-native-svg/apple/Shapes/RNSVGCircle.m
+node_modules/react-native-svg/apple/Shapes/RNSVGCircle.h
++[RNSVGCircleManager moduleName]
++[RNSVGCircleManager load]
+-[RNSVGCircleManager node]
++[RNSVGCircleManager propConfig_cx]
++[RNSVGCircleManager propConfig_cy]
++[RNSVGCircleManager propConfig_r]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+__OBJC_$_CLASS_METHODS_RNSVGCircleManager
+__OBJC_METACLASS_RO_$_RNSVGCircleManager
+__OBJC_$_INSTANCE_METHODS_RNSVGCircleManager
+__OBJC_CLASS_RO_$_RNSVGCircleManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGCircleManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGCircleManager.m
+-[RNSVGClipPath parseReference]
+-[RNSVGClipPath isSimpleClipPath]
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.110
+__OBJC_METACLASS_RO_$_RNSVGClipPath
+__OBJC_$_INSTANCE_METHODS_RNSVGClipPath
+__OBJC_CLASS_RO_$_RNSVGClipPath
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGClipPath.m
+node_modules/react-native-svg/apple/Elements/RNSVGClipPath.m
++[RNSVGClipPathManager moduleName]
++[RNSVGClipPathManager load]
+-[RNSVGClipPathManager node]
+__OBJC_$_CLASS_METHODS_RNSVGClipPathManager
+__OBJC_METACLASS_RO_$_RNSVGClipPathManager
+__OBJC_$_INSTANCE_METHODS_RNSVGClipPathManager
+__OBJC_CLASS_RO_$_RNSVGClipPathManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGClipPathManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGClipPathManager.m
+-[RNSVGContextBrush initFill]
+-[RNSVGContextBrush initStroke]
+-[RNSVGContextBrush dealloc]
+-[RNSVGContextBrush applyFillColor:opacity:]
+-[RNSVGContextBrush applyStrokeColor:opacity:]
+_OBJC_IVAR_$_RNSVGContextBrush._isStroke
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.19
+__OBJC_METACLASS_RO_$_RNSVGContextBrush
+__OBJC_$_INSTANCE_METHODS_RNSVGContextBrush
+__OBJC_$_INSTANCE_VARIABLES_RNSVGContextBrush
+__OBJC_CLASS_RO_$_RNSVGContextBrush
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Brushes/RNSVGContextBrush.m
+node_modules/react-native-svg/apple/Brushes/RNSVGContextBrush.m
+-[RNSVGDefs renderTo:]
+-[RNSVGDefs parseReference]
+___27-[RNSVGDefs parseReference]_block_invoke
+-[RNSVGDefs hitTest:withEvent:]
+___block_descriptor_32_e19_B16?0"RNSVGNode"8l
+__OBJC_METACLASS_RO_$_RNSVGDefs
+__OBJC_$_INSTANCE_METHODS_RNSVGDefs
+__OBJC_CLASS_RO_$_RNSVGDefs
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGDefs.m
+node_modules/react-native-svg/apple/Elements/RNSVGDefs.m
+__27-[RNSVGDefs parseReference]_block_invoke
++[RNSVGDefsManager moduleName]
++[RNSVGDefsManager load]
+-[RNSVGDefsManager node]
+-[RNSVGDefsManager view]
+__OBJC_$_CLASS_METHODS_RNSVGDefsManager
+__OBJC_METACLASS_RO_$_RNSVGDefsManager
+__OBJC_$_INSTANCE_METHODS_RNSVGDefsManager
+__OBJC_CLASS_RO_$_RNSVGDefsManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGDefsManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGDefsManager.m
+-[RNSVGEllipse setCx:]
+-[RNSVGEllipse setCy:]
+-[RNSVGEllipse setRx:]
+-[RNSVGEllipse setRy:]
+-[RNSVGEllipse getPath:]
+-[RNSVGEllipse cx]
+-[RNSVGEllipse cy]
+-[RNSVGEllipse rx]
+-[RNSVGEllipse ry]
+-[RNSVGEllipse .cxx_destruct]
+_OBJC_IVAR_$_RNSVGEllipse._cx
+_OBJC_IVAR_$_RNSVGEllipse._cy
+_OBJC_IVAR_$_RNSVGEllipse._rx
+_OBJC_IVAR_$_RNSVGEllipse._ry
+__OBJC_METACLASS_RO_$_RNSVGEllipse
+__OBJC_$_INSTANCE_METHODS_RNSVGEllipse
+__OBJC_$_INSTANCE_VARIABLES_RNSVGEllipse
+__OBJC_$_PROP_LIST_RNSVGEllipse
+__OBJC_CLASS_RO_$_RNSVGEllipse
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Shapes/RNSVGEllipse.m
+node_modules/react-native-svg/apple/Shapes/RNSVGEllipse.m
+node_modules/react-native-svg/apple/Shapes/RNSVGEllipse.h
++[RNSVGEllipseManager moduleName]
++[RNSVGEllipseManager load]
+-[RNSVGEllipseManager node]
++[RNSVGEllipseManager propConfig_cx]
++[RNSVGEllipseManager propConfig_cy]
++[RNSVGEllipseManager propConfig_rx]
++[RNSVGEllipseManager propConfig_ry]
+__OBJC_$_CLASS_METHODS_RNSVGEllipseManager
+__OBJC_METACLASS_RO_$_RNSVGEllipseManager
+__OBJC_$_INSTANCE_METHODS_RNSVGEllipseManager
+__OBJC_CLASS_RO_$_RNSVGEllipseManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGEllipseManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGEllipseManager.m
++[RNSVGFontData Defaults]
++[RNSVGFontData toAbsoluteWithNSString:fontSize:]
+-[RNSVGFontData setInheritedWeight:]
+-[RNSVGFontData handleNumericWeight:weight:]
++[RNSVGFontData initWithNSDictionary:parent:]
+-[RNSVGFontData .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.123
+_RNSVGFontWeights
+_OBJC_SELECTOR_REFERENCES_.125
+_RNSVGAbsoluteFontWeights
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+__OBJC_$_CLASS_METHODS_RNSVGFontData
+__OBJC_METACLASS_RO_$_RNSVGFontData
+__OBJC_$_INSTANCE_METHODS_RNSVGFontData
+__OBJC_$_INSTANCE_VARIABLES_RNSVGFontData
+__OBJC_CLASS_RO_$_RNSVGFontData
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGFontData.m
+node_modules/react-native-svg/apple/Text/RNSVGFontData.m
+nearestFontWeight
+__tg_round
+lighter
+bolder
+AbsoluteFontWeight
+-[RNSVGForeignObject hitTest:withEvent:]
+-[RNSVGForeignObject parseReference]
+-[RNSVGForeignObject renderLayerTo:rect:]
+-[RNSVGForeignObject renderGroupTo:rect:]
+___41-[RNSVGForeignObject renderGroupTo:rect:]_block_invoke
+___copy_helper_block_e8_32s40r
+___destroy_helper_block_e8_32s40r
+-[RNSVGForeignObject drawRect:]
+-[RNSVGForeignObject setX:]
+-[RNSVGForeignObject setY:]
+-[RNSVGForeignObject setForeignObjectwidth:]
+-[RNSVGForeignObject setForeignObjectheight:]
+-[RNSVGForeignObject x]
+-[RNSVGForeignObject y]
+-[RNSVGForeignObject foreignObjectwidth]
+-[RNSVGForeignObject foreignObjectheight]
+-[RNSVGForeignObject .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_CLASSLIST_REFERENCES_$_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_CLASSLIST_REFERENCES_$_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_CLASSLIST_REFERENCES_$_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+___block_descriptor_88_e8_32s40r_e16_B16?0"UIView"8l
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_IVAR_$_RNSVGForeignObject._x
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_IVAR_$_RNSVGForeignObject._y
+_OBJC_IVAR_$_RNSVGForeignObject._foreignObjectwidth
+_OBJC_IVAR_$_RNSVGForeignObject._foreignObjectheight
+__OBJC_METACLASS_RO_$_RNSVGForeignObject
+__OBJC_$_INSTANCE_METHODS_RNSVGForeignObject
+__OBJC_$_INSTANCE_VARIABLES_RNSVGForeignObject
+__OBJC_$_PROP_LIST_RNSVGForeignObject
+__OBJC_CLASS_RO_$_RNSVGForeignObject
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGForeignObject.m
+node_modules/react-native-svg/apple/Elements/RNSVGForeignObject.m
+node_modules/react-native-svg/apple/Elements/RNSVGForeignObject.h
+__destroy_helper_block_e8_32s40r
+__copy_helper_block_e8_32s40r
+__41-[RNSVGForeignObject renderGroupTo:rect:]_block_invoke
+__inline_isnand
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/math.h
+__CGPointApplyAffineTransform
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h
++[RNSVGForeignObjectManager moduleName]
++[RNSVGForeignObjectManager load]
+-[RNSVGForeignObjectManager node]
++[RNSVGForeignObjectManager propConfig_x]
++[RNSVGForeignObjectManager propConfig_y]
++[RNSVGForeignObjectManager propConfig_foreignObjectheight]
++[RNSVGForeignObjectManager propConfig_foreignObjectwidth]
++[RNSVGForeignObjectManager propConfig_height]
+-[RNSVGForeignObjectManager set_height:forView:withDefaultView:]
++[RNSVGForeignObjectManager propConfig_width]
+-[RNSVGForeignObjectManager set_width:forView:withDefaultView:]
+_OBJC_CLASSLIST_REFERENCES_$_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_CLASSLIST_REFERENCES_$_.108
+__OBJC_$_CLASS_METHODS_RNSVGForeignObjectManager
+__OBJC_METACLASS_RO_$_RNSVGForeignObjectManager
+__OBJC_$_INSTANCE_METHODS_RNSVGForeignObjectManager
+__OBJC_CLASS_RO_$_RNSVGForeignObjectManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGForeignObjectManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGForeignObjectManager.m
+-[RNSVGGlyphContext getFontContext]
+-[RNSVGGlyphContext getGlyphFont]
+-[RNSVGGlyphContext pushIndices]
+-[RNSVGGlyphContext initWithWidth:height:]
+-[RNSVGGlyphContext getFont]
+-[RNSVGGlyphContext getTopOrParentFont:]
+-[RNSVGGlyphContext pushNode:andFont:]
+-[RNSVGGlyphContext pushContext:font:]
+-[RNSVGGlyphContext pushContext:font:x:y:deltaX:deltaY:rotate:]
+-[RNSVGGlyphContext popContext]
++[RNSVGGlyphContext incrementIndices:topIndex:]
+-[RNSVGGlyphContext getFontSize]
+-[RNSVGGlyphContext nextXWithDouble:]
+-[RNSVGGlyphContext nextY]
+-[RNSVGGlyphContext nextDeltaX]
+-[RNSVGGlyphContext nextDeltaY]
+-[RNSVGGlyphContext nextRotation]
+-[RNSVGGlyphContext getWidth]
+-[RNSVGGlyphContext getHeight]
+-[RNSVGGlyphContext .cxx_destruct]
+_RNSVGFontStyleStrings
+_RNSVGFontWeightStrings
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_CLASSLIST_REFERENCES_$_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_CLASSLIST_REFERENCES_$_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_CLASSLIST_REFERENCES_$_.157
+__OBJC_$_CLASS_METHODS_RNSVGGlyphContext
+__OBJC_METACLASS_RO_$_RNSVGGlyphContext
+__OBJC_$_INSTANCE_METHODS_RNSVGGlyphContext
+__OBJC_$_INSTANCE_VARIABLES_RNSVGGlyphContext
+__OBJC_CLASS_RO_$_RNSVGGlyphContext
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGGlyphContext.m
+node_modules/react-native-svg/apple/Text/RNSVGGlyphContext.m
+-[RNSVGGroup setFont:]
+-[RNSVGGroup renderLayerTo:rect:]
+-[RNSVGGroup renderGroupTo:rect:]
+___33-[RNSVGGroup renderGroupTo:rect:]_block_invoke
+-[RNSVGGroup setupGlyphContext:]
+-[RNSVGGroup getGlyphContext]
+-[RNSVGGroup pushGlyphContext]
+-[RNSVGGroup popGlyphContext]
+-[RNSVGGroup renderPathTo:rect:]
+-[RNSVGGroup getPath:]
+___22-[RNSVGGroup getPath:]_block_invoke
+___copy_helper_block_e8_32r
+___destroy_helper_block_e8_32r
+-[RNSVGGroup hitTest:withEvent:]
+-[RNSVGGroup parseReference]
+___28-[RNSVGGroup parseReference]_block_invoke
+-[RNSVGGroup resetProperties]
+___29-[RNSVGGroup resetProperties]_block_invoke
+-[RNSVGGroup font]
+-[RNSVGGroup .cxx_destruct]
+_OBJC_IVAR_$_RNSVGGroup._font
+_OBJC_CLASSLIST_REFERENCES_$_.109
+_OBJC_CLASSLIST_REFERENCES_$_.110
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_CLASSLIST_REFERENCES_$_.130
+_OBJC_CLASSLIST_REFERENCES_$_.182
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_IVAR_$_RNSVGGroup._glyphContext
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+___block_descriptor_48_e8_32r_e19_B16?0"RNSVGNode"8l
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_CLASSLIST_REFERENCES_$_.224
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_SELECTOR_REFERENCES_.246
+_OBJC_SELECTOR_REFERENCES_.248
+___block_literal_global.249
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RNSVGContainer
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RNSVGContainer
+__OBJC_$_PROTOCOL_METHOD_TYPES_RNSVGContainer
+__OBJC_PROTOCOL_$_RNSVGContainer
+__OBJC_LABEL_PROTOCOL_$_RNSVGContainer
+__OBJC_CLASS_PROTOCOLS_$_RNSVGGroup
+__OBJC_METACLASS_RO_$_RNSVGGroup
+__OBJC_$_INSTANCE_METHODS_RNSVGGroup
+__OBJC_$_INSTANCE_VARIABLES_RNSVGGroup
+__OBJC_$_PROP_LIST_RNSVGGroup
+__OBJC_CLASS_RO_$_RNSVGGroup
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGGroup.m
+node_modules/react-native-svg/apple/Elements/RNSVGGroup.m
+node_modules/react-native-svg/apple/Elements/RNSVGGroup.h
+__29-[RNSVGGroup resetProperties]_block_invoke
+__28-[RNSVGGroup parseReference]_block_invoke
+__destroy_helper_block_e8_32r
+__copy_helper_block_e8_32r
+__22-[RNSVGGroup getPath:]_block_invoke
+__33-[RNSVGGroup renderGroupTo:rect:]_block_invoke
++[RNSVGGroupManager moduleName]
++[RNSVGGroupManager load]
+-[RNSVGGroupManager node]
++[RNSVGGroupManager propConfig_font]
++[RNSVGGroupManager propConfig_fontSize]
+-[RNSVGGroupManager set_fontSize:forView:withDefaultView:]
++[RNSVGGroupManager propConfig_fontWeight]
+-[RNSVGGroupManager set_fontWeight:forView:withDefaultView:]
+_OBJC_CLASSLIST_REFERENCES_$_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_CLASSLIST_REFERENCES_$_.122
+__OBJC_$_CLASS_METHODS_RNSVGGroupManager
+__OBJC_METACLASS_RO_$_RNSVGGroupManager
+__OBJC_$_INSTANCE_METHODS_RNSVGGroupManager
+__OBJC_CLASS_RO_$_RNSVGGroupManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGGroupManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGGroupManager.m
+-[RNSVGImage setSrc:]
+___21-[RNSVGImage setSrc:]_block_invoke
+___21-[RNSVGImage setSrc:]_block_invoke_2
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[RNSVGImage setX:]
+-[RNSVGImage setY:]
+-[RNSVGImage setImagewidth:]
+-[RNSVGImage setImageheight:]
+-[RNSVGImage setAlign:]
+-[RNSVGImage setMeetOrSlice:]
+-[RNSVGImage dealloc]
+-[RNSVGImage renderLayerTo:rect:]
+-[RNSVGImage getHitArea]
+-[RNSVGImage getPath:]
+-[RNSVGImage bridge]
+-[RNSVGImage setBridge:]
+-[RNSVGImage src]
+-[RNSVGImage x]
+-[RNSVGImage y]
+-[RNSVGImage imagewidth]
+-[RNSVGImage imageheight]
+-[RNSVGImage align]
+-[RNSVGImage meetOrSlice]
+-[RNSVGImage .cxx_destruct]
+_OBJC_IVAR_$_RNSVGImage._src
+_OBJC_IVAR_$_RNSVGImage._image
+_OBJC_IVAR_$_RNSVGImage._imageSize
+_OBJC_IVAR_$_RNSVGImage._reloadImageCancellationBlock
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+___block_descriptor_40_e8_32s_e29_v24?0"NSError"8"UIImage"16l
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_IVAR_$_RNSVGImage._x
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_IVAR_$_RNSVGImage._y
+_OBJC_IVAR_$_RNSVGImage._imagewidth
+_OBJC_IVAR_$_RNSVGImage._imageheight
+_OBJC_IVAR_$_RNSVGImage._align
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_IVAR_$_RNSVGImage._meetOrSlice
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_IVAR_$_RNSVGImage._bridge
+__OBJC_METACLASS_RO_$_RNSVGImage
+__OBJC_$_INSTANCE_METHODS_RNSVGImage
+__OBJC_$_INSTANCE_VARIABLES_RNSVGImage
+__OBJC_$_PROP_LIST_RNSVGImage
+__OBJC_CLASS_RO_$_RNSVGImage
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGImage.m
+node_modules/react-native-svg/apple/Elements/RNSVGImage.m
+node_modules/react-native-svg/apple/Elements/RNSVGImage.h
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__21-[RNSVGImage setSrc:]_block_invoke_2
+__21-[RNSVGImage setSrc:]_block_invoke
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/queue.h
++[RNSVGImageManager moduleName]
++[RNSVGImageManager load]
+-[RNSVGImageManager node]
++[RNSVGImageManager propConfig_x]
++[RNSVGImageManager propConfig_y]
++[RNSVGImageManager propConfig_imagewidth]
++[RNSVGImageManager propConfig_imageheight]
++[RNSVGImageManager propConfig_width]
+-[RNSVGImageManager set_width:forView:withDefaultView:]
++[RNSVGImageManager propConfig_height]
+-[RNSVGImageManager set_height:forView:withDefaultView:]
++[RNSVGImageManager propConfig_src]
++[RNSVGImageManager propConfig_align]
++[RNSVGImageManager propConfig_meetOrSlice]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_CLASSLIST_REFERENCES_$_.14
+__OBJC_$_CLASS_METHODS_RNSVGImageManager
+__OBJC_METACLASS_RO_$_RNSVGImageManager
+__OBJC_$_INSTANCE_METHODS_RNSVGImageManager
+__OBJC_CLASS_RO_$_RNSVGImageManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGImageManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGImageManager.m
+-[RNSVGLength init]
++[RNSVGLength lengthWithNumber:]
++[RNSVGLength lengthWithString:]
+-[RNSVGLength isEqualTo:]
+-[RNSVGLength value]
+-[RNSVGLength setValue:]
+-[RNSVGLength unit]
+-[RNSVGLength setUnit:]
+_OBJC_SELECTOR_REFERENCES_.21
+__OBJC_$_CLASS_METHODS_RNSVGLength
+__OBJC_METACLASS_RO_$_RNSVGLength
+__OBJC_$_INSTANCE_METHODS_RNSVGLength
+_OBJC_IVAR_$_RNSVGLength._unit
+_OBJC_IVAR_$_RNSVGLength._value
+__OBJC_$_INSTANCE_VARIABLES_RNSVGLength
+__OBJC_$_PROP_LIST_RNSVGLength
+__OBJC_CLASS_RO_$_RNSVGLength
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Utils/RNSVGLength.m
+node_modules/react-native-svg/apple/Utils/RNSVGLength.h
+node_modules/react-native-svg/apple/Utils/RNSVGLength.m
+-[RNSVGLine setX1:]
+-[RNSVGLine setY1:]
+-[RNSVGLine setX2:]
+-[RNSVGLine setY2:]
+-[RNSVGLine getPath:]
+-[RNSVGLine x1]
+-[RNSVGLine y1]
+-[RNSVGLine x2]
+-[RNSVGLine y2]
+-[RNSVGLine .cxx_destruct]
+_OBJC_IVAR_$_RNSVGLine._x1
+_OBJC_IVAR_$_RNSVGLine._y1
+_OBJC_IVAR_$_RNSVGLine._x2
+_OBJC_IVAR_$_RNSVGLine._y2
+__OBJC_METACLASS_RO_$_RNSVGLine
+__OBJC_$_INSTANCE_METHODS_RNSVGLine
+__OBJC_$_INSTANCE_VARIABLES_RNSVGLine
+__OBJC_$_PROP_LIST_RNSVGLine
+__OBJC_CLASS_RO_$_RNSVGLine
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Shapes/RNSVGLine.m
+node_modules/react-native-svg/apple/Shapes/RNSVGLine.m
+node_modules/react-native-svg/apple/Shapes/RNSVGLine.h
+-[RNSVGLinearGradient init]
+-[RNSVGLinearGradient setX1:]
+-[RNSVGLinearGradient setY1:]
+-[RNSVGLinearGradient setX2:]
+-[RNSVGLinearGradient setY2:]
+-[RNSVGLinearGradient setGradient:]
+-[RNSVGLinearGradient setGradientUnits:]
+-[RNSVGLinearGradient setGradientTransform:]
+-[RNSVGLinearGradient hitTest:withEvent:]
+-[RNSVGLinearGradient parseReference]
+-[RNSVGLinearGradient x1]
+-[RNSVGLinearGradient y1]
+-[RNSVGLinearGradient x2]
+-[RNSVGLinearGradient y2]
+-[RNSVGLinearGradient gradient]
+-[RNSVGLinearGradient gradientUnits]
+-[RNSVGLinearGradient gradientTransform]
+-[RNSVGLinearGradient .cxx_destruct]
+_OBJC_IVAR_$_RNSVGLinearGradient._gradientTransform
+_OBJC_IVAR_$_RNSVGLinearGradient._x1
+_OBJC_IVAR_$_RNSVGLinearGradient._y1
+_OBJC_IVAR_$_RNSVGLinearGradient._x2
+_OBJC_IVAR_$_RNSVGLinearGradient._y2
+_OBJC_IVAR_$_RNSVGLinearGradient._gradient
+_OBJC_IVAR_$_RNSVGLinearGradient._gradientUnits
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+__OBJC_METACLASS_RO_$_RNSVGLinearGradient
+__OBJC_$_INSTANCE_METHODS_RNSVGLinearGradient
+__OBJC_$_INSTANCE_VARIABLES_RNSVGLinearGradient
+__OBJC_$_PROP_LIST_RNSVGLinearGradient
+__OBJC_CLASS_RO_$_RNSVGLinearGradient
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGLinearGradient.m
+node_modules/react-native-svg/apple/Elements/RNSVGLinearGradient.m
+node_modules/react-native-svg/apple/Elements/RNSVGLinearGradient.h
++[RNSVGLinearGradientManager moduleName]
++[RNSVGLinearGradientManager load]
+-[RNSVGLinearGradientManager node]
++[RNSVGLinearGradientManager propConfig_x1]
++[RNSVGLinearGradientManager propConfig_y1]
++[RNSVGLinearGradientManager propConfig_x2]
++[RNSVGLinearGradientManager propConfig_y2]
++[RNSVGLinearGradientManager propConfig_gradient]
++[RNSVGLinearGradientManager propConfig_gradientUnits]
++[RNSVGLinearGradientManager propConfig_gradientTransform]
+__OBJC_$_CLASS_METHODS_RNSVGLinearGradientManager
+__OBJC_METACLASS_RO_$_RNSVGLinearGradientManager
+__OBJC_$_INSTANCE_METHODS_RNSVGLinearGradientManager
+__OBJC_CLASS_RO_$_RNSVGLinearGradientManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGLinearGradientManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGLinearGradientManager.m
++[RNSVGLineManager moduleName]
++[RNSVGLineManager load]
+-[RNSVGLineManager node]
++[RNSVGLineManager propConfig_x1]
++[RNSVGLineManager propConfig_y1]
++[RNSVGLineManager propConfig_x2]
++[RNSVGLineManager propConfig_y2]
+__OBJC_$_CLASS_METHODS_RNSVGLineManager
+__OBJC_METACLASS_RO_$_RNSVGLineManager
+__OBJC_$_INSTANCE_METHODS_RNSVGLineManager
+__OBJC_CLASS_RO_$_RNSVGLineManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGLineManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGLineManager.m
+-[RNSVGMarker hitTest:withEvent:]
+-[RNSVGMarker parseReference]
+___29-[RNSVGMarker parseReference]_block_invoke
+-[RNSVGMarker setX:]
+-[RNSVGMarker setY:]
+-[RNSVGMarker setMarkerWidth:]
+-[RNSVGMarker setMarkerHeight:]
+-[RNSVGMarker setMarkerUnits:]
+-[RNSVGMarker setOrient:]
+-[RNSVGMarker setMinX:]
+-[RNSVGMarker setMinY:]
+-[RNSVGMarker setVbWidth:]
+-[RNSVGMarker setVbHeight:]
+-[RNSVGMarker setAlign:]
+-[RNSVGMarker setMeetOrSlice:]
+-[RNSVGMarker renderMarker:rect:position:strokeWidth:]
+-[RNSVGMarker refX]
+-[RNSVGMarker setRefX:]
+-[RNSVGMarker refY]
+-[RNSVGMarker setRefY:]
+-[RNSVGMarker markerWidth]
+-[RNSVGMarker markerHeight]
+-[RNSVGMarker markerUnits]
+-[RNSVGMarker orient]
+-[RNSVGMarker minX]
+-[RNSVGMarker minY]
+-[RNSVGMarker vbWidth]
+-[RNSVGMarker vbHeight]
+-[RNSVGMarker align]
+-[RNSVGMarker meetOrSlice]
+-[RNSVGMarker .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_IVAR_$_RNSVGMarker._refX
+_OBJC_IVAR_$_RNSVGMarker._refY
+_OBJC_IVAR_$_RNSVGMarker._markerWidth
+_OBJC_IVAR_$_RNSVGMarker._markerHeight
+_OBJC_IVAR_$_RNSVGMarker._markerUnits
+_OBJC_IVAR_$_RNSVGMarker._orient
+_OBJC_IVAR_$_RNSVGMarker._minX
+_OBJC_IVAR_$_RNSVGMarker._minY
+_OBJC_IVAR_$_RNSVGMarker._vbWidth
+_OBJC_IVAR_$_RNSVGMarker._vbHeight
+_OBJC_IVAR_$_RNSVGMarker._align
+_OBJC_IVAR_$_RNSVGMarker._meetOrSlice
+_OBJC_CLASSLIST_REFERENCES_$_.136
+_OBJC_SELECTOR_REFERENCES_.154
+__OBJC_METACLASS_RO_$_RNSVGMarker
+__OBJC_$_INSTANCE_METHODS_RNSVGMarker
+__OBJC_$_INSTANCE_VARIABLES_RNSVGMarker
+__OBJC_$_PROP_LIST_RNSVGMarker
+__OBJC_CLASS_RO_$_RNSVGMarker
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGMarker.m
+node_modules/react-native-svg/apple/Elements/RNSVGMarker.m
+node_modules/react-native-svg/apple/Elements/RNSVGMarker.h
+deg2rad
+__29-[RNSVGMarker parseReference]_block_invoke
++[RNSVGMarkerManager moduleName]
++[RNSVGMarkerManager load]
+-[RNSVGMarkerManager node]
++[RNSVGMarkerManager propConfig_refX]
++[RNSVGMarkerManager propConfig_refY]
++[RNSVGMarkerManager propConfig_markerHeight]
++[RNSVGMarkerManager propConfig_markerWidth]
++[RNSVGMarkerManager propConfig_markerUnits]
++[RNSVGMarkerManager propConfig_orient]
++[RNSVGMarkerManager propConfig_minX]
++[RNSVGMarkerManager propConfig_minY]
++[RNSVGMarkerManager propConfig_vbWidth]
++[RNSVGMarkerManager propConfig_vbHeight]
++[RNSVGMarkerManager propConfig_align]
++[RNSVGMarkerManager propConfig_meetOrSlice]
+__OBJC_$_CLASS_METHODS_RNSVGMarkerManager
+__OBJC_METACLASS_RO_$_RNSVGMarkerManager
+__OBJC_$_INSTANCE_METHODS_RNSVGMarkerManager
+__OBJC_CLASS_RO_$_RNSVGMarkerManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGMarkerManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGMarkerManager.m
+-[RNSVGMarkerPosition init]
++[RNSVGMarkerPosition markerPosition:origin:angle:]
++[RNSVGMarkerPosition fromCGPath:]
+_ComputeQuadTangents
+-[RNSVGMarkerPosition type]
+-[RNSVGMarkerPosition setType:]
+-[RNSVGMarkerPosition origin]
+-[RNSVGMarkerPosition setOrigin:]
+-[RNSVGMarkerPosition angle]
+-[RNSVGMarkerPosition setAngle:]
+_OBJC_SELECTOR_REFERENCES_.11
+__OBJC_$_CLASS_METHODS_RNSVGMarkerPosition
+__OBJC_METACLASS_RO_$_RNSVGMarkerPosition
+__OBJC_$_INSTANCE_METHODS_RNSVGMarkerPosition
+_OBJC_IVAR_$_RNSVGMarkerPosition._type
+_OBJC_IVAR_$_RNSVGMarkerPosition._angle
+_OBJC_IVAR_$_RNSVGMarkerPosition._origin
+__OBJC_$_INSTANCE_VARIABLES_RNSVGMarkerPosition
+__OBJC_$_PROP_LIST_RNSVGMarkerPosition
+__OBJC_CLASS_RO_$_RNSVGMarkerPosition
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Utils/RNSVGMarkerPosition.m
+node_modules/react-native-svg/apple/Utils/RNSVGMarkerPosition.h
+ComputeQuadTangents
+node_modules/react-native-svg/apple/Utils/RNSVGMarkerPosition.m
+subtract
+ExtractPathElementFeatures
+SlopeAngleRadians
+rad2deg
+CurrentAngle
+BisectingAngle
+PathIsDone
+UpdateFromPathElement
+-[RNSVGMask hitTest:withEvent:]
+-[RNSVGMask parseReference]
+-[RNSVGMask setX:]
+-[RNSVGMask setY:]
+-[RNSVGMask setMaskwidth:]
+-[RNSVGMask setMaskheight:]
+-[RNSVGMask setMaskUnits:]
+-[RNSVGMask setMaskContentUnits:]
+-[RNSVGMask setMaskTransform:]
+-[RNSVGMask x]
+-[RNSVGMask y]
+-[RNSVGMask maskwidth]
+-[RNSVGMask maskheight]
+-[RNSVGMask maskUnits]
+-[RNSVGMask maskContentUnits]
+-[RNSVGMask maskTransform]
+-[RNSVGMask .cxx_destruct]
+_OBJC_IVAR_$_RNSVGMask._x
+_OBJC_IVAR_$_RNSVGMask._y
+_OBJC_IVAR_$_RNSVGMask._maskwidth
+_OBJC_IVAR_$_RNSVGMask._maskheight
+_OBJC_IVAR_$_RNSVGMask._maskUnits
+_OBJC_IVAR_$_RNSVGMask._maskContentUnits
+_OBJC_IVAR_$_RNSVGMask._maskTransform
+__OBJC_METACLASS_RO_$_RNSVGMask
+__OBJC_$_INSTANCE_METHODS_RNSVGMask
+__OBJC_$_INSTANCE_VARIABLES_RNSVGMask
+__OBJC_$_PROP_LIST_RNSVGMask
+__OBJC_CLASS_RO_$_RNSVGMask
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGMask.m
+node_modules/react-native-svg/apple/Elements/RNSVGMask.m
+node_modules/react-native-svg/apple/Elements/RNSVGMask.h
++[RNSVGMaskManager moduleName]
++[RNSVGMaskManager load]
+-[RNSVGMaskManager node]
++[RNSVGMaskManager propConfig_x]
++[RNSVGMaskManager propConfig_y]
++[RNSVGMaskManager propConfig_maskheight]
++[RNSVGMaskManager propConfig_maskwidth]
++[RNSVGMaskManager propConfig_height]
+-[RNSVGMaskManager set_height:forView:withDefaultView:]
++[RNSVGMaskManager propConfig_width]
+-[RNSVGMaskManager set_width:forView:withDefaultView:]
++[RNSVGMaskManager propConfig_maskUnits]
++[RNSVGMaskManager propConfig_maskContentUnits]
++[RNSVGMaskManager propConfig_maskTransform]
+__OBJC_$_CLASS_METHODS_RNSVGMaskManager
+__OBJC_METACLASS_RO_$_RNSVGMaskManager
+__OBJC_$_INSTANCE_METHODS_RNSVGMaskManager
+__OBJC_CLASS_RO_$_RNSVGMaskManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGMaskManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGMaskManager.m
+-[RNSVGNode init]
+-[RNSVGNode insertReactSubview:atIndex:]
+-[RNSVGNode removeReactSubview:]
+-[RNSVGNode didUpdateReactSubviews]
+-[RNSVGNode invalidate]
+-[RNSVGNode clearPath]
+-[RNSVGNode clearChildCache]
+-[RNSVGNode clearParentCache]
+-[RNSVGNode textRoot]
+-[RNSVGNode getParentTextRoot]
+-[RNSVGNode getFontSizeFromContext]
+-[RNSVGNode reactSetInheritedBackgroundColor:]
+-[RNSVGNode setPointerEvents:]
+-[RNSVGNode setName:]
+-[RNSVGNode setDisplay:]
+-[RNSVGNode setOpacity:]
+-[RNSVGNode setMatrix:]
+-[RNSVGNode setClientRect:]
+-[RNSVGNode setClipPath:]
+-[RNSVGNode setClipRule:]
+-[RNSVGNode setMask:]
+-[RNSVGNode setMarkerStart:]
+-[RNSVGNode setMarkerMid:]
+-[RNSVGNode setMarkerEnd:]
+-[RNSVGNode beginTransparencyLayer:]
+-[RNSVGNode endTransparencyLayer:]
+-[RNSVGNode renderTo:rect:]
+-[RNSVGNode getClipPath]
+-[RNSVGNode getClipPath:]
+-[RNSVGNode clip:]
+-[RNSVGNode getPath:]
+-[RNSVGNode renderLayerTo:rect:]
+-[RNSVGNode hitTest:withEvent:]
+-[RNSVGNode svgView]
+-[RNSVGNode relativeOnWidthString:]
+-[RNSVGNode relativeOnHeightString:]
+-[RNSVGNode relativeOnOtherString:]
+-[RNSVGNode relativeOn:relative:]
+-[RNSVGNode relativeOnWidth:]
+-[RNSVGNode relativeOnHeight:]
+-[RNSVGNode relativeOnOther:]
+-[RNSVGNode fromRelative:]
+-[RNSVGNode getContextBounds]
+-[RNSVGNode getContextWidth]
+-[RNSVGNode getContextHeight]
+-[RNSVGNode getContextDiagonal]
+-[RNSVGNode getCanvasWidth]
+-[RNSVGNode getCanvasHeight]
+-[RNSVGNode getCanvasDiagonal]
+-[RNSVGNode parseReference]
+-[RNSVGNode traverseSubviews:]
+-[RNSVGNode dealloc]
+-[RNSVGNode name]
+-[RNSVGNode display]
+-[RNSVGNode opacity]
+-[RNSVGNode clipRule]
+-[RNSVGNode clipPath]
+-[RNSVGNode mask]
+-[RNSVGNode markerStart]
+-[RNSVGNode markerMid]
+-[RNSVGNode markerEnd]
+-[RNSVGNode pointerEvents]
+-[RNSVGNode responsible]
+-[RNSVGNode setResponsible:]
+-[RNSVGNode ctm]
+-[RNSVGNode setCtm:]
+-[RNSVGNode screenCTM]
+-[RNSVGNode setScreenCTM:]
+-[RNSVGNode matrix]
+-[RNSVGNode transforms]
+-[RNSVGNode setTransforms:]
+-[RNSVGNode invmatrix]
+-[RNSVGNode setInvmatrix:]
+-[RNSVGNode invTransform]
+-[RNSVGNode setInvTransform:]
+-[RNSVGNode active]
+-[RNSVGNode setActive:]
+-[RNSVGNode dirty]
+-[RNSVGNode setDirty:]
+-[RNSVGNode merging]
+-[RNSVGNode setMerging:]
+-[RNSVGNode skip]
+-[RNSVGNode setSkip:]
+-[RNSVGNode path]
+-[RNSVGNode setPath:]
+-[RNSVGNode strokePath]
+-[RNSVGNode setStrokePath:]
+-[RNSVGNode markerPath]
+-[RNSVGNode setMarkerPath:]
+-[RNSVGNode clientRect]
+-[RNSVGNode pathBounds]
+-[RNSVGNode setPathBounds:]
+-[RNSVGNode fillBounds]
+-[RNSVGNode setFillBounds:]
+-[RNSVGNode strokeBounds]
+-[RNSVGNode setStrokeBounds:]
+-[RNSVGNode markerBounds]
+-[RNSVGNode setMarkerBounds:]
+-[RNSVGNode onLayout]
+-[RNSVGNode setOnLayout:]
+-[RNSVGNode setSvgView:]
+-[RNSVGNode setTextRoot:]
+-[RNSVGNode .cxx_destruct]
+_OBJC_IVAR_$_RNSVGNode._merging
+_OBJC_IVAR_$_RNSVGNode._dirty
+_OBJC_IVAR_$_RNSVGNode.canvasWidth
+_OBJC_IVAR_$_RNSVGNode.canvasHeight
+_OBJC_IVAR_$_RNSVGNode.canvasDiagonal
+_OBJC_IVAR_$_RNSVGNode._path
+_OBJC_IVAR_$_RNSVGNode._textRoot
+_OBJC_CLASSLIST_REFERENCES_$_.133
+_OBJC_IVAR_$_RNSVGNode.glyphContext
+_OBJC_IVAR_$_RNSVGNode._pointerEvents
+_OBJC_IVAR_$_RNSVGNode._name
+_OBJC_IVAR_$_RNSVGNode._display
+_OBJC_IVAR_$_RNSVGNode._opacity
+_OBJC_IVAR_$_RNSVGNode._transparent
+_OBJC_IVAR_$_RNSVGNode._matrix
+_OBJC_IVAR_$_RNSVGNode._invmatrix
+_OBJC_IVAR_$_RNSVGNode._clientRect
+_OBJC_CLASSLIST_REFERENCES_$_.163
+_OBJC_IVAR_$_RNSVGNode._clipPath
+_OBJC_IVAR_$_RNSVGNode._cachedClipPath
+_OBJC_IVAR_$_RNSVGNode._clipRule
+_OBJC_IVAR_$_RNSVGNode._mask
+_OBJC_IVAR_$_RNSVGNode._markerStart
+_OBJC_IVAR_$_RNSVGNode._markerMid
+_OBJC_IVAR_$_RNSVGNode._markerEnd
+_OBJC_IVAR_$_RNSVGNode._clipNode
+_OBJC_IVAR_$_RNSVGNode._svgView
+_OBJC_CLASSLIST_REFERENCES_$_.186
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_IVAR_$_RNSVGNode._strokePath
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_IVAR_$_RNSVGNode._responsible
+_OBJC_IVAR_$_RNSVGNode._ctm
+_OBJC_IVAR_$_RNSVGNode._screenCTM
+_OBJC_IVAR_$_RNSVGNode._transforms
+_OBJC_IVAR_$_RNSVGNode._invTransform
+_OBJC_IVAR_$_RNSVGNode._active
+_OBJC_IVAR_$_RNSVGNode._skip
+_OBJC_IVAR_$_RNSVGNode._markerPath
+_OBJC_IVAR_$_RNSVGNode._pathBounds
+_OBJC_IVAR_$_RNSVGNode._fillBounds
+_OBJC_IVAR_$_RNSVGNode._strokeBounds
+_OBJC_IVAR_$_RNSVGNode._markerBounds
+_OBJC_IVAR_$_RNSVGNode._onLayout
+__OBJC_METACLASS_RO_$_RNSVGNode
+__OBJC_$_INSTANCE_METHODS_RNSVGNode
+__OBJC_$_INSTANCE_VARIABLES_RNSVGNode
+__OBJC_$_PROP_LIST_RNSVGNode
+__OBJC_CLASS_RO_$_RNSVGNode
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/RNSVGNode.m
+node_modules/react-native-svg/apple/RNSVGNode.m
+node_modules/react-native-svg/apple/RNSVGNode.h
+__tg_sqrt
++[RNSVGNodeManager convertToRadians:]
++[RNSVGNodeManager CATransform3DFromMatrix:]
++[RNSVGNodeManager CATransform3D:]
++[RNSVGNodeManager moduleName]
++[RNSVGNodeManager load]
+-[RNSVGNodeManager node]
+-[RNSVGNodeManager view]
++[RNSVGNodeManager propConfig_name]
++[RNSVGNodeManager propConfig_opacity]
++[RNSVGNodeManager propConfig_matrix]
++[RNSVGNodeManager propConfig_transform]
+-[RNSVGNodeManager set_transform:forView:withDefaultView:]
++[RNSVGNodeManager propConfig_mask]
++[RNSVGNodeManager propConfig_markerStart]
++[RNSVGNodeManager propConfig_markerMid]
++[RNSVGNodeManager propConfig_markerEnd]
++[RNSVGNodeManager propConfig_clipPath]
++[RNSVGNodeManager propConfig_clipRule]
++[RNSVGNodeManager propConfig_responsible]
++[RNSVGNodeManager propConfig_onLayout]
++[RNSVGNodeManager propConfigShadow_top]
+-[RNSVGNodeManager set_top:forShadowView:]
++[RNSVGNodeManager propConfigShadow_right]
+-[RNSVGNodeManager set_right:forShadowView:]
++[RNSVGNodeManager propConfigShadow_start]
+-[RNSVGNodeManager set_start:forShadowView:]
++[RNSVGNodeManager propConfigShadow_end]
+-[RNSVGNodeManager set_end:forShadowView:]
++[RNSVGNodeManager propConfigShadow_bottom]
+-[RNSVGNodeManager set_bottom:forShadowView:]
++[RNSVGNodeManager propConfigShadow_left]
+-[RNSVGNodeManager set_left:forShadowView:]
++[RNSVGNodeManager propConfigShadow_width]
+-[RNSVGNodeManager set_width:forShadowView:]
++[RNSVGNodeManager propConfigShadow_height]
+-[RNSVGNodeManager set_height:forShadowView:]
++[RNSVGNodeManager propConfigShadow_minWidth]
+-[RNSVGNodeManager set_minWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_maxWidth]
+-[RNSVGNodeManager set_maxWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_minHeight]
+-[RNSVGNodeManager set_minHeight:forShadowView:]
++[RNSVGNodeManager propConfigShadow_maxHeight]
+-[RNSVGNodeManager set_maxHeight:forShadowView:]
++[RNSVGNodeManager propConfigShadow_borderTopWidth]
+-[RNSVGNodeManager set_borderTopWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_borderRightWidth]
+-[RNSVGNodeManager set_borderRightWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_borderBottomWidth]
+-[RNSVGNodeManager set_borderBottomWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_borderLeftWidth]
+-[RNSVGNodeManager set_borderLeftWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_borderStartWidth]
+-[RNSVGNodeManager set_borderStartWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_borderEndWidth]
+-[RNSVGNodeManager set_borderEndWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_borderWidth]
+-[RNSVGNodeManager set_borderWidth:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginTop]
+-[RNSVGNodeManager set_marginTop:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginRight]
+-[RNSVGNodeManager set_marginRight:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginBottom]
+-[RNSVGNodeManager set_marginBottom:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginLeft]
+-[RNSVGNodeManager set_marginLeft:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginStart]
+-[RNSVGNodeManager set_marginStart:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginEnd]
+-[RNSVGNodeManager set_marginEnd:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginVertical]
+-[RNSVGNodeManager set_marginVertical:forShadowView:]
++[RNSVGNodeManager propConfigShadow_marginHorizontal]
+-[RNSVGNodeManager set_marginHorizontal:forShadowView:]
++[RNSVGNodeManager propConfigShadow_margin]
+-[RNSVGNodeManager set_margin:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingTop]
+-[RNSVGNodeManager set_paddingTop:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingRight]
+-[RNSVGNodeManager set_paddingRight:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingBottom]
+-[RNSVGNodeManager set_paddingBottom:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingLeft]
+-[RNSVGNodeManager set_paddingLeft:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingStart]
+-[RNSVGNodeManager set_paddingStart:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingEnd]
+-[RNSVGNodeManager set_paddingEnd:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingVertical]
+-[RNSVGNodeManager set_paddingVertical:forShadowView:]
++[RNSVGNodeManager propConfigShadow_paddingHorizontal]
+-[RNSVGNodeManager set_paddingHorizontal:forShadowView:]
++[RNSVGNodeManager propConfigShadow_padding]
+-[RNSVGNodeManager set_padding:forShadowView:]
++[RNSVGNodeManager propConfigShadow_flex]
+-[RNSVGNodeManager set_flex:forShadowView:]
++[RNSVGNodeManager propConfigShadow_flexGrow]
+-[RNSVGNodeManager set_flexGrow:forShadowView:]
++[RNSVGNodeManager propConfigShadow_flexShrink]
+-[RNSVGNodeManager set_flexShrink:forShadowView:]
++[RNSVGNodeManager propConfigShadow_flexBasis]
+-[RNSVGNodeManager set_flexBasis:forShadowView:]
++[RNSVGNodeManager propConfigShadow_flexDirection]
+-[RNSVGNodeManager set_flexDirection:forShadowView:]
++[RNSVGNodeManager propConfigShadow_flexWrap]
+-[RNSVGNodeManager set_flexWrap:forShadowView:]
++[RNSVGNodeManager propConfigShadow_justifyContent]
+-[RNSVGNodeManager set_justifyContent:forShadowView:]
++[RNSVGNodeManager propConfigShadow_alignItems]
+-[RNSVGNodeManager set_alignItems:forShadowView:]
++[RNSVGNodeManager propConfigShadow_alignSelf]
+-[RNSVGNodeManager set_alignSelf:forShadowView:]
++[RNSVGNodeManager propConfigShadow_alignContent]
+-[RNSVGNodeManager set_alignContent:forShadowView:]
++[RNSVGNodeManager propConfigShadow_position]
+-[RNSVGNodeManager set_position:forShadowView:]
++[RNSVGNodeManager propConfigShadow_aspectRatio]
+-[RNSVGNodeManager set_aspectRatio:forShadowView:]
++[RNSVGNodeManager propConfigShadow_overflow]
+-[RNSVGNodeManager set_overflow:forShadowView:]
++[RNSVGNodeManager propConfigShadow_display]
+-[RNSVGNodeManager set_display:forShadowView:]
++[RNSVGNodeManager propConfig_display]
+-[RNSVGNodeManager set_display:forView:withDefaultView:]
++[RNSVGNodeManager propConfigShadow_direction]
+-[RNSVGNodeManager set_direction:forShadowView:]
++[RNSVGNodeManager propConfig_pointerEvents]
+-[RNSVGNodeManager set_pointerEvents:forView:withDefaultView:]
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_CLASSLIST_REFERENCES_$_.25
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_CLASSLIST_REFERENCES_$_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_CLASSLIST_REFERENCES_$_.98
+__OBJC_$_CLASS_METHODS_RNSVGNodeManager
+__OBJC_METACLASS_RO_$_RNSVGNodeManager
+__OBJC_$_INSTANCE_METHODS_RNSVGNodeManager
+__OBJC_CLASS_RO_$_RNSVGNodeManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGNodeManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGNodeManager.m
+-[RNSVGPainter initWithPointsArray:]
+-[RNSVGPainter init]
+-[RNSVGPainter setUnits:]
+-[RNSVGPainter setContentUnits:]
+-[RNSVGPainter setUserSpaceBoundingBox:]
+-[RNSVGPainter setTransform:]
+-[RNSVGPainter setPattern:]
+-[RNSVGPainter setLinearGradientColors:]
+-[RNSVGPainter setRadialGradientColors:]
+-[RNSVGPainter paint:bounds:]
+-[RNSVGPainter getPaintRect:bounds:]
+-[RNSVGPainter getVal:relative:]
+-[RNSVGPainter paintPattern:bounds:]
+-[RNSVGPainter paintLinearGradient:bounds:]
+-[RNSVGPainter paintRadialGradient:bounds:]
+-[RNSVGPainter pattern]
+-[RNSVGPainter paintBounds]
+-[RNSVGPainter setPaintBounds:]
+-[RNSVGPainter useObjectBoundingBoxForContentUnits]
+-[RNSVGPainter setUseObjectBoundingBoxForContentUnits:]
+-[RNSVGPainter bounds]
+-[RNSVGPainter setBounds:]
+-[RNSVGPainter .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.155
+__OBJC_METACLASS_RO_$_RNSVGPainter
+__OBJC_$_INSTANCE_METHODS_RNSVGPainter
+_OBJC_IVAR_$_RNSVGPainter._points
+_OBJC_IVAR_$_RNSVGPainter._colors
+_OBJC_IVAR_$_RNSVGPainter._type
+_OBJC_IVAR_$_RNSVGPainter._useObjectBoundingBox
+_OBJC_IVAR_$_RNSVGPainter._useContentObjectBoundingBox
+_OBJC_IVAR_$_RNSVGPainter._transform
+_OBJC_IVAR_$_RNSVGPainter._userSpaceBoundingBox
+_OBJC_IVAR_$_RNSVGPainter._useObjectBoundingBoxForContentUnits
+_OBJC_IVAR_$_RNSVGPainter._pattern
+_OBJC_IVAR_$_RNSVGPainter._paintBounds
+_OBJC_IVAR_$_RNSVGPainter._bounds
+__OBJC_$_INSTANCE_VARIABLES_RNSVGPainter
+__OBJC_$_PROP_LIST_RNSVGPainter
+__OBJC_CLASS_RO_$_RNSVGPainter
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Brushes/RNSVGPainter.m
+node_modules/react-native-svg/apple/Brushes/RNSVGPainter.m
+node_modules/react-native-svg/apple/Brushes/RNSVGPainter.h
+PatternFunction
+-[RNSVGPainterBrush initWithArray:]
+-[RNSVGPainterBrush paint:opacity:painter:bounds:]
+_OBJC_SELECTOR_REFERENCES_.7
+__OBJC_METACLASS_RO_$_RNSVGPainterBrush
+__OBJC_$_INSTANCE_METHODS_RNSVGPainterBrush
+__OBJC_CLASS_RO_$_RNSVGPainterBrush
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Brushes/RNSVGPainterBrush.m
+node_modules/react-native-svg/apple/Brushes/RNSVGPainterBrush.m
+-[RNSVGPath setD:]
+-[RNSVGPath getPath:]
+-[RNSVGPath dealloc]
+-[RNSVGPath d]
+-[RNSVGPath .cxx_destruct]
+_OBJC_IVAR_$_RNSVGPath._d
+_OBJC_IVAR_$_RNSVGPath._path
+__OBJC_METACLASS_RO_$_RNSVGPath
+__OBJC_$_INSTANCE_METHODS_RNSVGPath
+__OBJC_$_INSTANCE_VARIABLES_RNSVGPath
+__OBJC_$_PROP_LIST_RNSVGPath
+__OBJC_CLASS_RO_$_RNSVGPath
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGPath.m
+node_modules/react-native-svg/apple/Elements/RNSVGPath.m
+node_modules/react-native-svg/apple/Elements/RNSVGPath.h
++[RNSVGPathManager moduleName]
++[RNSVGPathManager load]
+-[RNSVGPathManager node]
++[RNSVGPathManager propConfig_d]
+__OBJC_$_CLASS_METHODS_RNSVGPathManager
+__OBJC_METACLASS_RO_$_RNSVGPathManager
+__OBJC_$_INSTANCE_METHODS_RNSVGPathManager
+__OBJC_CLASS_RO_$_RNSVGPathManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGPathManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGPathManager.m
+-[RNSVGPathMeasure addLine:next:]
+-[RNSVGPathMeasure reset]
+-[RNSVGPathMeasure extractPathData:]
+-[RNSVGPathMeasure getPosAndTan:midPoint:x:y:]
+___46-[RNSVGPathMeasure getPosAndTan:midPoint:x:y:]_block_invoke
+___46-[RNSVGPathMeasure getPosAndTan:midPoint:x:y:]_block_invoke_2
+-[RNSVGPathMeasure pathLength]
+-[RNSVGPathMeasure setPathLength:]
+-[RNSVGPathMeasure path]
+-[RNSVGPathMeasure setPath:]
+-[RNSVGPathMeasure lengths]
+-[RNSVGPathMeasure setLengths:]
+-[RNSVGPathMeasure lines]
+-[RNSVGPathMeasure setLines:]
+-[RNSVGPathMeasure lineCount]
+-[RNSVGPathMeasure setLineCount:]
+-[RNSVGPathMeasure isClosed]
+-[RNSVGPathMeasure setIsClosed:]
+-[RNSVGPathMeasure .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_SELECTOR_REFERENCES_.34
+___block_descriptor_40_e25_B32?0"NSNumber"8Q16^B24l
+___block_descriptor_32_e31_q24?0"NSNumber"8"NSNumber"16l
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.50
+__OBJC_METACLASS_RO_$_RNSVGPathMeasure
+__OBJC_$_INSTANCE_METHODS_RNSVGPathMeasure
+_OBJC_IVAR_$_RNSVGPathMeasure._isClosed
+_OBJC_IVAR_$_RNSVGPathMeasure._pathLength
+_OBJC_IVAR_$_RNSVGPathMeasure._path
+_OBJC_IVAR_$_RNSVGPathMeasure._lengths
+_OBJC_IVAR_$_RNSVGPathMeasure._lines
+_OBJC_IVAR_$_RNSVGPathMeasure._lineCount
+__OBJC_$_INSTANCE_VARIABLES_RNSVGPathMeasure
+__OBJC_$_PROP_LIST_RNSVGPathMeasure
+__OBJC_CLASS_RO_$_RNSVGPathMeasure
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Utils/RNSVGPathMeasure.m
+node_modules/react-native-svg/apple/Utils/RNSVGPathMeasure.m
+node_modules/react-native-svg/apple/Utils/RNSVGPathMeasure.h
+__46-[RNSVGPathMeasure getPosAndTan:midPoint:x:y:]_block_invoke_2
+__46-[RNSVGPathMeasure getPosAndTan:midPoint:x:y:]_block_invoke
+distance
+subdivideBezierAtT
+-[RNSVGPathParser initWithPathString:]
+-[RNSVGPathParser getPath]
+-[RNSVGPathParser move:x:y:]
+-[RNSVGPathParser moveTo:x:y:]
+-[RNSVGPathParser line:x:y:]
+-[RNSVGPathParser lineTo:x:y:]
+-[RNSVGPathParser curve:c1x:c1y:c2x:c2y:ex:ey:]
+-[RNSVGPathParser curveTo:c1x:c1y:c2x:c2y:ex:ey:]
+-[RNSVGPathParser curveToPoint:c1x:c1y:c2x:c2y:ex:ey:]
+-[RNSVGPathParser smoothCurve:c1x:c1y:ex:ey:]
+-[RNSVGPathParser smoothCurveTo:c1x:c1y:ex:ey:]
+-[RNSVGPathParser quadraticBezierCurve:c1x:c1y:c2x:c2y:]
+-[RNSVGPathParser quadraticBezierCurveTo:c1x:c1y:c2x:c2y:]
+-[RNSVGPathParser smoothQuadraticBezierCurve:c1x:c1y:]
+-[RNSVGPathParser smoothQuadraticBezierCurveTo:c1x:c1y:]
+-[RNSVGPathParser arc:rx:ry:rotation:outer:clockwise:x:y:]
+-[RNSVGPathParser arcTo:rx:ry:rotation:outer:clockwise:x:y:]
+-[RNSVGPathParser arcToBezier:cx:cy:rx:ry:sa:ea:clockwise:rad:]
+-[RNSVGPathParser close:]
+-[RNSVGPathParser setPenDown]
+-[RNSVGPathParser skip_spaces]
+-[RNSVGPathParser is_cmd:]
+-[RNSVGPathParser is_number_start:]
+-[RNSVGPathParser is_absolute:]
+-[RNSVGPathParser parse_flag]
+-[RNSVGPathParser parse_list_number]
+-[RNSVGPathParser parse_number]
+-[RNSVGPathParser parse_list_separator]
+-[RNSVGPathParser skip_digits]
+-[RNSVGPathParser .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.75
+__OBJC_METACLASS_RO_$_RNSVGPathParser
+__OBJC_$_INSTANCE_METHODS_RNSVGPathParser
+_OBJC_IVAR_$_RNSVGPathParser.prev_cmd
+_OBJC_IVAR_$_RNSVGPathParser.i
+_OBJC_IVAR_$_RNSVGPathParser.l
+_OBJC_IVAR_$_RNSVGPathParser.s
+_OBJC_IVAR_$_RNSVGPathParser._penX
+_OBJC_IVAR_$_RNSVGPathParser._penY
+_OBJC_IVAR_$_RNSVGPathParser._penDownX
+_OBJC_IVAR_$_RNSVGPathParser._penDownY
+_OBJC_IVAR_$_RNSVGPathParser._pivotX
+_OBJC_IVAR_$_RNSVGPathParser._pivotY
+_OBJC_IVAR_$_RNSVGPathParser._valid
+_OBJC_IVAR_$_RNSVGPathParser._penDownSet
+__OBJC_$_INSTANCE_VARIABLES_RNSVGPathParser
+__OBJC_CLASS_RO_$_RNSVGPathParser
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Utils/RNSVGPathParser.m
+node_modules/react-native-svg/apple/Utils/RNSVGPathParser.m
+__inline_isfinitef
+-[RNSVGPattern init]
+-[RNSVGPattern hitTest:withEvent:]
+-[RNSVGPattern parseReference]
+-[RNSVGPattern setX:]
+-[RNSVGPattern setY:]
+-[RNSVGPattern setPatternwidth:]
+-[RNSVGPattern setPatternheight:]
+-[RNSVGPattern setPatternUnits:]
+-[RNSVGPattern setPatternContentUnits:]
+-[RNSVGPattern setPatternTransform:]
+-[RNSVGPattern setMinX:]
+-[RNSVGPattern setMinY:]
+-[RNSVGPattern setVbWidth:]
+-[RNSVGPattern setVbHeight:]
+-[RNSVGPattern setAlign:]
+-[RNSVGPattern setMeetOrSlice:]
+-[RNSVGPattern x]
+-[RNSVGPattern y]
+-[RNSVGPattern patternwidth]
+-[RNSVGPattern patternheight]
+-[RNSVGPattern patternUnits]
+-[RNSVGPattern patternContentUnits]
+-[RNSVGPattern patternTransform]
+-[RNSVGPattern minX]
+-[RNSVGPattern minY]
+-[RNSVGPattern vbWidth]
+-[RNSVGPattern vbHeight]
+-[RNSVGPattern align]
+-[RNSVGPattern meetOrSlice]
+-[RNSVGPattern .cxx_destruct]
+_OBJC_IVAR_$_RNSVGPattern._patternTransform
+_OBJC_IVAR_$_RNSVGPattern._x
+_OBJC_IVAR_$_RNSVGPattern._y
+_OBJC_IVAR_$_RNSVGPattern._patternwidth
+_OBJC_IVAR_$_RNSVGPattern._patternheight
+_OBJC_IVAR_$_RNSVGPattern._patternUnits
+_OBJC_IVAR_$_RNSVGPattern._patternContentUnits
+_OBJC_IVAR_$_RNSVGPattern._minX
+_OBJC_IVAR_$_RNSVGPattern._minY
+_OBJC_IVAR_$_RNSVGPattern._vbWidth
+_OBJC_IVAR_$_RNSVGPattern._vbHeight
+_OBJC_IVAR_$_RNSVGPattern._align
+_OBJC_IVAR_$_RNSVGPattern._meetOrSlice
+__OBJC_METACLASS_RO_$_RNSVGPattern
+__OBJC_$_INSTANCE_METHODS_RNSVGPattern
+__OBJC_$_INSTANCE_VARIABLES_RNSVGPattern
+__OBJC_$_PROP_LIST_RNSVGPattern
+__OBJC_CLASS_RO_$_RNSVGPattern
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGPattern.m
+node_modules/react-native-svg/apple/Elements/RNSVGPattern.m
+node_modules/react-native-svg/apple/Elements/RNSVGPattern.h
++[RNSVGPatternManager moduleName]
++[RNSVGPatternManager load]
+-[RNSVGPatternManager node]
++[RNSVGPatternManager propConfig_x]
++[RNSVGPatternManager propConfig_y]
++[RNSVGPatternManager propConfig_patternheight]
++[RNSVGPatternManager propConfig_patternwidth]
++[RNSVGPatternManager propConfig_height]
+-[RNSVGPatternManager set_height:forView:withDefaultView:]
++[RNSVGPatternManager propConfig_width]
+-[RNSVGPatternManager set_width:forView:withDefaultView:]
++[RNSVGPatternManager propConfig_patternUnits]
++[RNSVGPatternManager propConfig_patternContentUnits]
++[RNSVGPatternManager propConfig_patternTransform]
++[RNSVGPatternManager propConfig_minX]
++[RNSVGPatternManager propConfig_minY]
++[RNSVGPatternManager propConfig_vbWidth]
++[RNSVGPatternManager propConfig_vbHeight]
++[RNSVGPatternManager propConfig_align]
++[RNSVGPatternManager propConfig_meetOrSlice]
+__OBJC_$_CLASS_METHODS_RNSVGPatternManager
+__OBJC_METACLASS_RO_$_RNSVGPatternManager
+__OBJC_$_INSTANCE_METHODS_RNSVGPatternManager
+__OBJC_CLASS_RO_$_RNSVGPatternManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGPatternManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGPatternManager.m
++[RNSVGPropHelper fromRelativeWithNSString:relative:fontSize:]
++[RNSVGPropHelper fromRelative:relative:fontSize:]
++[RNSVGPropHelper fromRelative:relative:]
+__OBJC_$_CLASS_METHODS_RNSVGPropHelper
+__OBJC_METACLASS_RO_$_RNSVGPropHelper
+__OBJC_CLASS_RO_$_RNSVGPropHelper
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGPropHelper.m
+node_modules/react-native-svg/apple/Text/RNSVGPropHelper.m
+-[RNSVGRadialGradient init]
+-[RNSVGRadialGradient setFx:]
+-[RNSVGRadialGradient setFy:]
+-[RNSVGRadialGradient setRx:]
+-[RNSVGRadialGradient setRy:]
+-[RNSVGRadialGradient setCx:]
+-[RNSVGRadialGradient setCy:]
+-[RNSVGRadialGradient setGradient:]
+-[RNSVGRadialGradient setGradientUnits:]
+-[RNSVGRadialGradient setGradientTransform:]
+-[RNSVGRadialGradient hitTest:withEvent:]
+-[RNSVGRadialGradient parseReference]
+-[RNSVGRadialGradient fx]
+-[RNSVGRadialGradient fy]
+-[RNSVGRadialGradient rx]
+-[RNSVGRadialGradient ry]
+-[RNSVGRadialGradient cx]
+-[RNSVGRadialGradient cy]
+-[RNSVGRadialGradient gradient]
+-[RNSVGRadialGradient gradientUnits]
+-[RNSVGRadialGradient gradientTransform]
+-[RNSVGRadialGradient .cxx_destruct]
+_OBJC_IVAR_$_RNSVGRadialGradient._gradientTransform
+_OBJC_IVAR_$_RNSVGRadialGradient._fx
+_OBJC_IVAR_$_RNSVGRadialGradient._fy
+_OBJC_IVAR_$_RNSVGRadialGradient._rx
+_OBJC_IVAR_$_RNSVGRadialGradient._ry
+_OBJC_IVAR_$_RNSVGRadialGradient._cx
+_OBJC_IVAR_$_RNSVGRadialGradient._cy
+_OBJC_IVAR_$_RNSVGRadialGradient._gradient
+_OBJC_IVAR_$_RNSVGRadialGradient._gradientUnits
+_OBJC_CLASSLIST_REFERENCES_$_.21
+__OBJC_METACLASS_RO_$_RNSVGRadialGradient
+__OBJC_$_INSTANCE_METHODS_RNSVGRadialGradient
+__OBJC_$_INSTANCE_VARIABLES_RNSVGRadialGradient
+__OBJC_$_PROP_LIST_RNSVGRadialGradient
+__OBJC_CLASS_RO_$_RNSVGRadialGradient
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGRadialGradient.m
+node_modules/react-native-svg/apple/Elements/RNSVGRadialGradient.m
+node_modules/react-native-svg/apple/Elements/RNSVGRadialGradient.h
++[RNSVGRadialGradientManager moduleName]
++[RNSVGRadialGradientManager load]
+-[RNSVGRadialGradientManager node]
++[RNSVGRadialGradientManager propConfig_fx]
++[RNSVGRadialGradientManager propConfig_fy]
++[RNSVGRadialGradientManager propConfig_cx]
++[RNSVGRadialGradientManager propConfig_cy]
++[RNSVGRadialGradientManager propConfig_rx]
++[RNSVGRadialGradientManager propConfig_ry]
++[RNSVGRadialGradientManager propConfig_gradient]
++[RNSVGRadialGradientManager propConfig_gradientUnits]
++[RNSVGRadialGradientManager propConfig_gradientTransform]
+__OBJC_$_CLASS_METHODS_RNSVGRadialGradientManager
+__OBJC_METACLASS_RO_$_RNSVGRadialGradientManager
+__OBJC_$_INSTANCE_METHODS_RNSVGRadialGradientManager
+__OBJC_CLASS_RO_$_RNSVGRadialGradientManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGRadialGradientManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGRadialGradientManager.m
+-[RNSVGRect setX:]
+-[RNSVGRect setY:]
+-[RNSVGRect setRectwidth:]
+-[RNSVGRect setRectheight:]
+-[RNSVGRect setRx:]
+-[RNSVGRect setRy:]
+-[RNSVGRect getPath:]
+-[RNSVGRect x]
+-[RNSVGRect y]
+-[RNSVGRect rectwidth]
+-[RNSVGRect rectheight]
+-[RNSVGRect rx]
+-[RNSVGRect ry]
+-[RNSVGRect .cxx_destruct]
+_OBJC_IVAR_$_RNSVGRect._x
+_OBJC_IVAR_$_RNSVGRect._y
+_OBJC_IVAR_$_RNSVGRect._rectwidth
+_OBJC_IVAR_$_RNSVGRect._rectheight
+_OBJC_IVAR_$_RNSVGRect._rx
+_OBJC_IVAR_$_RNSVGRect._ry
+__OBJC_METACLASS_RO_$_RNSVGRect
+__OBJC_$_INSTANCE_METHODS_RNSVGRect
+__OBJC_$_INSTANCE_VARIABLES_RNSVGRect
+__OBJC_$_PROP_LIST_RNSVGRect
+__OBJC_CLASS_RO_$_RNSVGRect
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Shapes/RNSVGRect.m
+node_modules/react-native-svg/apple/Shapes/RNSVGRect.m
+node_modules/react-native-svg/apple/Shapes/RNSVGRect.h
++[RNSVGRectManager moduleName]
++[RNSVGRectManager load]
+-[RNSVGRectManager node]
++[RNSVGRectManager propConfig_x]
++[RNSVGRectManager propConfig_y]
++[RNSVGRectManager propConfig_rectheight]
++[RNSVGRectManager propConfig_rectwidth]
++[RNSVGRectManager propConfig_height]
+-[RNSVGRectManager set_height:forView:withDefaultView:]
++[RNSVGRectManager propConfig_width]
+-[RNSVGRectManager set_width:forView:withDefaultView:]
++[RNSVGRectManager propConfig_rx]
++[RNSVGRectManager propConfig_ry]
+_OBJC_CLASSLIST_REFERENCES_$_.10
+__OBJC_$_CLASS_METHODS_RNSVGRectManager
+__OBJC_METACLASS_RO_$_RNSVGRectManager
+__OBJC_$_INSTANCE_METHODS_RNSVGRectManager
+__OBJC_CLASS_RO_$_RNSVGRectManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGRectManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGRectManager.m
++[RNSVGRenderable contextElement]
++[RNSVGRenderable setContextElement:]
+-[RNSVGRenderable init]
+-[RNSVGRenderable invalidate]
+-[RNSVGRenderable setFill:]
+-[RNSVGRenderable setFillOpacity:]
+-[RNSVGRenderable setFillRule:]
+-[RNSVGRenderable setStroke:]
+-[RNSVGRenderable setStrokeOpacity:]
+-[RNSVGRenderable setStrokeWidth:]
+-[RNSVGRenderable setStrokeLinecap:]
+-[RNSVGRenderable setStrokeJoin:]
+-[RNSVGRenderable setStrokeMiterlimit:]
+-[RNSVGRenderable setStrokeDasharray:]
+-[RNSVGRenderable setStrokeDashoffset:]
+-[RNSVGRenderable setVectorEffect:]
+-[RNSVGRenderable setPropList:]
+-[RNSVGRenderable dealloc]
+-[RNSVGRenderable renderTo:rect:]
+-[RNSVGRenderable prepareStrokeDash:strokeDasharray:]
+-[RNSVGRenderable renderMarkers:path:rect:]
+-[RNSVGRenderable renderLayerTo:rect:]
+-[RNSVGRenderable setHitArea:]
+-[RNSVGRenderable isUserInteractionEnabled]
+-[RNSVGRenderable hitTest:withEvent:]
+-[RNSVGRenderable getAttributeList]
+-[RNSVGRenderable mergeProperties:]
+-[RNSVGRenderable resetProperties]
+-[RNSVGRenderable fill]
+-[RNSVGRenderable fillOpacity]
+-[RNSVGRenderable fillRule]
+-[RNSVGRenderable stroke]
+-[RNSVGRenderable strokeOpacity]
+-[RNSVGRenderable strokeWidth]
+-[RNSVGRenderable strokeLinecap]
+-[RNSVGRenderable strokeLinejoin]
+-[RNSVGRenderable setStrokeLinejoin:]
+-[RNSVGRenderable strokeMiterlimit]
+-[RNSVGRenderable strokeDasharray]
+-[RNSVGRenderable strokeDashoffset]
+-[RNSVGRenderable vectorEffect]
+-[RNSVGRenderable propList]
+-[RNSVGRenderable hitArea]
+-[RNSVGRenderable .cxx_destruct]
+__contextElement
+_OBJC_IVAR_$_RNSVGRenderable._fillOpacity
+_OBJC_IVAR_$_RNSVGRenderable._strokeOpacity
+_OBJC_IVAR_$_RNSVGRenderable._strokeWidth
+_OBJC_IVAR_$_RNSVGRenderable._fillRule
+_OBJC_IVAR_$_RNSVGRenderable._sourceStrokeDashArray
+_OBJC_IVAR_$_RNSVGRenderable._srcHitPath
+_OBJC_IVAR_$_RNSVGRenderable._fill
+_OBJC_IVAR_$_RNSVGRenderable._stroke
+_OBJC_IVAR_$_RNSVGRenderable._strokeLinecap
+_OBJC_IVAR_$_RNSVGRenderable._strokeLinejoin
+_OBJC_IVAR_$_RNSVGRenderable._strokeMiterlimit
+_OBJC_IVAR_$_RNSVGRenderable._strokeDasharray
+_OBJC_IVAR_$_RNSVGRenderable._strokeDashoffset
+_OBJC_IVAR_$_RNSVGRenderable._vectorEffect
+_OBJC_IVAR_$_RNSVGRenderable._propList
+_OBJC_IVAR_$_RNSVGRenderable._attributeList
+_OBJC_IVAR_$_RNSVGRenderable._hitArea
+_OBJC_IVAR_$_RNSVGRenderable._strokeDashArrayData
+_OBJC_CLASSLIST_REFERENCES_$_.125
+_OBJC_CLASSLIST_REFERENCES_$_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_CLASSLIST_REFERENCES_$_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.253
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_SELECTOR_REFERENCES_.257
+_OBJC_SELECTOR_REFERENCES_.259
+_OBJC_SELECTOR_REFERENCES_.261
+_OBJC_SELECTOR_REFERENCES_.263
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_SELECTOR_REFERENCES_.267
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.277
+_OBJC_SELECTOR_REFERENCES_.279
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_SELECTOR_REFERENCES_.285
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.289
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_SELECTOR_REFERENCES_.293
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_CLASSLIST_REFERENCES_$_.298
+_OBJC_CLASSLIST_REFERENCES_$_.299
+_OBJC_IVAR_$_RNSVGRenderable._originProperties
+_OBJC_SELECTOR_REFERENCES_.301
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_SELECTOR_REFERENCES_.305
+_OBJC_SELECTOR_REFERENCES_.307
+_OBJC_IVAR_$_RNSVGRenderable._lastMergedList
+_OBJC_SELECTOR_REFERENCES_.309
+__OBJC_$_CLASS_METHODS_RNSVGRenderable
+__OBJC_$_CLASS_PROP_LIST_RNSVGRenderable
+__OBJC_METACLASS_RO_$_RNSVGRenderable
+__OBJC_$_INSTANCE_METHODS_RNSVGRenderable
+__OBJC_$_INSTANCE_VARIABLES_RNSVGRenderable
+__OBJC_$_PROP_LIST_RNSVGRenderable
+__OBJC_CLASS_RO_$_RNSVGRenderable
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/RNSVGRenderable.m
+node_modules/react-native-svg/apple/RNSVGRenderable.m
+node_modules/react-native-svg/apple/RNSVGRenderable.h
+saturate
++[RNSVGRenderableManager moduleName]
++[RNSVGRenderableManager load]
+-[RNSVGRenderableManager node]
++[RNSVGRenderableManager propConfig_fill]
++[RNSVGRenderableManager propConfig_fillOpacity]
++[RNSVGRenderableManager propConfig_fillRule]
++[RNSVGRenderableManager propConfig_stroke]
++[RNSVGRenderableManager propConfig_strokeOpacity]
++[RNSVGRenderableManager propConfig_strokeWidth]
++[RNSVGRenderableManager propConfig_strokeLinecap]
++[RNSVGRenderableManager propConfig_strokeLinejoin]
++[RNSVGRenderableManager propConfig_strokeDasharray]
++[RNSVGRenderableManager propConfig_strokeDashoffset]
++[RNSVGRenderableManager propConfig_strokeMiterlimit]
++[RNSVGRenderableManager propConfig_vectorEffect]
++[RNSVGRenderableManager propConfig_propList]
++[RNSVGRenderableManager __rct_export__41376]
+-[RNSVGRenderableManager isPointInFill:options:]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___48-[RNSVGRenderableManager isPointInFill:options:]_block_invoke
+___copy_helper_block_e8_32s40s48r
+___destroy_helper_block_e8_32s40s48r
++[RNSVGRenderableManager __rct_export__71377]
+-[RNSVGRenderableManager isPointInStroke:options:]
+___50-[RNSVGRenderableManager isPointInStroke:options:]_block_invoke
++[RNSVGRenderableManager __rct_export__101378]
+-[RNSVGRenderableManager getTotalLength:]
+___41-[RNSVGRenderableManager getTotalLength:]_block_invoke
++[RNSVGRenderableManager __rct_export__120379]
+-[RNSVGRenderableManager getPointAtLength:options:]
+___51-[RNSVGRenderableManager getPointAtLength:options:]_block_invoke
++[RNSVGRenderableManager __rct_export__150380]
+-[RNSVGRenderableManager getBBox:options:]
+___42-[RNSVGRenderableManager getBBox:options:]_block_invoke
++[RNSVGRenderableManager __rct_export__196381]
+-[RNSVGRenderableManager getCTM:]
+___33-[RNSVGRenderableManager getCTM:]_block_invoke
++[RNSVGRenderableManager __rct_export__219382]
+-[RNSVGRenderableManager getScreenCTM:]
+___39-[RNSVGRenderableManager getScreenCTM:]_block_invoke
+___rct_export__41376.config
+___block_descriptor_56_e8_32s40s48r_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.52
+___rct_export__71377.config
+___rct_export__101378.config
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_CLASSLIST_REFERENCES_$_.61
+___rct_export__120379.config
+_OBJC_CLASSLIST_REFERENCES_$_.77
+_OBJC_SELECTOR_REFERENCES_.79
+___rct_export__150380.config
+_OBJC_SELECTOR_REFERENCES_.84
+___rct_export__196381.config
+___rct_export__219382.config
+__OBJC_$_CLASS_METHODS_RNSVGRenderableManager
+__OBJC_METACLASS_RO_$_RNSVGRenderableManager
+__OBJC_$_INSTANCE_METHODS_RNSVGRenderableManager
+__OBJC_CLASS_RO_$_RNSVGRenderableManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGRenderableManager.m
+__39-[RNSVGRenderableManager getScreenCTM:]_block_invoke
+node_modules/react-native-svg/apple/ViewManagers/RNSVGRenderableManager.m
+__33-[RNSVGRenderableManager getCTM:]_block_invoke
+__42-[RNSVGRenderableManager getBBox:options:]_block_invoke
+__51-[RNSVGRenderableManager getPointAtLength:options:]_block_invoke
+__41-[RNSVGRenderableManager getTotalLength:]_block_invoke
+__50-[RNSVGRenderableManager isPointInStroke:options:]_block_invoke
+__destroy_helper_block_e8_32s40s48r
+__copy_helper_block_e8_32s40s48r
+__48-[RNSVGRenderableManager isPointInFill:options:]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+-[RNSVGSolidColorBrush initWithArray:]
+-[RNSVGSolidColorBrush initWithNumber:]
+-[RNSVGSolidColorBrush dealloc]
+-[RNSVGSolidColorBrush getColorWithOpacity:]
+-[RNSVGSolidColorBrush applyFillColor:opacity:]
+-[RNSVGSolidColorBrush applyStrokeColor:opacity:]
+-[RNSVGSolidColorBrush .cxx_destruct]
+_OBJC_IVAR_$_RNSVGSolidColorBrush._color
+__OBJC_METACLASS_RO_$_RNSVGSolidColorBrush
+__OBJC_$_INSTANCE_METHODS_RNSVGSolidColorBrush
+__OBJC_$_INSTANCE_VARIABLES_RNSVGSolidColorBrush
+__OBJC_CLASS_RO_$_RNSVGSolidColorBrush
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Brushes/RNSVGSolidColorBrush.m
+node_modules/react-native-svg/apple/Brushes/RNSVGSolidColorBrush.m
+-[RNSVGSvgView initWithFrame:]
+-[RNSVGSvgView insertReactSubview:atIndex:]
+-[RNSVGSvgView removeReactSubview:]
+-[RNSVGSvgView didUpdateReactSubviews]
+-[RNSVGSvgView clearChildCache]
+-[RNSVGSvgView invalidate]
+-[RNSVGSvgView tintColorDidChange]
+-[RNSVGSvgView setMinX:]
+-[RNSVGSvgView setMinY:]
+-[RNSVGSvgView setVbWidth:]
+-[RNSVGSvgView setVbHeight:]
+-[RNSVGSvgView setBbWidth:]
+-[RNSVGSvgView setBbHeight:]
+-[RNSVGSvgView setAlign:]
+-[RNSVGSvgView setMeetOrSlice:]
+-[RNSVGSvgView drawToContext:withRect:]
+-[RNSVGSvgView drawRect:]
+-[RNSVGSvgView hitTest:withEvent:]
+-[RNSVGSvgView getDataURL]
+-[RNSVGSvgView getDataURLwithBounds:]
+-[RNSVGSvgView reactSetInheritedBackgroundColor:]
+-[RNSVGSvgView defineClipPath:clipPathName:]
+-[RNSVGSvgView getDefinedClipPath:]
+-[RNSVGSvgView defineTemplate:templateName:]
+-[RNSVGSvgView getDefinedTemplate:]
+-[RNSVGSvgView definePainter:painterName:]
+-[RNSVGSvgView getDefinedPainter:]
+-[RNSVGSvgView defineMarker:markerName:]
+-[RNSVGSvgView getDefinedMarker:]
+-[RNSVGSvgView defineMask:maskName:]
+-[RNSVGSvgView getDefinedMask:]
+-[RNSVGSvgView getContextBounds]
+-[RNSVGSvgView getViewBoxTransform]
+-[RNSVGSvgView bbWidth]
+-[RNSVGSvgView bbHeight]
+-[RNSVGSvgView minX]
+-[RNSVGSvgView minY]
+-[RNSVGSvgView vbWidth]
+-[RNSVGSvgView vbHeight]
+-[RNSVGSvgView align]
+-[RNSVGSvgView meetOrSlice]
+-[RNSVGSvgView responsible]
+-[RNSVGSvgView setResponsible:]
+-[RNSVGSvgView active]
+-[RNSVGSvgView setActive:]
+-[RNSVGSvgView boundingBox]
+-[RNSVGSvgView setBoundingBox:]
+-[RNSVGSvgView initialCTM]
+-[RNSVGSvgView setInitialCTM:]
+-[RNSVGSvgView invInitialCTM]
+-[RNSVGSvgView setInvInitialCTM:]
+-[RNSVGSvgView viewBoxTransform]
+-[RNSVGSvgView setViewBoxTransform:]
+-[RNSVGSvgView .cxx_destruct]
+_OBJC_IVAR_$_RNSVGSvgView.rendered
+_OBJC_IVAR_$_RNSVGSvgView._minX
+_OBJC_IVAR_$_RNSVGSvgView._minY
+_OBJC_IVAR_$_RNSVGSvgView._vbWidth
+_OBJC_IVAR_$_RNSVGSvgView._vbHeight
+_OBJC_IVAR_$_RNSVGSvgView._bbWidth
+_OBJC_IVAR_$_RNSVGSvgView._bbHeight
+_OBJC_IVAR_$_RNSVGSvgView._align
+_OBJC_IVAR_$_RNSVGSvgView._meetOrSlice
+_OBJC_IVAR_$_RNSVGSvgView._viewBoxTransform
+_OBJC_CLASSLIST_REFERENCES_$_.45
+_OBJC_IVAR_$_RNSVGSvgView._invviewBoxTransform
+_OBJC_IVAR_$_RNSVGSvgView._clipPaths
+_OBJC_IVAR_$_RNSVGSvgView._templates
+_OBJC_IVAR_$_RNSVGSvgView._painters
+_OBJC_IVAR_$_RNSVGSvgView._boundingBox
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_IVAR_$_RNSVGSvgView._markers
+_OBJC_IVAR_$_RNSVGSvgView._masks
+_OBJC_IVAR_$_RNSVGSvgView._responsible
+_OBJC_IVAR_$_RNSVGSvgView._active
+_OBJC_IVAR_$_RNSVGSvgView._initialCTM
+_OBJC_IVAR_$_RNSVGSvgView._invInitialCTM
+__OBJC_CLASS_PROTOCOLS_$_RNSVGSvgView
+__OBJC_METACLASS_RO_$_RNSVGSvgView
+__OBJC_$_INSTANCE_METHODS_RNSVGSvgView
+__OBJC_$_INSTANCE_VARIABLES_RNSVGSvgView
+__OBJC_$_PROP_LIST_RNSVGSvgView
+__OBJC_CLASS_RO_$_RNSVGSvgView
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGSvgView.m
+node_modules/react-native-svg/apple/Elements/RNSVGSvgView.m
+node_modules/react-native-svg/apple/Elements/RNSVGSvgView.h
++[RNSVGSvgViewManager moduleName]
++[RNSVGSvgViewManager load]
+-[RNSVGSvgViewManager view]
++[RNSVGSvgViewManager propConfig_bbWidth]
++[RNSVGSvgViewManager propConfig_bbHeight]
++[RNSVGSvgViewManager propConfig_minX]
++[RNSVGSvgViewManager propConfig_minY]
++[RNSVGSvgViewManager propConfig_vbWidth]
++[RNSVGSvgViewManager propConfig_vbHeight]
++[RNSVGSvgViewManager propConfig_align]
++[RNSVGSvgViewManager propConfig_meetOrSlice]
++[RNSVGSvgViewManager propConfig_tintColor]
+-[RNSVGSvgViewManager set_tintColor:forView:withDefaultView:]
++[RNSVGSvgViewManager propConfig_color]
+-[RNSVGSvgViewManager set_color:forView:withDefaultView:]
+-[RNSVGSvgViewManager toDataURL:options:callback:attempt:]
+___58-[RNSVGSvgViewManager toDataURL:options:callback:attempt:]_block_invoke
+___58-[RNSVGSvgViewManager toDataURL:options:callback:attempt:]_block_invoke_2
+___copy_helper_block_e8_32s40s48s56b
+___destroy_helper_block_e8_32s40s48s56s
+___copy_helper_block_e8_32s40s48b56s
++[RNSVGSvgViewManager __rct_export__84376]
+-[RNSVGSvgViewManager toDataURL:options:callback:]
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_CLASSLIST_REFERENCES_$_.39
+___block_descriptor_68_e8_32s40s48s56bs_e5_v8?0l
+___block_descriptor_68_e8_32s40s48bs56s_e39_v24?0"RCTUIManager"8"NSDictionary"16l
+___rct_export__84376.config
+__OBJC_$_CLASS_METHODS_RNSVGSvgViewManager
+__OBJC_METACLASS_RO_$_RNSVGSvgViewManager
+__OBJC_$_INSTANCE_METHODS_RNSVGSvgViewManager
+__OBJC_CLASS_RO_$_RNSVGSvgViewManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGSvgViewManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGSvgViewManager.m
+__copy_helper_block_e8_32s40s48b56s
+__destroy_helper_block_e8_32s40s48s56s
+__copy_helper_block_e8_32s40s48s56b
+__58-[RNSVGSvgViewManager toDataURL:options:callback:attempt:]_block_invoke_2
+__58-[RNSVGSvgViewManager toDataURL:options:callback:attempt:]_block_invoke
+-[RNSVGSymbol setMinX:]
+-[RNSVGSymbol setMinY:]
+-[RNSVGSymbol setVbWidth:]
+-[RNSVGSymbol setVbHeight:]
+-[RNSVGSymbol setAlign:]
+-[RNSVGSymbol setMeetOrSlice:]
+-[RNSVGSymbol renderTo:rect:]
+-[RNSVGSymbol renderSymbolTo:width:height:]
+-[RNSVGSymbol minX]
+-[RNSVGSymbol minY]
+-[RNSVGSymbol vbWidth]
+-[RNSVGSymbol vbHeight]
+-[RNSVGSymbol align]
+-[RNSVGSymbol meetOrSlice]
+-[RNSVGSymbol .cxx_destruct]
+_OBJC_IVAR_$_RNSVGSymbol._minX
+_OBJC_IVAR_$_RNSVGSymbol._minY
+_OBJC_IVAR_$_RNSVGSymbol._vbWidth
+_OBJC_IVAR_$_RNSVGSymbol._vbHeight
+_OBJC_IVAR_$_RNSVGSymbol._align
+_OBJC_IVAR_$_RNSVGSymbol._meetOrSlice
+__OBJC_METACLASS_RO_$_RNSVGSymbol
+__OBJC_$_INSTANCE_METHODS_RNSVGSymbol
+__OBJC_$_INSTANCE_VARIABLES_RNSVGSymbol
+__OBJC_$_PROP_LIST_RNSVGSymbol
+__OBJC_CLASS_RO_$_RNSVGSymbol
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGSymbol.m
+node_modules/react-native-svg/apple/Elements/RNSVGSymbol.m
+node_modules/react-native-svg/apple/Elements/RNSVGSymbol.h
++[RNSVGSymbolManager moduleName]
++[RNSVGSymbolManager load]
+-[RNSVGSymbolManager node]
++[RNSVGSymbolManager propConfig_minX]
++[RNSVGSymbolManager propConfig_minY]
++[RNSVGSymbolManager propConfig_vbWidth]
++[RNSVGSymbolManager propConfig_vbHeight]
++[RNSVGSymbolManager propConfig_align]
++[RNSVGSymbolManager propConfig_meetOrSlice]
+__OBJC_$_CLASS_METHODS_RNSVGSymbolManager
+__OBJC_METACLASS_RO_$_RNSVGSymbolManager
+__OBJC_$_INSTANCE_METHODS_RNSVGSymbolManager
+__OBJC_CLASS_RO_$_RNSVGSymbolManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGSymbolManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGSymbolManager.m
+-[RNSVGText invalidate]
+-[RNSVGText clearPath]
+-[RNSVGText setInlineSize:]
+-[RNSVGText setTextLength:]
+-[RNSVGText setBaselineShift:]
+-[RNSVGText setLengthAdjust:]
+-[RNSVGText setAlignmentBaseline:]
+-[RNSVGText setDeltaX:]
+-[RNSVGText setDeltaY:]
+-[RNSVGText setPositionX:]
+-[RNSVGText setPositionY:]
+-[RNSVGText setRotate:]
+-[RNSVGText renderLayerTo:rect:]
+-[RNSVGText setupGlyphContext:]
+-[RNSVGText getGroupPath:]
+-[RNSVGText getPath:]
+-[RNSVGText renderGroupTo:rect:]
+-[RNSVGText textRoot]
+-[RNSVGText alignmentBaseline]
+-[RNSVGText baselineShift]
+-[RNSVGText getGlyphContext]
+-[RNSVGText pushGlyphContext]
+-[RNSVGText popGlyphContext]
+-[RNSVGText getFontFromContext]
+-[RNSVGText getTextAnchorRoot]
+-[RNSVGText getSubtreeTextChunksTotalAdvance]
+-[RNSVGText inlineSize]
+-[RNSVGText textLength]
+-[RNSVGText lengthAdjust]
+-[RNSVGText deltaX]
+-[RNSVGText deltaY]
+-[RNSVGText positionX]
+-[RNSVGText positionY]
+-[RNSVGText rotate]
+-[RNSVGText .cxx_destruct]
+_OBJC_IVAR_$_RNSVGText.cachedAdvance
+_OBJC_IVAR_$_RNSVGText._inlineSize
+_OBJC_IVAR_$_RNSVGText._textLength
+_OBJC_IVAR_$_RNSVGText._baselineShift
+_OBJC_IVAR_$_RNSVGText._lengthAdjust
+_OBJC_IVAR_$_RNSVGText._alignmentBaseline
+_OBJC_IVAR_$_RNSVGText._deltaX
+_OBJC_IVAR_$_RNSVGText._deltaY
+_OBJC_IVAR_$_RNSVGText._positionX
+_OBJC_IVAR_$_RNSVGText._positionY
+_OBJC_IVAR_$_RNSVGText._rotate
+_OBJC_IVAR_$_RNSVGText._glyphContext
+__OBJC_METACLASS_RO_$_RNSVGText
+__OBJC_$_INSTANCE_METHODS_RNSVGText
+__OBJC_$_INSTANCE_VARIABLES_RNSVGText
+__OBJC_$_PROP_LIST_RNSVGText
+__OBJC_CLASS_RO_$_RNSVGText
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGText.m
+node_modules/react-native-svg/apple/Text/RNSVGText.m
+node_modules/react-native-svg/apple/Text/RNSVGText.h
++[RNSVGTextManager moduleName]
++[RNSVGTextManager load]
+-[RNSVGTextManager node]
++[RNSVGTextManager propConfig_textAnchor]
++[RNSVGTextManager propConfig_dx]
+-[RNSVGTextManager set_dx:forView:withDefaultView:]
++[RNSVGTextManager propConfig_dy]
+-[RNSVGTextManager set_dy:forView:withDefaultView:]
++[RNSVGTextManager propConfig_positionX]
+-[RNSVGTextManager set_positionX:forView:withDefaultView:]
++[RNSVGTextManager propConfig_positionY]
+-[RNSVGTextManager set_positionY:forView:withDefaultView:]
++[RNSVGTextManager propConfig_x]
+-[RNSVGTextManager set_x:forView:withDefaultView:]
++[RNSVGTextManager propConfig_y]
+-[RNSVGTextManager set_y:forView:withDefaultView:]
++[RNSVGTextManager propConfig_rotate]
+-[RNSVGTextManager set_rotate:forView:withDefaultView:]
++[RNSVGTextManager propConfig_font]
++[RNSVGTextManager propConfig_inlineSize]
+-[RNSVGTextManager set_inlineSize:forView:withDefaultView:]
++[RNSVGTextManager propConfig_textLength]
+-[RNSVGTextManager set_textLength:forView:withDefaultView:]
++[RNSVGTextManager propConfig_baselineShift]
+-[RNSVGTextManager set_baselineShift:forView:withDefaultView:]
++[RNSVGTextManager propConfig_lengthAdjust]
++[RNSVGTextManager propConfig_alignmentBaseline]
++[RNSVGTextManager propConfig_fontSize]
+-[RNSVGTextManager set_fontSize:forView:withDefaultView:]
++[RNSVGTextManager propConfig_fontWeight]
+-[RNSVGTextManager set_fontWeight:forView:withDefaultView:]
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_CLASSLIST_REFERENCES_$_.146
+_OBJC_CLASSLIST_REFERENCES_$_.151
+__OBJC_$_CLASS_METHODS_RNSVGTextManager
+__OBJC_METACLASS_RO_$_RNSVGTextManager
+__OBJC_$_INSTANCE_METHODS_RNSVGTextManager
+__OBJC_CLASS_RO_$_RNSVGTextManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGTextManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGTextManager.m
+-[RNSVGTextPath setHref:]
+-[RNSVGTextPath setSide:]
+-[RNSVGTextPath setMethod:]
+-[RNSVGTextPath setMidLine:]
+-[RNSVGTextPath setSpacing:]
+-[RNSVGTextPath setStartOffset:]
+-[RNSVGTextPath renderLayerTo:rect:]
+-[RNSVGTextPath getPath:]
+-[RNSVGTextPath pushGlyphContext]
+-[RNSVGTextPath popGlyphContext]
+-[RNSVGTextPath href]
+-[RNSVGTextPath side]
+-[RNSVGTextPath method]
+-[RNSVGTextPath midLine]
+-[RNSVGTextPath spacing]
+-[RNSVGTextPath startOffset]
+-[RNSVGTextPath .cxx_destruct]
+_OBJC_IVAR_$_RNSVGTextPath._href
+_OBJC_IVAR_$_RNSVGTextPath._side
+_OBJC_IVAR_$_RNSVGTextPath._method
+_OBJC_IVAR_$_RNSVGTextPath._midLine
+_OBJC_IVAR_$_RNSVGTextPath._spacing
+_OBJC_IVAR_$_RNSVGTextPath._startOffset
+__OBJC_METACLASS_RO_$_RNSVGTextPath
+__OBJC_$_INSTANCE_METHODS_RNSVGTextPath
+__OBJC_$_INSTANCE_VARIABLES_RNSVGTextPath
+__OBJC_$_PROP_LIST_RNSVGTextPath
+__OBJC_CLASS_RO_$_RNSVGTextPath
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGTextPath.m
+node_modules/react-native-svg/apple/Text/RNSVGTextPath.m
+node_modules/react-native-svg/apple/Text/RNSVGTextPath.h
++[RNSVGTextPathManager moduleName]
++[RNSVGTextPathManager load]
+-[RNSVGTextPathManager node]
++[RNSVGTextPathManager propConfig_href]
++[RNSVGTextPathManager propConfig_side]
++[RNSVGTextPathManager propConfig_method]
++[RNSVGTextPathManager propConfig_midLine]
++[RNSVGTextPathManager propConfig_spacing]
++[RNSVGTextPathManager propConfig_startOffset]
+__OBJC_$_CLASS_METHODS_RNSVGTextPathManager
+__OBJC_METACLASS_RO_$_RNSVGTextPathManager
+__OBJC_$_INSTANCE_METHODS_RNSVGTextPathManager
+__OBJC_CLASS_RO_$_RNSVGTextPathManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGTextPathManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGTextPathManager.m
+_RNSVGAlignmentBaselineStrings
+_RNSVGFontVariantLigaturesStrings
+_RNSVGTextAnchorStrings
+_RNSVGTextDecorationStrings
+_RNSVGTextLengthAdjustStrings
+_RNSVGTextPathMethodStrings
+_RNSVGTextPathMidLineStrings
+_RNSVGTextPathSideStrings
+_RNSVGTextPathSpacingStrings
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGTextProperties.m
+RNSVGTextPathSpacingFromString
+node_modules/react-native-svg/apple/Text/RNSVGTextProperties.m
+RNSVGTextPathSpacingToString
+RNSVGTextPathSideFromString
+RNSVGTextPathSideToString
+RNSVGTextPathMidLineFromString
+RNSVGTextPathMidLineToString
+RNSVGTextPathMethodFromString
+RNSVGTextPathMethodToString
+RNSVGTextLengthAdjustFromString
+RNSVGTextLengthAdjustToString
+RNSVGTextDecorationFromString
+RNSVGTextDecorationToString
+RNSVGTextAnchorFromString
+RNSVGTextAnchorToString
+RNSVGFontWeightFromString
+RNSVGFontWeightToString
+RNSVGFontVariantLigaturesFromString
+RNSVGFontVariantLigaturesToString
+RNSVGFontStyleFromString
+RNSVGFontStyleToString
+RNSVGAlignmentBaselineFromString
+RNSVGAlignmentBaselineToString
+-[RNSVGTopAlignedLabel drawTextInRect:]
+__OBJC_METACLASS_RO_$_RNSVGTopAlignedLabel
+__OBJC_$_INSTANCE_METHODS_RNSVGTopAlignedLabel
+__OBJC_CLASS_RO_$_RNSVGTopAlignedLabel
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGTopAlignedLabel.ios.m
+node_modules/react-native-svg/apple/Text/RNSVGTopAlignedLabel.ios.m
+-[RNSVGTSpan init]
+-[RNSVGTSpan clearPath]
+-[RNSVGTSpan setContent:]
+-[RNSVGTSpan renderLayerTo:rect:]
+-[RNSVGTSpan getAttributes:]
+-[RNSVGTSpan drawWrappedText:gc:rect:color:]
+-[RNSVGTSpan getPath:]
+-[RNSVGTSpan getSubtreeTextChunksTotalAdvance]
+-[RNSVGTSpan getLinePath:context:]
++[RNSVGTSpan getTextAnchorOffset:width:]
+-[RNSVGTSpan setupTextPath:]
+-[RNSVGTSpan content]
+-[RNSVGTSpan .cxx_destruct]
+_RNSVGTSpan_separators
+_OBJC_IVAR_$_RNSVGTSpan.emoji
+_OBJC_IVAR_$_RNSVGTSpan.emojiTransform
+_OBJC_CLASSLIST_REFERENCES_$_.102
+_OBJC_IVAR_$_RNSVGTSpan.measure
+_OBJC_IVAR_$_RNSVGTSpan.cachedAdvance
+_OBJC_IVAR_$_RNSVGTSpan._content
+_OBJC_CLASSLIST_REFERENCES_$_.158
+_OBJC_IVAR_$_RNSVGTSpan.fontRef
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_CLASSLIST_REFERENCES_$_.161
+_OBJC_CLASSLIST_REFERENCES_$_.176
+_OBJC_CLASSLIST_REFERENCES_$_.181
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_CLASSLIST_REFERENCES_$_.198
+_OBJC_IVAR_$_RNSVGTSpan.firstX
+_OBJC_IVAR_$_RNSVGTSpan.firstY
+_OBJC_CLASSLIST_REFERENCES_$_.233
+_OBJC_CLASSLIST_REFERENCES_$_.242
+_OBJC_IVAR_$_RNSVGTSpan.textPath
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_CLASSLIST_REFERENCES_$_.257
+_OBJC_SELECTOR_REFERENCES_.299
+_OBJC_CLASSLIST_REFERENCES_$_.304
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_CLASSLIST_REFERENCES_$_.309
+_OBJC_SELECTOR_REFERENCES_.311
+_OBJC_CLASSLIST_REFERENCES_$_.312
+_OBJC_SELECTOR_REFERENCES_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_CLASSLIST_REFERENCES_$_.319
+_OBJC_SELECTOR_REFERENCES_.321
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_CLASSLIST_REFERENCES_$_.324
+_OBJC_SELECTOR_REFERENCES_.326
+_OBJC_SELECTOR_REFERENCES_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.332
+_OBJC_SELECTOR_REFERENCES_.334
+_OBJC_SELECTOR_REFERENCES_.336
+__OBJC_$_CLASS_METHODS_RNSVGTSpan
+__OBJC_METACLASS_RO_$_RNSVGTSpan
+__OBJC_$_INSTANCE_METHODS_RNSVGTSpan
+_OBJC_IVAR_$_RNSVGTSpan.startOffset
+__OBJC_$_INSTANCE_VARIABLES_RNSVGTSpan
+__OBJC_$_PROP_LIST_RNSVGTSpan
+__OBJC_CLASS_RO_$_RNSVGTSpan
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Text/RNSVGTSpan.m
+node_modules/react-native-svg/apple/Text/RNSVGTSpan.m
+node_modules/react-native-svg/apple/Text/RNSVGTSpan.h
+__tg_ceil
++[RNSVGTSpanManager moduleName]
++[RNSVGTSpanManager load]
+-[RNSVGTSpanManager node]
++[RNSVGTSpanManager propConfig_content]
+__OBJC_$_CLASS_METHODS_RNSVGTSpanManager
+__OBJC_METACLASS_RO_$_RNSVGTSpanManager
+__OBJC_$_INSTANCE_METHODS_RNSVGTSpanManager
+__OBJC_CLASS_RO_$_RNSVGTSpanManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGTSpanManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGTSpanManager.m
+-[RNSVGUse setHref:]
+-[RNSVGUse setX:]
+-[RNSVGUse setY:]
+-[RNSVGUse setUsewidth:]
+-[RNSVGUse setUseheight:]
+-[RNSVGUse renderLayerTo:rect:]
+-[RNSVGUse hitTest:withEvent:]
+-[RNSVGUse getPath:]
+-[RNSVGUse href]
+-[RNSVGUse x]
+-[RNSVGUse y]
+-[RNSVGUse usewidth]
+-[RNSVGUse useheight]
+-[RNSVGUse .cxx_destruct]
+_OBJC_IVAR_$_RNSVGUse._href
+_OBJC_IVAR_$_RNSVGUse._x
+_OBJC_IVAR_$_RNSVGUse._y
+_OBJC_IVAR_$_RNSVGUse._usewidth
+_OBJC_IVAR_$_RNSVGUse._useheight
+_OBJC_SELECTOR_REFERENCES_.158
+__OBJC_METACLASS_RO_$_RNSVGUse
+__OBJC_$_INSTANCE_METHODS_RNSVGUse
+__OBJC_$_INSTANCE_VARIABLES_RNSVGUse
+__OBJC_$_PROP_LIST_RNSVGUse
+__OBJC_CLASS_RO_$_RNSVGUse
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Elements/RNSVGUse.m
+node_modules/react-native-svg/apple/Elements/RNSVGUse.m
+node_modules/react-native-svg/apple/Elements/RNSVGUse.h
++[RNSVGUseManager moduleName]
++[RNSVGUseManager load]
+-[RNSVGUseManager node]
++[RNSVGUseManager propConfig_href]
++[RNSVGUseManager propConfig_x]
+-[RNSVGUseManager set_x:forView:withDefaultView:]
++[RNSVGUseManager propConfig_y]
+-[RNSVGUseManager set_y:forView:withDefaultView:]
++[RNSVGUseManager propConfig_useheight]
++[RNSVGUseManager propConfig_usewidth]
++[RNSVGUseManager propConfig_height]
+-[RNSVGUseManager set_height:forView:withDefaultView:]
++[RNSVGUseManager propConfig_width]
+-[RNSVGUseManager set_width:forView:withDefaultView:]
+__OBJC_$_CLASS_METHODS_RNSVGUseManager
+__OBJC_METACLASS_RO_$_RNSVGUseManager
+__OBJC_$_INSTANCE_METHODS_RNSVGUseManager
+__OBJC_CLASS_RO_$_RNSVGUseManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/ViewManagers/RNSVGUseManager.m
+node_modules/react-native-svg/apple/ViewManagers/RNSVGUseManager.m
++[RNSVGViewBox getTransform:eRect:align:meetOrSlice:]
+__OBJC_$_CLASS_METHODS_RNSVGViewBox
+__OBJC_METACLASS_RO_$_RNSVGViewBox
+__OBJC_CLASS_RO_$_RNSVGViewBox
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-svg/apple/Utils/RNSVGViewBox.m
+node_modules/react-native-svg/apple/Utils/RNSVGViewBox.m

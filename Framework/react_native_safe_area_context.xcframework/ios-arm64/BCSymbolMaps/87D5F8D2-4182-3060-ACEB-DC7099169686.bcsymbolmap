@@ -1,0 +1,236 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/react-native-safe-area-context/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-safe-area-context.build/DerivedSources/react_native_safe_area_context_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+__OBJC_METACLASS_RO_$_PodsDummy_react_native_safe_area_context
+__OBJC_CLASS_RO_$_PodsDummy_react_native_safe_area_context
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/react-native-safe-area-context/react-native-safe-area-context-dummy.m
++[RNCSafeAreaContext moduleName]
++[RNCSafeAreaContext load]
++[RNCSafeAreaContext requiresMainQueueSetup]
+-[RNCSafeAreaContext constantsToExport]
+-[RNCSafeAreaContext getConstants]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___34-[RNCSafeAreaContext getConstants]_block_invoke
+___copy_helper_block_ea8_32r
+___destroy_helper_block_ea8_32r
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.28
+___block_descriptor_40_ea8_32r_e5_v8?0l
+__OBJC_$_CLASS_METHODS_RNCSafeAreaContext
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_RCTBridgeModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROP_LIST_RCTBridgeModule
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTBridgeModule
+__OBJC_PROTOCOL_$_RCTBridgeModule
+__OBJC_LABEL_PROTOCOL_$_RCTBridgeModule
+__OBJC_CLASS_PROTOCOLS_$_RNCSafeAreaContext
+__OBJC_METACLASS_RO_$_RNCSafeAreaContext
+__OBJC_$_INSTANCE_METHODS_RNCSafeAreaContext
+__OBJC_$_PROP_LIST_RNCSafeAreaContext
+__OBJC_CLASS_RO_$_RNCSafeAreaContext
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaContext.mm
+__destroy_helper_block_ea8_32r
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaContext.mm
+/Users/nxdm/Developer/GitHub/AwesomeProject
+__copy_helper_block_ea8_32r
+__34-[RNCSafeAreaContext getConstants]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+-[RNCSafeAreaProvider safeAreaInsetsDidChange]
+-[RNCSafeAreaProvider invalidateSafeAreaInsets]
+-[RNCSafeAreaProvider layoutSubviews]
+-[RNCSafeAreaProvider onInsetsChange]
+-[RNCSafeAreaProvider setOnInsetsChange:]
+-[RNCSafeAreaProvider .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_IVAR_$_RNCSafeAreaProvider._initialInsetsSent
+_OBJC_IVAR_$_RNCSafeAreaProvider._currentSafeAreaInsets
+_OBJC_IVAR_$_RNCSafeAreaProvider._currentFrame
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_IVAR_$_RNCSafeAreaProvider._onInsetsChange
+__OBJC_METACLASS_RO_$_RNCSafeAreaProvider
+__OBJC_$_INSTANCE_METHODS_RNCSafeAreaProvider
+__OBJC_$_INSTANCE_VARIABLES_RNCSafeAreaProvider
+__OBJC_$_PROP_LIST_RNCSafeAreaProvider
+__OBJC_CLASS_RO_$_RNCSafeAreaProvider
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaProvider.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaProvider.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaProvider.h
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
++[RNCSafeAreaProviderManager moduleName]
++[RNCSafeAreaProviderManager load]
++[RNCSafeAreaProviderManager propConfig_onInsetsChange]
+-[RNCSafeAreaProviderManager view]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+__OBJC_$_CLASS_METHODS_RNCSafeAreaProviderManager
+__OBJC_METACLASS_RO_$_RNCSafeAreaProviderManager
+__OBJC_$_INSTANCE_METHODS_RNCSafeAreaProviderManager
+__OBJC_CLASS_RO_$_RNCSafeAreaProviderManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaProviderManager.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaProviderManager.m
+-[RNCSafeAreaShadowView init]
+-[RNCSafeAreaShadowView extractEdges:top:right:bottom:left:]
+-[RNCSafeAreaShadowView resetInsetsForMode:]
+-[RNCSafeAreaShadowView updateInsets]
+-[RNCSafeAreaShadowView didSetProps:]
+-[RNCSafeAreaShadowView setLocalData:]
+-[RNCSafeAreaShadowView setPadding:]
+-[RNCSafeAreaShadowView setMargin:]
+-[RNCSafeAreaShadowView setPaddingVertical:]
+-[RNCSafeAreaShadowView setMarginVertical:]
+-[RNCSafeAreaShadowView setPaddingHorizontal:]
+-[RNCSafeAreaShadowView setMarginHorizontal:]
+-[RNCSafeAreaShadowView setPaddingTop:]
+-[RNCSafeAreaShadowView setMarginTop:]
+-[RNCSafeAreaShadowView setPaddingRight:]
+-[RNCSafeAreaShadowView setMarginRight:]
+-[RNCSafeAreaShadowView setPaddingBottom:]
+-[RNCSafeAreaShadowView setMarginBottom:]
+-[RNCSafeAreaShadowView setPaddingLeft:]
+-[RNCSafeAreaShadowView setMarginLeft:]
+-[RNCSafeAreaShadowView .cxx_destruct]
+_OBJC_IVAR_$_RNCSafeAreaShadowView._needsUpdate
+_OBJC_IVAR_$_RNCSafeAreaShadowView._paddingMetaProps
+_OBJC_IVAR_$_RNCSafeAreaShadowView._marginMetaProps
+_OBJC_IVAR_$_RNCSafeAreaShadowView._localData
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+__OBJC_METACLASS_RO_$_RNCSafeAreaShadowView
+__OBJC_$_INSTANCE_METHODS_RNCSafeAreaShadowView
+__OBJC_$_INSTANCE_VARIABLES_RNCSafeAreaShadowView
+__OBJC_CLASS_RO_$_RNCSafeAreaShadowView
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaShadowView.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaShadowView.m
+llvm.loop.mustprogress
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaUtils.m
+UIEdgeInsetsEqualToEdgeInsetsWithThreshold
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaUtils.m
+-[RNCSafeAreaView initWithBridge:]
+-[RNCSafeAreaView initWithCoder:]
+-[RNCSafeAreaView initWithFrame:]
+-[RNCSafeAreaView description]
+-[RNCSafeAreaView didMoveToWindow]
+-[RNCSafeAreaView safeAreaProviderInsetsDidChange:]
+-[RNCSafeAreaView invalidateSafeAreaInsets]
+-[RNCSafeAreaView findNearestProvider]
+-[RNCSafeAreaView updateLocalData]
+-[RNCSafeAreaView setMode:]
+-[RNCSafeAreaView setEdges:]
+-[RNCSafeAreaView mode]
+-[RNCSafeAreaView edges]
+-[RNCSafeAreaView .cxx_destruct]
+_OBJC_IVAR_$_RNCSafeAreaView._bridge
+_OBJC_IVAR_$_RNCSafeAreaView._mode
+_OBJC_IVAR_$_RNCSafeAreaView._edges
+_OBJC_IVAR_$_RNCSafeAreaView._providerView
+_OBJC_IVAR_$_RNCSafeAreaView._currentSafeAreaInsets
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+__OBJC_METACLASS_RO_$_RNCSafeAreaView
+__OBJC_$_INSTANCE_METHODS_RNCSafeAreaView
+__OBJC_$_INSTANCE_VARIABLES_RNCSafeAreaView
+__OBJC_$_PROP_LIST_RNCSafeAreaView
+__OBJC_CLASS_RO_$_RNCSafeAreaView
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaView.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaView.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaView.h
++[RCTConvert(RNCSafeAreaView) RNCSafeAreaViewEdges:]
+___52+[RCTConvert(RNCSafeAreaView) RNCSafeAreaViewEdges:]_block_invoke
+_RNCSafeAreaViewEdges:.mapping
+_RNCSafeAreaViewEdges:.onceToken
+___block_descriptor_32_e5_v8?0l
+___block_literal_global
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_SELECTOR_REFERENCES_.13
+__OBJC_$_CATEGORY_CLASS_METHODS_RCTConvert_$_RNCSafeAreaView
+__OBJC_$_CATEGORY_RCTConvert_$_RNCSafeAreaView
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewEdges.m
+__52+[RCTConvert(RNCSafeAreaView) RNCSafeAreaViewEdges:]_block_invoke
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewEdges.m
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/once.h
+-[RNCSafeAreaViewLocalData initWithInsets:mode:edges:]
+-[RNCSafeAreaViewLocalData insets]
+-[RNCSafeAreaViewLocalData mode]
+-[RNCSafeAreaViewLocalData edges]
+__OBJC_METACLASS_RO_$_RNCSafeAreaViewLocalData
+__OBJC_$_INSTANCE_METHODS_RNCSafeAreaViewLocalData
+_OBJC_IVAR_$_RNCSafeAreaViewLocalData._mode
+_OBJC_IVAR_$_RNCSafeAreaViewLocalData._edges
+_OBJC_IVAR_$_RNCSafeAreaViewLocalData._insets
+__OBJC_$_INSTANCE_VARIABLES_RNCSafeAreaViewLocalData
+__OBJC_$_PROP_LIST_RNCSafeAreaViewLocalData
+__OBJC_CLASS_RO_$_RNCSafeAreaViewLocalData
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewLocalData.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewLocalData.h
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewLocalData.m
++[RNCSafeAreaViewManager moduleName]
++[RNCSafeAreaViewManager load]
+-[RNCSafeAreaViewManager view]
+-[RNCSafeAreaViewManager shadowView]
++[RNCSafeAreaViewManager propConfig_mode]
++[RNCSafeAreaViewManager propConfig_edges]
+__OBJC_$_CLASS_METHODS_RNCSafeAreaViewManager
+__OBJC_METACLASS_RO_$_RNCSafeAreaViewManager
+__OBJC_$_INSTANCE_METHODS_RNCSafeAreaViewManager
+__OBJC_CLASS_RO_$_RNCSafeAreaViewManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewManager.m
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewManager.m
++[RCTConvert(RNCSafeAreaView) RNCSafeAreaViewMode:]
+___51+[RCTConvert(RNCSafeAreaView) RNCSafeAreaViewMode:]_block_invoke
+_RNCSafeAreaViewMode:.mapping
+_RNCSafeAreaViewMode:.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.4
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewMode.m
+__51+[RCTConvert(RNCSafeAreaView) RNCSafeAreaViewMode:]_block_invoke
+node_modules/react-native-safe-area-context/ios/RNCSafeAreaViewMode.m

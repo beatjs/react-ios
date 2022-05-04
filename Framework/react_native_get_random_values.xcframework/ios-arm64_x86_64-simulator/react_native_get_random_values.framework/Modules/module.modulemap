@@ -1,0 +1,6 @@
+framework module react_native_get_random_values {
+  umbrella header "react-native-get-random-values-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -27,17 +27,19 @@ Pod::Spec.new do |s|
     'DEFINES_MODULE' => 'YES'
   }
   s.vendored_frameworks =
+    'Framework/BVLinearGradient.xcframework',
+    'Framework/CodePush.xcframework',
     'Framework/CoreModules.xcframework',
     'Framework/cxxreact.xcframework',
     'Framework/DoubleConversion.xcframework',
     'Framework/FBReactNativeSpec.xcframework',
-    'Framework/fmt.xcframework',
     'Framework/folly.xcframework',
     'Framework/glog.xcframework',
     'Framework/jsi.xcframework',
     'Framework/jsinspector.xcframework',
     'Framework/jsireact.xcframework',
     'Framework/logger.xcframework',
+    'Framework/lottie_react_native.xcframework',
     'Framework/RCTAnimation.xcframework',
     'Framework/RCTBlob.xcframework',
     'Framework/RCTImage.xcframework',
@@ -47,8 +49,32 @@ Pod::Spec.new do |s|
     'Framework/RCTText.xcframework',
     'Framework/RCTTypeSafety.xcframework',
     'Framework/RCTVibration.xcframework',
+    'Framework/react_native_blur.xcframework',
+    'Framework/react_native_get_random_values.xcframework',
+    'Framework/react_native_image_resizer.xcframework',
+    'Framework/react_native_pager_view.xcframework',
+    'Framework/react_native_safe_area_context.xcframework',
+    'Framework/react_native_video.xcframework',
+    'Framework/react_native_view_shot.xcframework',
+    'Framework/react_native_webview.xcframework',
     'Framework/React.xcframework',
     'Framework/ReactCommon.xcframework',
     'Framework/reactperflogger.xcframework',
+    'Framework/RNCMaskedView.xcframework',
+    'Framework/RNDeviceInfo.xcframework',
+    'Framework/RNFastImage.xcframework',
+    'Framework/RNGestureHandler.xcframework',
+    'Framework/RNReanimated.xcframework',
+    'Framework/RNSentry.xcframework',
+    'Framework/RNSVG.xcframework',
     'Framework/yoga.xcframework' 
+  s.dependency 'Base64', '~> 1.1.2'
+  s.dependency 'fmt', '~> 6.2.1'
+  s.dependency 'JWT', '~> 3.0.0-beta.14'
+  s.dependency 'libwebp', '~> 1.2.1'
+  s.dependency 'lottie-ios', '~> 3.2.3'
+  s.dependency 'SDWebImage', '~> 5.11.1'
+  s.dependency 'SDWebImageWebPCoder', '~> 0.8.4'
+  s.dependency 'Sentry', '~> 7.11.0'
+  s.dependency 'SSZipArchive', '~> 2.2.3'
 end

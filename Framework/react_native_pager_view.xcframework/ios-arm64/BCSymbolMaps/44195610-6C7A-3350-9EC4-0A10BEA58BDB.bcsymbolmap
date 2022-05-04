@@ -1,0 +1,432 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/react-native-pager-view/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-pager-view.build/DerivedSources/react_native_pager_view_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
++[RCTConvert(UIPageViewControllerNavigationOrientation) UIPageViewControllerNavigationOrientation:]
+___99+[RCTConvert(UIPageViewControllerNavigationOrientation) UIPageViewControllerNavigationOrientation:]_block_invoke
+_UIPageViewControllerNavigationOrientation:.mapping
+_UIPageViewControllerNavigationOrientation:.onceToken
+___block_descriptor_32_e5_v8?0l
+___block_literal_global
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.9
+__OBJC_$_CATEGORY_CLASS_METHODS_RCTConvert_$_UIPageViewControllerNavigationOrientation
+__OBJC_$_CATEGORY_RCTConvert_$_UIPageViewControllerNavigationOrientation
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/RCTConvert+UIPageViewControllerNavigationOrientation.m
+__99+[RCTConvert(UIPageViewControllerNavigationOrientation) UIPageViewControllerNavigationOrientation:]_block_invoke
+node_modules/react-native-pager-view/ios/RCTConvert+UIPageViewControllerNavigationOrientation.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/once.h
++[RCTConvert(UIPageViewControllerTransitionStyle) UIPageViewControllerTransitionStyle:]
+___87+[RCTConvert(UIPageViewControllerTransitionStyle) UIPageViewControllerTransitionStyle:]_block_invoke
+_UIPageViewControllerTransitionStyle:.mapping
+_UIPageViewControllerTransitionStyle:.onceToken
+__OBJC_$_CATEGORY_CLASS_METHODS_RCTConvert_$_UIPageViewControllerTransitionStyle
+__OBJC_$_CATEGORY_RCTConvert_$_UIPageViewControllerTransitionStyle
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/RCTConvert+UIPageViewControllerTransitionStyle.m
+__87+[RCTConvert(UIPageViewControllerTransitionStyle) UIPageViewControllerTransitionStyle:]_block_invoke
+node_modules/react-native-pager-view/ios/RCTConvert+UIPageViewControllerTransitionStyle.m
+-[RCTOnPageScrollEvent eventName]
+-[RCTOnPageScrollEvent initWithReactTag:position:offset:]
+-[RCTOnPageScrollEvent init]
+-[RCTOnPageScrollEvent coalescingKey]
+-[RCTOnPageScrollEvent canCoalesce]
++[RCTOnPageScrollEvent moduleDotMethod]
+-[RCTOnPageScrollEvent arguments]
+-[RCTOnPageScrollEvent coalesceWithEvent:]
+-[RCTOnPageScrollEvent viewTag]
+-[RCTOnPageScrollEvent .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_SELECTOR_REFERENCES_.17
+__OBJC_$_CLASS_METHODS_RCTOnPageScrollEvent
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RCTEvent
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RCTEvent
+__OBJC_$_PROTOCOL_CLASS_METHODS_RCTEvent
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RCTEvent
+__OBJC_$_PROP_LIST_RCTEvent
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTEvent
+__OBJC_PROTOCOL_$_RCTEvent
+__OBJC_LABEL_PROTOCOL_$_RCTEvent
+__OBJC_CLASS_PROTOCOLS_$_RCTOnPageScrollEvent
+__OBJC_METACLASS_RO_$_RCTOnPageScrollEvent
+__OBJC_$_INSTANCE_METHODS_RCTOnPageScrollEvent
+_OBJC_IVAR_$_RCTOnPageScrollEvent._position
+_OBJC_IVAR_$_RCTOnPageScrollEvent._offset
+_OBJC_IVAR_$_RCTOnPageScrollEvent._viewTag
+__OBJC_$_INSTANCE_VARIABLES_RCTOnPageScrollEvent
+__OBJC_$_PROP_LIST_RCTOnPageScrollEvent
+__OBJC_CLASS_RO_$_RCTOnPageScrollEvent
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/RCTOnPageScrollEvent.m
+node_modules/react-native-pager-view/ios/RCTOnPageScrollEvent.m
+-[RCTOnPageScrollStateChanged eventName]
+-[RCTOnPageScrollStateChanged initWithReactTag:state:coalescingKey:]
+-[RCTOnPageScrollStateChanged init]
+-[RCTOnPageScrollStateChanged coalescingKey]
+-[RCTOnPageScrollStateChanged canCoalesce]
++[RCTOnPageScrollStateChanged moduleDotMethod]
+-[RCTOnPageScrollStateChanged arguments]
+-[RCTOnPageScrollStateChanged coalesceWithEvent:]
+-[RCTOnPageScrollStateChanged viewTag]
+-[RCTOnPageScrollStateChanged .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_SELECTOR_REFERENCES_.15
+__OBJC_$_CLASS_METHODS_RCTOnPageScrollStateChanged
+__OBJC_CLASS_PROTOCOLS_$_RCTOnPageScrollStateChanged
+__OBJC_METACLASS_RO_$_RCTOnPageScrollStateChanged
+__OBJC_$_INSTANCE_METHODS_RCTOnPageScrollStateChanged
+_OBJC_IVAR_$_RCTOnPageScrollStateChanged._state
+_OBJC_IVAR_$_RCTOnPageScrollStateChanged._coalescingKey
+_OBJC_IVAR_$_RCTOnPageScrollStateChanged._viewTag
+__OBJC_$_INSTANCE_VARIABLES_RCTOnPageScrollStateChanged
+__OBJC_$_PROP_LIST_RCTOnPageScrollStateChanged
+__OBJC_CLASS_RO_$_RCTOnPageScrollStateChanged
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/RCTOnPageScrollStateChanged.m
+node_modules/react-native-pager-view/ios/RCTOnPageScrollStateChanged.m
+-[RCTOnPageSelected eventName]
+-[RCTOnPageSelected initWithReactTag:position:coalescingKey:]
+-[RCTOnPageSelected init]
+-[RCTOnPageSelected coalescingKey]
+-[RCTOnPageSelected canCoalesce]
++[RCTOnPageSelected moduleDotMethod]
+-[RCTOnPageSelected arguments]
+-[RCTOnPageSelected coalesceWithEvent:]
+-[RCTOnPageSelected viewTag]
+-[RCTOnPageSelected .cxx_destruct]
+__OBJC_$_CLASS_METHODS_RCTOnPageSelected
+__OBJC_CLASS_PROTOCOLS_$_RCTOnPageSelected
+__OBJC_METACLASS_RO_$_RCTOnPageSelected
+__OBJC_$_INSTANCE_METHODS_RCTOnPageSelected
+_OBJC_IVAR_$_RCTOnPageSelected._position
+_OBJC_IVAR_$_RCTOnPageSelected._coalescingKey
+_OBJC_IVAR_$_RCTOnPageSelected._viewTag
+__OBJC_$_INSTANCE_VARIABLES_RCTOnPageSelected
+__OBJC_$_PROP_LIST_RCTOnPageSelected
+__OBJC_CLASS_RO_$_RCTOnPageSelected
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/RCTOnPageSelected.m
+node_modules/react-native-pager-view/ios/RCTOnPageSelected.m
+__OBJC_METACLASS_RO_$_PodsDummy_react_native_pager_view
+__OBJC_CLASS_RO_$_PodsDummy_react_native_pager_view
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/react-native-pager-view/react-native-pager-view-dummy.m
+-[ReactNativePageView initWithEventDispatcher:]
+-[ReactNativePageView layoutSubviews]
+-[ReactNativePageView didUpdateReactSubviews]
+-[ReactNativePageView didMoveToSuperview]
+-[ReactNativePageView didMoveToWindow]
+-[ReactNativePageView embed]
+-[ReactNativePageView shouldScroll:]
+-[ReactNativePageView shouldDismissKeyboard:]
+-[ReactNativePageView setupInitialController]
+-[ReactNativePageView setReactViewControllers:with:direction:animated:shouldCallOnPageSelected:]
+___96-[ReactNativePageView setReactViewControllers:with:direction:animated:shouldCallOnPageSelected:]_block_invoke
+___copy_helper_block_e8_32s40w
+___destroy_helper_block_e8_32s40w
+-[ReactNativePageView currentlyDisplayed]
+-[ReactNativePageView findCachedControllerForView:]
+-[ReactNativePageView updateDataSource]
+-[ReactNativePageView goTo:animated:]
+-[ReactNativePageView goToViewController:direction:animated:shouldCallOnPageSelected:]
+-[ReactNativePageView findAndCacheControllerForView:]
+-[ReactNativePageView nextControllerForController:inDirection:]
+-[ReactNativePageView pageViewController:didFinishAnimating:previousViewControllers:transitionCompleted:]
+-[ReactNativePageView pageViewController:viewControllerAfterViewController:]
+-[ReactNativePageView pageViewController:viewControllerBeforeViewController:]
+-[ReactNativePageView shouldShowPageIndicator:]
+-[ReactNativePageView createPageIndicator]
+-[ReactNativePageView pageControlValueChanged:]
+-[ReactNativePageView scrollViewWillBeginDragging:]
+-[ReactNativePageView scrollViewWillEndDragging:withVelocity:targetContentOffset:]
+-[ReactNativePageView scrollViewDidEndDecelerating:]
+-[ReactNativePageView isHorizontal]
+-[ReactNativePageView scrollViewDidScroll:]
+-[ReactNativePageView determineScrollDirection:]
+-[ReactNativePageView isLtrLayout]
+-[ReactNativePageView initialPage]
+-[ReactNativePageView setInitialPage:]
+-[ReactNativePageView lastReportedIndex]
+-[ReactNativePageView setLastReportedIndex:]
+-[ReactNativePageView currentIndex]
+-[ReactNativePageView setCurrentIndex:]
+-[ReactNativePageView pageMargin]
+-[ReactNativePageView setPageMargin:]
+-[ReactNativePageView scrollEnabled]
+-[ReactNativePageView showPageIndicator]
+-[ReactNativePageView dismissKeyboard]
+-[ReactNativePageView transitionStyle]
+-[ReactNativePageView setTransitionStyle:]
+-[ReactNativePageView orientation]
+-[ReactNativePageView setOrientation:]
+-[ReactNativePageView onPageSelected]
+-[ReactNativePageView setOnPageSelected:]
+-[ReactNativePageView onPageScroll]
+-[ReactNativePageView setOnPageScroll:]
+-[ReactNativePageView onPageScrollStateChanged]
+-[ReactNativePageView setOnPageScrollStateChanged:]
+-[ReactNativePageView overdrag]
+-[ReactNativePageView setOverdrag:]
+-[ReactNativePageView layoutDirection]
+-[ReactNativePageView setLayoutDirection:]
+-[ReactNativePageView previousBounds]
+-[ReactNativePageView setPreviousBounds:]
+-[ReactNativePageView animating]
+-[ReactNativePageView setAnimating:]
+-[ReactNativePageView reactPageViewController]
+-[ReactNativePageView setReactPageViewController:]
+-[ReactNativePageView reactPageIndicatorView]
+-[ReactNativePageView setReactPageIndicatorView:]
+-[ReactNativePageView eventDispatcher]
+-[ReactNativePageView setEventDispatcher:]
+-[ReactNativePageView scrollView]
+-[ReactNativePageView setScrollView:]
+-[ReactNativePageView currentView]
+-[ReactNativePageView setCurrentView:]
+-[ReactNativePageView cachedControllers]
+-[ReactNativePageView setCachedControllers:]
+-[ReactNativePageView lastContentOffset]
+-[ReactNativePageView setLastContentOffset:]
+-[ReactNativePageView .cxx_destruct]
+_OBJC_IVAR_$_ReactNativePageView._scrollEnabled
+_OBJC_IVAR_$_ReactNativePageView._pageMargin
+_OBJC_IVAR_$_ReactNativePageView._lastReportedIndex
+_OBJC_IVAR_$_ReactNativePageView._transitionStyle
+_OBJC_IVAR_$_ReactNativePageView._orientation
+_OBJC_IVAR_$_ReactNativePageView._currentIndex
+_OBJC_IVAR_$_ReactNativePageView._dismissKeyboard
+_OBJC_IVAR_$_ReactNativePageView._coalescingKey
+_OBJC_IVAR_$_ReactNativePageView._eventDispatcher
+_OBJC_IVAR_$_ReactNativePageView._cachedControllers
+_OBJC_IVAR_$_ReactNativePageView._overdrag
+_OBJC_IVAR_$_ReactNativePageView._layoutDirection
+_OBJC_IVAR_$_ReactNativePageView._previousBounds
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_CLASSLIST_REFERENCES_$_.101
+_OBJC_CLASSLIST_REFERENCES_$_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_CLASSLIST_REFERENCES_$_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+___block_descriptor_59_e8_32s40w_e8_v12?0B8l
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_CLASSLIST_REFERENCES_$_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_IVAR_$_ReactNativePageView._showPageIndicator
+_OBJC_CLASSLIST_REFERENCES_$_.183
+_OBJC_CLASSLIST_REFERENCES_$_.184
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_CLASSLIST_REFERENCES_$_.201
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_IVAR_$_ReactNativePageView._reactPageIndicatorView
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_IVAR_$_ReactNativePageView._initialPage
+_OBJC_IVAR_$_ReactNativePageView._onPageSelected
+_OBJC_IVAR_$_ReactNativePageView._onPageScroll
+_OBJC_IVAR_$_ReactNativePageView._onPageScrollStateChanged
+_OBJC_IVAR_$_ReactNativePageView._animating
+_OBJC_IVAR_$_ReactNativePageView._reactPageViewController
+_OBJC_IVAR_$_ReactNativePageView._scrollView
+_OBJC_IVAR_$_ReactNativePageView._currentView
+_OBJC_IVAR_$_ReactNativePageView._lastContentOffset
+__OBJC_$_PROTOCOL_REFS_UIPageViewControllerDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_UIPageViewControllerDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIPageViewControllerDataSource
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIPageViewControllerDataSource
+__OBJC_PROTOCOL_$_UIPageViewControllerDataSource
+__OBJC_LABEL_PROTOCOL_$_UIPageViewControllerDataSource
+__OBJC_$_PROTOCOL_REFS_UIPageViewControllerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIPageViewControllerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIPageViewControllerDelegate
+__OBJC_PROTOCOL_$_UIPageViewControllerDelegate
+__OBJC_LABEL_PROTOCOL_$_UIPageViewControllerDelegate
+__OBJC_$_PROTOCOL_REFS_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIScrollViewDelegate
+__OBJC_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_CLASS_PROTOCOLS_$_ReactNativePageView
+__OBJC_METACLASS_RO_$_ReactNativePageView
+__OBJC_$_INSTANCE_METHODS_ReactNativePageView
+__OBJC_$_INSTANCE_VARIABLES_ReactNativePageView
+__OBJC_$_PROP_LIST_ReactNativePageView
+__OBJC_CLASS_RO_$_ReactNativePageView
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/ReactNativePageView.m
+node_modules/react-native-pager-view/ios/ReactNativePageView.m
+node_modules/react-native-pager-view/ios/ReactNativePageView.h
+__tg_fmax
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/tgmath.h
+__tg_fabs
+llvm.loop.mustprogress
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32s40w
+__96-[ReactNativePageView setReactViewControllers:with:direction:animated:shouldCallOnPageSelected:]_block_invoke
++[ReactViewPagerManager moduleName]
++[ReactViewPagerManager load]
++[ReactViewPagerManager propConfig_initialPage]
++[ReactViewPagerManager propConfig_pageMargin]
++[ReactViewPagerManager propConfig_transitionStyle]
++[ReactViewPagerManager propConfig_orientation]
++[ReactViewPagerManager propConfig_onPageSelected]
++[ReactViewPagerManager propConfig_onPageScroll]
++[ReactViewPagerManager propConfig_onPageScrollStateChanged]
++[ReactViewPagerManager propConfig_overdrag]
++[ReactViewPagerManager propConfig_layoutDirection]
+-[ReactViewPagerManager goToPage:index:animated:]
+___49-[ReactViewPagerManager goToPage:index:animated:]_block_invoke
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+-[ReactViewPagerManager changeScrollEnabled:enabled:]
+___53-[ReactViewPagerManager changeScrollEnabled:enabled:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
++[ReactViewPagerManager __rct_export__57376]
+-[ReactViewPagerManager setPage:index:]
++[ReactViewPagerManager __rct_export__63377]
+-[ReactViewPagerManager setPageWithoutAnimation:index:]
++[ReactViewPagerManager __rct_export__69378]
+-[ReactViewPagerManager setScrollEnabled:enabled:]
++[ReactViewPagerManager propConfig_scrollEnabled]
+-[ReactViewPagerManager set_scrollEnabled:forView:withDefaultView:]
++[ReactViewPagerManager propConfig_keyboardDismissMode]
+-[ReactViewPagerManager set_keyboardDismissMode:forView:withDefaultView:]
++[ReactViewPagerManager propConfig_showPageIndicator]
+-[ReactViewPagerManager set_showPageIndicator:forView:withDefaultView:]
+-[ReactViewPagerManager view]
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+___block_descriptor_49_e8_32s40s_e39_v24?0"RCTUIManager"8"NSDictionary"16l
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+___block_descriptor_41_e8_32s_e39_v24?0"RCTUIManager"8"NSDictionary"16l
+___rct_export__57376.config
+___rct_export__63377.config
+___rct_export__69378.config
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+__OBJC_$_CLASS_METHODS_ReactViewPagerManager
+__OBJC_METACLASS_RO_$_ReactViewPagerManager
+__OBJC_$_INSTANCE_METHODS_ReactViewPagerManager
+__OBJC_CLASS_RO_$_ReactViewPagerManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/ReactViewPagerManager.m
+node_modules/react-native-pager-view/ios/ReactViewPagerManager.m
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__53-[ReactViewPagerManager changeScrollEnabled:enabled:]_block_invoke
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__49-[ReactViewPagerManager goToPage:index:animated:]_block_invoke
+-[UIViewController(CreateExtension) initWithView:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIViewController_$_CreateExtension
+__OBJC_$_CATEGORY_UIViewController_$_CreateExtension
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-pager-view/ios/UIViewController+CreateExtension.m
+node_modules/react-native-pager-view/ios/UIViewController+CreateExtension.m

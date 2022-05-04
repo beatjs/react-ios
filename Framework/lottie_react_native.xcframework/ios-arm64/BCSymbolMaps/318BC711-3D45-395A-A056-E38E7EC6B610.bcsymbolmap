@@ -1,0 +1,465 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/lottie-react-native/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/lottie-react-native.build/DerivedSources/lottie_react_native_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+__OBJC_METACLASS_RO_$_PodsDummy_lottie_react_native
+__OBJC_CLASS_RO_$_PodsDummy_lottie_react_native
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/lottie-react-native/lottie-react-native-dummy.m
++[LottieAnimationView(RCTExternModule) moduleName]
+_initialize_LottieAnimationView
++[LottieAnimationView(RCTExternModule) propConfig_resizeMode]
++[LottieAnimationView(RCTExternModule) propConfig_sourceJson]
++[LottieAnimationView(RCTExternModule) propConfig_sourceName]
++[LottieAnimationView(RCTExternModule) propConfig_progress]
++[LottieAnimationView(RCTExternModule) propConfig_loop]
++[LottieAnimationView(RCTExternModule) propConfig_speed]
++[LottieAnimationView(RCTExternModule) propConfig_onAnimationFinish]
++[LottieAnimationView(RCTExternModule) propConfig_colorFilters]
++[LottieAnimationView(RCTExternModule) __rct_export__15376]
++[LottieAnimationView(RCTExternModule) __rct_export__17377]
++[LottieAnimationView(RCTExternModule) __rct_export__18378]
++[LottieAnimationView(RCTExternModule) __rct_export__19379]
+_OBJC_CLASS_$_LottieAnimationView
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+___rct_export__15376.config
+___rct_export__17377.config
+___rct_export__18378.config
+___rct_export__19379.config
+__OBJC_$_CATEGORY_CLASS_METHODS_LottieAnimationView_$_RCTExternModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_RCTBridgeModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROP_LIST_RCTBridgeModule
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTBridgeModule
+__OBJC_PROTOCOL_$_RCTBridgeModule
+__OBJC_LABEL_PROTOCOL_$_RCTBridgeModule
+__OBJC_CATEGORY_PROTOCOLS_$_LottieAnimationView_$_RCTExternModule
+__OBJC_$_PROP_LIST_LottieAnimationView_$_RCTExternModule
+__OBJC_$_CATEGORY_LottieAnimationView_$_RCTExternModule
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNAnimationViewManagerObjC.m
+node_modules/lottie-react-native/src/ios/LottieReactNative/LRNAnimationViewManagerObjC.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+initialize_LottieAnimationView
++[RCTConvert(Lottie) LRNColorFilters:]
+___38+[RCTConvert(Lottie) LRNColorFilters:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+___block_descriptor_40_e8_32s_e29_v32?0"NSDictionary"8Q16^B24l
+_OBJC_SELECTOR_REFERENCES_.19
+__OBJC_$_CATEGORY_CLASS_METHODS_RCTConvert_$_Lottie
+__OBJC_$_CATEGORY_RCTConvert_$_Lottie
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/lottie-react-native/src/ios/LottieReactNative/RCTConvert+Lottie.m
+__destroy_helper_block_e8_32s
+node_modules/lottie-react-native/src/ios/LottieReactNative/RCTConvert+Lottie.m
+__copy_helper_block_e8_32s
+__38+[RCTConvert(Lottie) LRNColorFilters:]_block_invoke
+_$s19lottie_react_native26AnimationViewManagerModuleC4viewSo6UIViewCSgyFTo
+_$s19lottie_react_native26AnimationViewManagerModuleC17constantsToExportSDys11AnyHashableVypGSgyFTo
+_$s19lottie_react_native26AnimationViewManagerModuleC4play_10startFrame03endJ0ySo8NSNumberC_A2HtF
+_$s19lottie_react_native26AnimationViewManagerModuleC4play_10startFrame03endJ0ySo8NSNumberC_A2HtFySo12RCTUIManagerCSg_SDyAHSo6UIViewCGSgtcfU_
+_$sSDyq_SgxcigSo8NSNumberC_So6UIViewCTg5
+_$sSo12RCTUIManagerCSgSDySo8NSNumberCSo6UIViewCGSgIeggg_ACSo12NSDictionaryCSgIeyByy_TR
+_$s19lottie_react_native26AnimationViewManagerModuleC4play_10startFrame03endJ0ySo8NSNumberC_A2HtFTo
+_$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCF
+_$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_
+_$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCFTo
+_$s19lottie_react_native26AnimationViewManagerModuleC5pauseyySo8NSNumberCF
+_$s19lottie_react_native26AnimationViewManagerModuleC5pauseyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_
+_$s19lottie_react_native26AnimationViewManagerModuleC5pauseyySo8NSNumberCFTo
+_$s19lottie_react_native26AnimationViewManagerModuleC6resumeyySo8NSNumberCF
+_$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCFTm
+_$s19lottie_react_native26AnimationViewManagerModuleC6resumeyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_
+_$s19lottie_react_native26AnimationViewManagerModuleC6resumeyySo8NSNumberCFTo
+_$s19lottie_react_native26AnimationViewManagerModuleC22requiresMainQueueSetupSbyFZTo
+_$s19lottie_react_native26AnimationViewManagerModuleCACycfcTo
+_$s19lottie_react_native26AnimationViewManagerModuleCfD
+_$s19lottie_react_native26AnimationViewManagerModuleCMa
+__swift_FORCE_LOAD_$_swiftCompatibility50
+__swift_FORCE_LOAD_$_swiftCompatibility51
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements
+__swift_FORCE_LOAD_$_swiftCompatibilityConcurrency
+_$s19lottie_react_native26AnimationViewManagerModuleC6resumeyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_TA
+_block_copy_helper
+_block_destroy_helper
+_$sSo8NSNumberCMa
+_$sSo6UIViewCMa
+_$sSo8NSNumberCMaTm
+_$sSo8NSNumberCSo8NSObjectCSH10ObjectiveCWl
+_$s19lottie_react_native13ContainerViewCMa
+_$s19lottie_react_native13ContainerViewC4play9fromFrame02toH0y12CoreGraphics7CGFloatVSg_AItF
+_$s19lottie_react_native13ContainerViewC4playyyFySbcfU_
+_$s19lottie_react_native13ContainerViewC4playyyFySbcfU_TA
+_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSo8NSNumberC_Tg5
+_$s19lottie_react_native26AnimationViewManagerModuleC5pauseyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_TA
+_$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_TA
+_$s19lottie_react_native26AnimationViewManagerModuleC4play_10startFrame03endJ0ySo8NSNumberC_A2HtFySo12RCTUIManagerCSg_SDyAHSo6UIViewCGSgtcfU_TA
+___swift_instantiateConcreteTypeFromMangledName
+_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCs11AnyHashableV_ypTg5Tf4gd_n
+_block_copy_helper.7
+_block_copy_helper.13
+_block_copy_helper.19
+_block_destroy_helper.8
+_block_destroy_helper.14
+_block_destroy_helper.20
+_$s19lottie_react_native13ContainerViewC4playyyFySbcfU_TA.25
+_OBJC_METACLASS_$_LottieAnimationView
+__CLASS_METHODS_LottieAnimationView
+__METACLASS_DATA_LottieAnimationView
+__INSTANCE_METHODS_LottieAnimationView
+__DATA_LottieAnimationView
+_$s19lottie_react_nativeMXM
+_symbolic So14RCTViewManagerC
+_$s19lottie_react_native26AnimationViewManagerModuleCMn
+_$s19lottie_react_native26AnimationViewManagerModuleCMf
+_symbolic _____ 19lottie_react_native26AnimationViewManagerModuleC
+_$s19lottie_react_native26AnimationViewManagerModuleCMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftDarwin_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftFoundation_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftDispatch_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCoreImage_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftMetal_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftFileProvider_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftDataDetection_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftAccelerate_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftos_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCoreLocation_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftWebKit_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCompatibility50_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCompatibility51_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements_$_lottie_react_native
+__swift_FORCE_LOAD_$_swiftCompatibilityConcurrency_$_lottie_react_native
+_symbolic So8NSNumberC
+_block_descriptor
+_$sSo8NSNumberCML
+_$sSo6UIViewCML
+_$sSo8NSNumberCSo8NSObjectCSH10ObjectiveCWL
+_$s19lottie_react_native13ContainerViewCMn
+_symbolic _____ 19lottie_react_native13ContainerViewC
+_$s19lottie_react_native13ContainerViewC09animationE06Lottie09AnimationE0CSgvpWvd
+_block_descriptor.9
+_block_descriptor.15
+_block_descriptor.21
+_symbolic _____y______yptG s23_ContiguousArrayStorageC s11AnyHashableV
+_$ss23_ContiguousArrayStorageCys11AnyHashableV_yptGMD
+___swift_reflection_version
+_objc_classes_$s19lottie_react_native26AnimationViewManagerModuleCN
+_$s19lottie_react_native26AnimationViewManagerModuleC4play_10startFrame03endJ0ySo8NSNumberC_A2HtFTq
+_$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCFTq
+_$s19lottie_react_native26AnimationViewManagerModuleC5pauseyySo8NSNumberCFTq
+_$s19lottie_react_native26AnimationViewManagerModuleC6resumeyySo8NSNumberCFTq
+_$s19lottie_react_native26AnimationViewManagerModuleCN
+Apple clang version 13.1.6 (clang-1316.0.20.8)
+<swift-imported-modules>
+Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/lottie-react-native/src/ios/LottieReactNative/AnimationViewManagerModule.swift
+__swift_instantiateConcreteTypeFromMangledName
+<compiler-generated>
+$s19lottie_react_native26AnimationViewManagerModuleC4play_10startFrame03endJ0ySo8NSNumberC_A2HtFySo12RCTUIManagerCSg_SDyAHSo6UIViewCGSgtcfU_TA
+objectdestroy.17
+$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_TA
+$s19lottie_react_native26AnimationViewManagerModuleC5pauseyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_TA
+$s19lottie_react_native13ContainerViewC4playyyFySbcfU_TA
+$sSo8NSNumberCSo8NSObjectCSH10ObjectiveCWl
+$sSo8NSNumberCMa
+block_destroy_helper
+block_copy_helper
+$s19lottie_react_native26AnimationViewManagerModuleC6resumeyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_TA
+objectdestroy
+$s19lottie_react_native26AnimationViewManagerModuleCMa
+deinit
+init
+requiresMainQueueSetup
+resume
+$s19lottie_react_native26AnimationViewManagerModuleC6resumeyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_
+node_modules/lottie-react-native/src/ios/LottieReactNative/ContainerView.swift
+play
+animationView.get
+reset
+Swift runtime failure: Unexpectedly found nil while implicitly unwrapping an Optional value
+pause
+$s19lottie_react_native26AnimationViewManagerModuleC5pauseyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_
+$s19lottie_react_native26AnimationViewManagerModuleC5resetyySo8NSNumberCFySo12RCTUIManagerCSg_SDyAFSo6UIViewCGSgtcfU_
+$sSo12RCTUIManagerCSgSDySo8NSNumberCSo6UIViewCGSgIeggg_ACSo12NSDictionaryCSgIeyByy_TR
+subscript.get
+$ss26_forceBridgeFromObjectiveCyxyXl_xmtlFSo6UIViewC_Tg5
+$sSD8_VariantV7asCocoas02__C10DictionaryVvgSo8NSNumberC_So6UIViewCTg5
+$ss27_bridgeAnythingToObjectiveCyyXlxlFSo8NSNumberC_Tg5
+$ss17_NativeDictionaryV7_valuesSpyq_GvgSo8NSNumberC_So6UIViewCTg5
+$s19lottie_react_native26AnimationViewManagerModuleC4play_10startFrame03endJ0ySo8NSNumberC_A2HtFySo12RCTUIManagerCSg_SDyAHSo6UIViewCGSgtcfU_
+constantsToExport
+_allocateUninitializedArray
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZs11AnyHashableV_ypt_Tg5
+_convertToAnyHashable
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgs11AnyHashableV_ypt_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCs11AnyHashableV_ypt_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFs11AnyHashableV_ypt_Tg5
+view
+_$s19lottie_react_native13ContainerViewC17onAnimationFinishySDys11AnyHashableVypGSgcSgvgTo
+_$sSDys11AnyHashableVypGSgIegg_So12NSDictionaryCSgIeyBy_TR
+_$s19lottie_react_native13ContainerViewC17onAnimationFinishySDys11AnyHashableVypGSgcSgvsTo
+_$s19lottie_react_native13ContainerViewC24traitCollectionDidChangeyySo07UITraitG0CSgF
+_$s19lottie_react_native13ContainerViewC24traitCollectionDidChangeyySo07UITraitG0CSgFTo
+_$s19lottie_react_native13ContainerViewC8setSpeedyy12CoreGraphics7CGFloatVF
+_$s19lottie_react_native13ContainerViewC8setSpeedyy12CoreGraphics7CGFloatVFTo
+_$s19lottie_react_native13ContainerViewC11setProgressyy12CoreGraphics7CGFloatVFTo
+_$s19lottie_react_native13ContainerViewC0B8SetFrameyySo6CGRectVFTo
+_$s19lottie_react_native13ContainerViewC7setLoopyySbF
+_$s19lottie_react_native13ContainerViewC7setLoopyySbFTo
+_$s19lottie_react_native13ContainerViewC13setSourceJsonyySSF
+_$s19lottie_react_native13ContainerViewC13setSourceJsonyySSFTo
+_$s19lottie_react_native13ContainerViewC13setSourceNameyySSF
+_$s19lottie_react_native13ContainerViewC13setSourceNameyySSFTo
+_$s19lottie_react_native13ContainerViewC13setResizeModeyySSF
+_$s19lottie_react_native13ContainerViewC13setResizeModeyySSFTo
+_$s19lottie_react_native13ContainerViewC13setSourceJsonyySSFToTm
+_$s19lottie_react_native13ContainerViewC15setColorFiltersyySaySo12NSDictionaryCGFTo
+_$s19lottie_react_native13ContainerViewC4play9fromFrame02toH0y12CoreGraphics7CGFloatVSg_AItFySbcfU_
+_$s19lottie_react_native13ContainerViewC016replaceAnimationE04nexty6Lottie0gE0C_tF
+_$s19lottie_react_native13ContainerViewC15applyPropertiesyyF
+_$s19lottie_react_native13ContainerViewC5frameACSo6CGRectV_tcfc
+_$s19lottie_react_native13ContainerViewC5frameACSo6CGRectV_tcfcTo
+_$s19lottie_react_native13ContainerViewC5coderACSgSo7NSCoderC_tcfcTo
+_$s19lottie_react_native13ContainerViewCfD
+_$s19lottie_react_native13ContainerViewCfETo
+_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFs11AnyHashableV_Tg5
+_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFs11AnyHashableV_Tg5
+_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSo8NSNumberC_Tg5
+_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo12NSDictionaryC_Tg5
+_$sSo12NSDictionaryCMa
+_$sypWOb
+_$sSo7UIColorCMa
+___swift_destroy_boxed_opaque_existential_1
+_$s19lottie_react_native13ContainerViewC4play9fromFrame02toH0y12CoreGraphics7CGFloatVSg_AItFySbcfU_TA
+_$sSDys11AnyHashableVypGSgIegg_SgWOe
+_$ss11AnyHashableV_yptWOc
+_$ss11AnyHashableVWOc
+_$ss11AnyHashableVWOh
+_$sS2SSysWl
+_$s6Lottie9AnimationCACSeAAWl
+_$s10Foundation4DataVSgWOe
+_$s10Foundation4DataV15_RepresentationOWOe
+_$s19lottie_react_native13ContainerViewC5coderACSgSo7NSCoderC_tcfcTf4gn_n
+_$sSo12NSDictionaryCSgIeyBy_SDys11AnyHashableVypGSgIegg_TRTA
+_$sSo12NSDictionaryCMaTm
+_$s19lottie_react_native13ContainerViewC5speed33_903837B02C509A20B8521AB40B506784LL12CoreGraphics7CGFloatVvpWvd
+_$s19lottie_react_native13ContainerViewC8progress33_903837B02C509A20B8521AB40B506784LL12CoreGraphics7CGFloatVvpWvd
+_$s19lottie_react_native13ContainerViewC4loop33_903837B02C509A20B8521AB40B506784LL6Lottie0M8LoopModeOvpWvd
+_$s19lottie_react_native13ContainerViewC10sourceJson33_903837B02C509A20B8521AB40B506784LLSSvpWvd
+_$s19lottie_react_native13ContainerViewC10resizeMode33_903837B02C509A20B8521AB40B506784LLSSvpWvd
+_$s19lottie_react_native13ContainerViewC10sourceName33_903837B02C509A20B8521AB40B506784LLSSvpWvd
+_$s19lottie_react_native13ContainerViewC12colorFilters33_903837B02C509A20B8521AB40B506784LLSaySo12NSDictionaryCGvpWvd
+_$s19lottie_react_native13ContainerViewC17onAnimationFinishySDys11AnyHashableVypGSgcSgvpWvd
+_OBJC_METACLASS_$__TtC19lottie_react_native13ContainerView
+__METACLASS_DATA__TtC19lottie_react_native13ContainerView
+__INSTANCE_METHODS__TtC19lottie_react_native13ContainerView
+__IVARS__TtC19lottie_react_native13ContainerView
+__PROPERTIES__TtC19lottie_react_native13ContainerView
+__DATA__TtC19lottie_react_native13ContainerView
+_symbolic So7RCTViewC
+_$s19lottie_react_native13ContainerViewCMf
+_symbolic _____ 12CoreGraphics7CGFloatV
+_symbolic _____ 6Lottie0A8LoopModeO
+_symbolic SS
+_symbolic SaySo12NSDictionaryCG
+_symbolic ySDy_____ypGSgcSg s11AnyHashableV
+_symbolic _____Sg 6Lottie13AnimationViewC
+_$s19lottie_react_native13ContainerViewCMF
+_$sSo12NSDictionaryCML
+_$sSo7UIColorCML
+_symbolic _____y_____ypG s18_DictionaryStorageC s11AnyHashableV
+_$ss18_DictionaryStorageCys11AnyHashableVypGMD
+_symbolic ______ypt s11AnyHashableV
+_$ss11AnyHashableV_yptMD
+_$sS2SSysWL
+_$s6Lottie9AnimationCACSeAAWL
+_symbolic _____yypG s23_ContiguousArrayStorageC
+_$ss23_ContiguousArrayStorageCyypGMD
+_symbolic So12NSDictionaryCSgIeyBy_
+_objc_classes_$s19lottie_react_native13ContainerViewCN
+_$s19lottie_react_native13ContainerViewC17onAnimationFinishySDys11AnyHashableVypGSgcSgvgTq
+_$s19lottie_react_native13ContainerViewC17onAnimationFinishySDys11AnyHashableVypGSgcSgvsTq
+_$s19lottie_react_native13ContainerViewC17onAnimationFinishySDys11AnyHashableVypGSgcSgvMTq
+_$s19lottie_react_native13ContainerViewC09animationE06Lottie09AnimationE0CSgvgTq
+_$s19lottie_react_native13ContainerViewC09animationE06Lottie09AnimationE0CSgvsTq
+_$s19lottie_react_native13ContainerViewC09animationE06Lottie09AnimationE0CSgvMTq
+_$s19lottie_react_native13ContainerViewC8setSpeedyy12CoreGraphics7CGFloatVFTq
+_$s19lottie_react_native13ContainerViewC11setProgressyy12CoreGraphics7CGFloatVFTq
+_$s19lottie_react_native13ContainerViewC7setLoopyySbFTq
+_$s19lottie_react_native13ContainerViewC13setSourceJsonyySSFTq
+_$s19lottie_react_native13ContainerViewC13setSourceNameyySSFTq
+_$s19lottie_react_native13ContainerViewC13setResizeModeyySSFTq
+_$s19lottie_react_native13ContainerViewC15setColorFiltersyySaySo12NSDictionaryCGFTq
+_$s19lottie_react_native13ContainerViewC4play9fromFrame02toH0y12CoreGraphics7CGFloatVSg_AItFTq
+_$s19lottie_react_native13ContainerViewC4playyyFTq
+_$s19lottie_react_native13ContainerViewC5resetyyFTq
+_$s19lottie_react_native13ContainerViewC5pauseyyFTq
+_$s19lottie_react_native13ContainerViewC6resumeyyFTq
+_$s19lottie_react_native13ContainerViewC016replaceAnimationE04nexty6Lottie0gE0C_tFTq
+_$s19lottie_react_native13ContainerViewC15applyPropertiesyyFTq
+_$s19lottie_react_native13ContainerViewCN
+_OBJC_CLASS_$__TtC19lottie_react_native13ContainerView
+-private-discriminator _903837B02C509A20B8521AB40B506784
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/lottie-react-native/src/ios/LottieReactNative/ContainerView.swift
+$sSo12NSDictionaryCMa
+$sSo12NSDictionaryCSgIeyBy_SDys11AnyHashableVypGSgIegg_TRTA
+$sSo12NSDictionaryCSgIeyBy_SDys11AnyHashableVypGSgIegg_TR
+objectdestroy.2
+$s6Lottie9AnimationCACSeAAWl
+$sS2SSysWl
+$ss11AnyHashableVWOh
+$ss11AnyHashableVWOc
+$ss11AnyHashableV_yptWOc
+$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFs11AnyHashableV_ypTg5
+Swift runtime failure: arithmetic overflow
+Swift runtime failure: Dictionary literal contains duplicate keys
+$sSp10initialize2toyx_tFyp_Tg5
+$ss17_NativeDictionaryV7_valuesSpyq_Gvgs11AnyHashableV_ypTg5
+$sSp10initialize2toyx_tFs11AnyHashableV_Tg5
+$ss17_NativeDictionaryV5_keysSpyxGvgs11AnyHashableV_ypTg5
+$sSa9formIndex5afterySiz_tFs11AnyHashableV_ypt_Tg5
+$sSayxSicigs11AnyHashableV_ypt_Tg5
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFs11AnyHashableV_ypt_Tg5
+$sSD7_nativeSDyxq_Gs17_NativeDictionaryVyxq_Gn_tcfCs11AnyHashableV_ypTg5
+$ss17_NativeDictionaryV8capacityAByxq_GSi_tcfCs11AnyHashableV_ypTg5
+count.get
+$sSa9_getCountSiyFs11AnyHashableV_ypt_Tg5
+$ss12_ArrayBufferV14immutableCountSivgs11AnyHashableV_ypt_Tg5
+$ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvgs11AnyHashableV_ypt_Tg5
+$s19lottie_react_native13ContainerViewC4play9fromFrame02toH0y12CoreGraphics7CGFloatVSg_AItFySbcfU_TA
+__swift_destroy_boxed_opaque_existential_1
+$sypWOb
+$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo12NSDictionaryC_Tg5
+Swift runtime failure: Index out of range
+$sSS12_createEmpty19withInitialCapacitySSSi_tFZ
+$sSS12_createEmpty19withInitialCapacitySSSi_tFZTf4nd_n
+$ss12_ArrayBufferV10_nonNatives06_CocoaA7WrapperVvgSo12NSDictionaryC_Tg5
+$ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvgSo12NSDictionaryC_Tg5
+$ss12_ArrayBufferV9_isNativeSbvgSo12NSDictionaryC_Tg5
+$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSo8NSNumberC_Tg5
+$sSo8NSObjectCSQ10ObjectiveCSQ2eeoiySbx_xtFZTW
+$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFs11AnyHashableV_Tg5
+$ss11AnyHashableVSQsSQ2eeoiySbx_xtFZTW
+$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSo8NSNumberC_Tg5
+$sSo8NSObjectCSH10ObjectiveCSH13_rawHashValue4seedS2i_tFTW
+$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFs11AnyHashableV_Tg5
+$ss11AnyHashableVSHsSH13_rawHashValue4seedS2i_tFTW
+$s19lottie_react_native13ContainerViewCMa
+$s19lottie_react_native13ContainerViewCfETo
+applyProperties
+Swift runtime failure: Unexpectedly found nil while unwrapping an Optional value
+$ss16IndexingIteratorV4next7ElementQzSgyFSaySo12NSDictionaryCG_Tg5
+$sSayxGSlsSl9formIndex5aftery0B0Qzz_tFTWSo12NSDictionaryC_Tg5
+$sSa9formIndex5afterySiz_tFSo12NSDictionaryC_Tg5
+$sSiSQsSQ2eeoiySbx_xtFZTW
+appendLiteral
+appendInterpolation
+$sSSs20TextOutputStreamablessAAP5write2toyqd__z_ts0aB6StreamRd__lFTWs26DefaultStringInterpolationV_Tg5
+$sSS5write2toyxz_ts16TextOutputStreamRzlFs26DefaultStringInterpolationV_Tg5
+$ss26DefaultStringInterpolationVs16TextOutputStreamssACP5writeyySSFTW
+$ss26DefaultStringInterpolationV5writeyySSF
+$sSayxGSlsSly7ElementQz5IndexQzcirTWSo12NSDictionaryC_Tg5
+$sSayxSicirSo12NSDictionaryC_Tg5
+$sSayxSicigSo12NSDictionaryC_Tg5
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSo12NSDictionaryC_Tg5
+$sSa29_hoistableIsNativeTypeCheckedSbyFSo12NSDictionaryC_Tg5
+$ss12_ArrayBufferV32arrayPropertyIsNativeTypeCheckedSbvgSo12NSDictionaryC_Tg5
+$ss12_ArrayBufferV20_isNativeTypeCheckedSbvgSo12NSDictionaryC_Tg5
+$sSayxGSlsSl8endIndex0B0QzvgTWSo12NSDictionaryC_Tg5
+$sSa8endIndexSivgSo12NSDictionaryC_Tg5
+$sSa9_getCountSiyFSo12NSDictionaryC_Tg5
+$ss12_ArrayBufferV14immutableCountSivgSo12NSDictionaryC_Tg5
+colorFilters.get
+loop.get
+speed.get
+progress.get
+replaceAnimationView
+animationView.set
+$s19lottie_react_native13ContainerViewC4play9fromFrame02toH0y12CoreGraphics7CGFloatVSg_AItFySbcfU_
+onAnimationFinish.get
+setColorFilters
+colorFilters.set
+setSourceJson
+setResizeMode
+==
+$ss14_stringCompare__9expectingSbs11_StringGutsV_ADs01_D16ComparisonResultOtF
+setSourceName
+sourceName.get
+sourceName.set
+sourceJson.get
+sourceJson.set
+setLoop
+loop.set
+reactSetFrame
+setProgress
+progress.set
+setSpeed
+speed.set
+traitCollectionDidChange
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCyp_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFyp_Tg5
+$ss31_stdlib_isOSVersionAtLeast_AEICyBi1_Bw_BwBwtF
+onAnimationFinish.set
+$sSDys11AnyHashableVypGSgIegg_So12NSDictionaryCSgIeyBy_TR
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/lottie-react-native/src/ios/LottieReactNative/PlatformColor.swift
+_swift_getFunctionTypeMetadataGlobalActorBackDeploy
+___swift_getFunctionTypeMetadataGlobalActorBackDeploy_block_invoke
+__ZZ50swift_getFunctionTypeMetadataGlobalActorBackDeployE9builderFn
+__ZZ50swift_getFunctionTypeMetadataGlobalActorBackDeployE12builderToken
+___block_descriptor_tmp
+___block_literal_global
+Apple clang version 13.1.6 (clang-1316.0.21.2)
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/CompatibilityConcurrency -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityConcurrency -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -Wmisleading-indentation -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Werror=c++98-compat-extra-semi -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibilityConcurrency -fembed-bitcode=all -D SWIFT_RUNTIME --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_STDLIB_HAS_DLADDR -D SWIFT_STDLIB_HAS_DARWIN_LIBMALLOC=1 -D SWIFT_STDLIB_HAS_STDIN -D SWIFT_STDLIB_HAS_ENVIRON -D SWIFT_RUNTIME_OS_VERSIONING -D SWIFT_STDLIB_SHORT_MANGLING_LOOKUPS -std=c++14 -MD -MT stdlib/toolchain/CompatibilityConcurrency/CMakeFiles/swiftCompatibilityConcurrency-iphoneos-arm64.dir/CompatibilityConcurrency.cpp.o -MF stdlib/toolchain/CompatibilityConcurrency/CMakeFiles/swiftCompatibilityConcurrency-iphoneos-arm64.dir/CompatibilityConcurrency.cpp.o.d -o stdlib/toolchain/CompatibilityConcurrency/CMakeFiles/swiftCompatibilityConcurrency-iphoneos-arm64.dir/CompatibilityConcurrency.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityConcurrency/CompatibilityConcurrency.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -Wno-objc-load-method -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+enableAggressiveVLAFolding -Xclang -clang-vendor-feature=+revert09abecef7bbf -Xclang -clang-vendor-feature=+thisNoAlignAttr -Xclang -clang-vendor-feature=+thisNoNullAttr -mlinker-version=762 -stdlib=libc++
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityConcurrency/CompatibilityConcurrency.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/swift-macosx-x86_64
+__swift_getFunctionTypeMetadataGlobalActorBackDeploy_block_invoke
+Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityConcurrency/CompatibilityConcurrency.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs
+swift_getFunctionTypeMetadataGlobalActorBackDeploy
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/once.h
+/AppleInternal/BuildRoot
+_swift_getFunctionReplacement50
+_swift_getOrigOfReplaceable50
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/CompatibilityDynamicReplacements -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityDynamicReplacements -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -Wmisleading-indentation -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Werror=c++98-compat-extra-semi -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibilityDynamicReplacements -fembed-bitcode=all -D SWIFT_RUNTIME --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_STDLIB_HAS_DLADDR -D SWIFT_STDLIB_HAS_DARWIN_LIBMALLOC=1 -D SWIFT_STDLIB_HAS_STDIN -D SWIFT_STDLIB_HAS_ENVIRON -D SWIFT_RUNTIME_OS_VERSIONING -D SWIFT_STDLIB_SHORT_MANGLING_LOOKUPS -std=c++14 -MD -MT stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -MF stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o.d -o stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -Wno-objc-load-method -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+enableAggressiveVLAFolding -Xclang -clang-vendor-feature=+revert09abecef7bbf -Xclang -clang-vendor-feature=+thisNoAlignAttr -Xclang -clang-vendor-feature=+thisNoNullAttr -mlinker-version=762 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+swift_getOrigOfReplaceable50
+Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+swift_getFunctionReplacement50
+__ZL29installGetClassHook_untrustedv
+__ZL35getObjCClassByMangledName_untrustedPKcPP10objc_class
+__ZL15OldGetClassHook
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -Wmisleading-indentation -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Werror=c++98-compat-extra-semi -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all -D SWIFT_RUNTIME --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_STDLIB_HAS_DLADDR -D SWIFT_STDLIB_HAS_DARWIN_LIBMALLOC=1 -D SWIFT_STDLIB_HAS_STDIN -D SWIFT_STDLIB_HAS_ENVIRON -D SWIFT_RUNTIME_OS_VERSIONING -D SWIFT_STDLIB_SHORT_MANGLING_LOOKUPS -std=c++14 -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/Compatibility50/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -Wno-objc-load-method -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+enableAggressiveVLAFolding -Xclang -clang-vendor-feature=+revert09abecef7bbf -Xclang -clang-vendor-feature=+thisNoAlignAttr -Xclang -clang-vendor-feature=+thisNoNullAttr -mlinker-version=762 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+getObjCClassByMangledName_untrusted
+Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+llvm.loop.mustprogress
+installGetClassHook_untrusted
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -Wmisleading-indentation -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Werror=c++98-compat-extra-semi -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all -D SWIFT_RUNTIME --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_STDLIB_HAS_DLADDR -D SWIFT_STDLIB_HAS_DARWIN_LIBMALLOC=1 -D SWIFT_STDLIB_HAS_STDIN -D SWIFT_STDLIB_HAS_ENVIRON -D SWIFT_RUNTIME_OS_VERSIONING -D SWIFT_STDLIB_SHORT_MANGLING_LOOKUPS -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/Compatibility51/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -Wno-objc-load-method -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+enableAggressiveVLAFolding -Xclang -clang-vendor-feature=+revert09abecef7bbf -Xclang -clang-vendor-feature=+thisNoAlignAttr -Xclang -clang-vendor-feature=+thisNoNullAttr -mlinker-version=762 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-5.6.0.323.62/swift/stdlib/toolchain/Compatibility51/Overrides.cpp

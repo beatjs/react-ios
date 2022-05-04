@@ -1,0 +1,244 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/RNFastImage/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/RNFastImage.build/DerivedSources/RNFastImage_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+-[FFFastImageSource initWithURL:priority:headers:cacheControl:]
+-[FFFastImageSource url]
+-[FFFastImageSource setUrl:]
+-[FFFastImageSource priority]
+-[FFFastImageSource setPriority:]
+-[FFFastImageSource headers]
+-[FFFastImageSource setHeaders:]
+-[FFFastImageSource cacheControl]
+-[FFFastImageSource setCacheControl:]
+-[FFFastImageSource .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+__OBJC_METACLASS_RO_$_FFFastImageSource
+__OBJC_$_INSTANCE_METHODS_FFFastImageSource
+_OBJC_IVAR_$_FFFastImageSource._url
+_OBJC_IVAR_$_FFFastImageSource._priority
+_OBJC_IVAR_$_FFFastImageSource._headers
+_OBJC_IVAR_$_FFFastImageSource._cacheControl
+__OBJC_$_INSTANCE_VARIABLES_FFFastImageSource
+__OBJC_$_PROP_LIST_FFFastImageSource
+__OBJC_CLASS_RO_$_FFFastImageSource
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-fast-image/ios/FastImage/FFFastImageSource.m
+node_modules/react-native-fast-image/ios/FastImage/FFFastImageSource.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+node_modules/react-native-fast-image/ios/FastImage/FFFastImageSource.h
+-[FFFastImageView init]
+-[FFFastImageView setResizeMode:]
+-[FFFastImageView setOnFastImageLoadEnd:]
+-[FFFastImageView setOnFastImageLoad:]
+-[FFFastImageView setOnFastImageError:]
+-[FFFastImageView setOnFastImageLoadStart:]
+-[FFFastImageView setImageColor:]
+-[FFFastImageView makeImage:withTint:]
+-[FFFastImageView setImage:]
+-[FFFastImageView sendOnLoad:]
+-[FFFastImageView setSource:]
+-[FFFastImageView didSetProps:]
+-[FFFastImageView reloadImage]
+___30-[FFFastImageView reloadImage]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[FFFastImageView downloadImage:options:context:]
+___49-[FFFastImageView downloadImage:options:context:]_block_invoke
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+___49-[FFFastImageView downloadImage:options:context:]_block_invoke.105
+-[FFFastImageView dealloc]
+-[FFFastImageView onFastImageLoadStart]
+-[FFFastImageView onFastImageProgress]
+-[FFFastImageView setOnFastImageProgress:]
+-[FFFastImageView onFastImageError]
+-[FFFastImageView onFastImageLoad]
+-[FFFastImageView onFastImageLoadEnd]
+-[FFFastImageView resizeMode]
+-[FFFastImageView source]
+-[FFFastImageView imageColor]
+-[FFFastImageView hasSentOnLoadStart]
+-[FFFastImageView setHasSentOnLoadStart:]
+-[FFFastImageView hasCompleted]
+-[FFFastImageView setHasCompleted:]
+-[FFFastImageView hasErrored]
+-[FFFastImageView setHasErrored:]
+-[FFFastImageView needsReload]
+-[FFFastImageView setNeedsReload:]
+-[FFFastImageView onLoadEvent]
+-[FFFastImageView setOnLoadEvent:]
+-[FFFastImageView .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_IVAR_$_FFFastImageView._resizeMode
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_IVAR_$_FFFastImageView._onFastImageLoadEnd
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_IVAR_$_FFFastImageView._onFastImageLoad
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_IVAR_$_FFFastImageView._onFastImageError
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_IVAR_$_FFFastImageView._source
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_IVAR_$_FFFastImageView._onFastImageLoadStart
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_IVAR_$_FFFastImageView._imageColor
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_IVAR_$_FFFastImageView._needsReload
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_CLASSLIST_REFERENCES_$_.58
+_OBJC_CLASSLIST_REFERENCES_$_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_CLASSLIST_REFERENCES_$_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.90
+___block_descriptor_40_e8_32s_e36_"NSURLRequest"16?0"NSURLRequest"8l
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+___block_descriptor_40_e8_32w_e21_v32?0q8q16"NSURL"24l
+_OBJC_SELECTOR_REFERENCES_.107
+___block_descriptor_40_e8_32w_e42_v40?0"UIImage"8"NSError"16q24"NSURL"32l
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_IVAR_$_FFFastImageView._onFastImageProgress
+_OBJC_IVAR_$_FFFastImageView._hasSentOnLoadStart
+_OBJC_IVAR_$_FFFastImageView._hasCompleted
+_OBJC_IVAR_$_FFFastImageView._hasErrored
+_OBJC_IVAR_$_FFFastImageView._onLoadEvent
+__OBJC_METACLASS_RO_$_FFFastImageView
+__OBJC_$_INSTANCE_METHODS_FFFastImageView
+__OBJC_$_INSTANCE_VARIABLES_FFFastImageView
+__OBJC_$_PROP_LIST_FFFastImageView
+__OBJC_CLASS_RO_$_FFFastImageView
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.m
+node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.m
+node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.h
+__49-[FFFastImageView downloadImage:options:context:]_block_invoke.105
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__49-[FFFastImageView downloadImage:options:context:]_block_invoke
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__30-[FFFastImageView reloadImage]_block_invoke
++[FFFastImageViewManager moduleName]
++[FFFastImageViewManager load]
+-[FFFastImageViewManager view]
++[FFFastImageViewManager propConfig_source]
++[FFFastImageViewManager propConfig_resizeMode]
++[FFFastImageViewManager propConfig_onFastImageLoadStart]
++[FFFastImageViewManager propConfig_onFastImageProgress]
++[FFFastImageViewManager propConfig_onFastImageError]
++[FFFastImageViewManager propConfig_onFastImageLoad]
++[FFFastImageViewManager propConfig_onFastImageLoadEnd]
++[FFFastImageViewManager propConfig_tintColor]
++[FFFastImageViewManager __rct_export__24376]
+-[FFFastImageViewManager preload:]
+___34-[FFFastImageViewManager preload:]_block_invoke
+___34-[FFFastImageViewManager preload:]_block_invoke_2
++[FFFastImageViewManager __rct_export__38377]
+-[FFFastImageViewManager clearMemoryCache:reject:]
++[FFFastImageViewManager __rct_export__44378]
+-[FFFastImageViewManager clearDiskCache:reject:]
+___48-[FFFastImageViewManager clearDiskCache:reject:]_block_invoke
+___copy_helper_block_e8_32b
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+___rct_export__24376.config
+_OBJC_CLASSLIST_REFERENCES_$_.16
+___block_descriptor_32_e35_v32?0"NSString"8"NSString"16^B24l
+___block_literal_global
+_OBJC_CLASSLIST_REFERENCES_$_.24
+___block_descriptor_40_e8_32s_e34_v32?0"FFFastImageSource"8Q16^B24l
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+___rct_export__38377.config
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+___rct_export__44378.config
+___block_descriptor_40_e8_32bs_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.52
+__OBJC_$_CLASS_METHODS_FFFastImageViewManager
+__OBJC_METACLASS_RO_$_FFFastImageViewManager
+__OBJC_$_INSTANCE_METHODS_FFFastImageViewManager
+__OBJC_CLASS_RO_$_FFFastImageViewManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-fast-image/ios/FastImage/FFFastImageViewManager.m
+__copy_helper_block_e8_32b
+node_modules/react-native-fast-image/ios/FastImage/FFFastImageViewManager.m
+__48-[FFFastImageViewManager clearDiskCache:reject:]_block_invoke
+__34-[FFFastImageViewManager preload:]_block_invoke_2
+__34-[FFFastImageViewManager preload:]_block_invoke
++[RCTConvert(FFFastImage) FFFPriority:]
+___39+[RCTConvert(FFFastImage) FFFPriority:]_block_invoke
++[RCTConvert(FFFastImage) FFFCacheControl:]
+___43+[RCTConvert(FFFastImage) FFFCacheControl:]_block_invoke
++[RCTConvert(FFFastImage) FFFastImageSource:]
+___45+[RCTConvert(FFFastImage) FFFastImageSource:]_block_invoke
+___copy_helper_block_e8_32r
+___destroy_helper_block_e8_32r
++[RCTConvert(FFFastImage) FFFastImageSourceArray:]
+_FFFPriority:.mapping
+_FFFPriority:.onceToken
+___block_descriptor_32_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.6
+_OBJC_SELECTOR_REFERENCES_.11
+_FFFCacheControl:.mapping
+_FFFCacheControl:.onceToken
+___block_literal_global.12
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.33
+___block_descriptor_40_e8_32r_e25_v32?0"NSString"816^B24l
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_SELECTOR_REFERENCES_.53
+__OBJC_$_CATEGORY_CLASS_METHODS_RCTConvert_$_FFFastImage
+__OBJC_$_CATEGORY_RCTConvert_$_FFFastImage
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-fast-image/ios/FastImage/RCTConvert+FFFastImage.m
+node_modules/react-native-fast-image/ios/FastImage/RCTConvert+FFFastImage.m
+__destroy_helper_block_e8_32r
+__copy_helper_block_e8_32r
+__45+[RCTConvert(FFFastImage) FFFastImageSource:]_block_invoke
+__43+[RCTConvert(FFFastImage) FFFCacheControl:]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/once.h
+__39+[RCTConvert(FFFastImage) FFFPriority:]_block_invoke
+__OBJC_METACLASS_RO_$_PodsDummy_RNFastImage
+__OBJC_CLASS_RO_$_PodsDummy_RNFastImage
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/RNFastImage/RNFastImage-dummy.m

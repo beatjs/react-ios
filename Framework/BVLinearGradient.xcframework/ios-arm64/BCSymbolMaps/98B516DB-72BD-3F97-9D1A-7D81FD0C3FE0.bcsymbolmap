@@ -1,0 +1,138 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/BVLinearGradient/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/BVLinearGradient.build/DerivedSources/BVLinearGradient_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
++[BVLinearGradient layerClass]
+-[BVLinearGradient gradientLayer]
+-[BVLinearGradient colors]
+-[BVLinearGradient setColors:]
+-[BVLinearGradient startPoint]
+-[BVLinearGradient setStartPoint:]
+-[BVLinearGradient endPoint]
+-[BVLinearGradient setEndPoint:]
+-[BVLinearGradient locations]
+-[BVLinearGradient setLocations:]
+-[BVLinearGradient useAngle]
+-[BVLinearGradient setUseAngle:]
+-[BVLinearGradient angleCenter]
+-[BVLinearGradient setAngleCenter:]
+-[BVLinearGradient angle]
+-[BVLinearGradient setAngle:]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+__OBJC_$_CLASS_METHODS_BVLinearGradient
+__OBJC_METACLASS_RO_$_BVLinearGradient
+__OBJC_$_INSTANCE_METHODS_BVLinearGradient
+__OBJC_$_PROP_LIST_BVLinearGradient
+__OBJC_CLASS_RO_$_BVLinearGradient
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradient.m
+node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradient.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+__OBJC_METACLASS_RO_$_PodsDummy_BVLinearGradient
+__OBJC_CLASS_RO_$_PodsDummy_BVLinearGradient
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/BVLinearGradient/BVLinearGradient-dummy.m
+-[BVLinearGradientLayer init]
+-[BVLinearGradientLayer setColors:]
+-[BVLinearGradientLayer setLocations:]
+-[BVLinearGradientLayer setStartPoint:]
+-[BVLinearGradientLayer setEndPoint:]
+-[BVLinearGradientLayer display]
+-[BVLinearGradientLayer setUseAngle:]
+-[BVLinearGradientLayer setAngleCenter:]
+-[BVLinearGradientLayer setAngle:]
+-[BVLinearGradientLayer calculateGradientLocationWithAngle:]
+-[BVLinearGradientLayer drawInContext:]
+-[BVLinearGradientLayer colors]
+-[BVLinearGradientLayer locations]
+-[BVLinearGradientLayer startPoint]
+-[BVLinearGradientLayer endPoint]
+-[BVLinearGradientLayer useAngle]
+-[BVLinearGradientLayer angleCenter]
+-[BVLinearGradientLayer angle]
+-[BVLinearGradientLayer .cxx_destruct]
+_OBJC_IVAR_$_BVLinearGradientLayer._startPoint
+_OBJC_IVAR_$_BVLinearGradientLayer._endPoint
+_OBJC_IVAR_$_BVLinearGradientLayer._angleCenter
+_OBJC_IVAR_$_BVLinearGradientLayer._angle
+_OBJC_IVAR_$_BVLinearGradientLayer._colors
+_OBJC_IVAR_$_BVLinearGradientLayer._locations
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_IVAR_$_BVLinearGradientLayer._useAngle
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+__OBJC_METACLASS_RO_$_BVLinearGradientLayer
+__OBJC_$_INSTANCE_METHODS_BVLinearGradientLayer
+__OBJC_$_INSTANCE_VARIABLES_BVLinearGradientLayer
+__OBJC_$_PROP_LIST_BVLinearGradientLayer
+__OBJC_CLASS_RO_$_BVLinearGradientLayer
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradientLayer.m
+node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradientLayer.m
+node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradientLayer.h
+llvm.loop.mustprogress
++[BVLinearGradientManager moduleName]
++[BVLinearGradientManager load]
+-[BVLinearGradientManager view]
+-[BVLinearGradientManager methodQueue]
++[BVLinearGradientManager propConfig_colors]
++[BVLinearGradientManager propConfig_startPoint]
++[BVLinearGradientManager propConfig_endPoint]
++[BVLinearGradientManager propConfig_locations]
++[BVLinearGradientManager propConfig_useAngle]
++[BVLinearGradientManager propConfig_angleCenter]
++[BVLinearGradientManager propConfig_angle]
+-[BVLinearGradientManager bridge]
+-[BVLinearGradientManager setBridge:]
+-[BVLinearGradientManager .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_IVAR_$_BVLinearGradientManager._bridge
+__OBJC_$_CLASS_METHODS_BVLinearGradientManager
+__OBJC_METACLASS_RO_$_BVLinearGradientManager
+__OBJC_$_INSTANCE_METHODS_BVLinearGradientManager
+__OBJC_$_INSTANCE_VARIABLES_BVLinearGradientManager
+__OBJC_CLASS_RO_$_BVLinearGradientManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradientManager.m
+node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradientManager.m
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/queue.h

@@ -1,0 +1,34 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/RNCMaskedView/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/RNCMaskedView.build/DerivedSources/RNCMaskedView_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+-[RNCMaskedView didUpdateReactSubviews]
+-[RNCMaskedView displayLayer:]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+__OBJC_METACLASS_RO_$_RNCMaskedView
+__OBJC_$_INSTANCE_METHODS_RNCMaskedView
+__OBJC_CLASS_RO_$_RNCMaskedView
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/@react-native-masked-view/masked-view/ios/RNCMaskedView.m
+node_modules/@react-native-masked-view/masked-view/ios/RNCMaskedView.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+llvm.loop.mustprogress
+__OBJC_METACLASS_RO_$_PodsDummy_RNCMaskedView
+__OBJC_CLASS_RO_$_PodsDummy_RNCMaskedView
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/RNCMaskedView/RNCMaskedView-dummy.m
++[RNCMaskedViewManager moduleName]
++[RNCMaskedViewManager load]
+-[RNCMaskedViewManager view]
+_OBJC_CLASSLIST_REFERENCES_$_
+__OBJC_$_CLASS_METHODS_RNCMaskedViewManager
+__OBJC_METACLASS_RO_$_RNCMaskedViewManager
+__OBJC_$_INSTANCE_METHODS_RNCMaskedViewManager
+__OBJC_CLASS_RO_$_RNCMaskedViewManager
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/@react-native-masked-view/masked-view/ios/RNCMaskedViewManager.m
+node_modules/@react-native-masked-view/masked-view/ios/RNCMaskedViewManager.m

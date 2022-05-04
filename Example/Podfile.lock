@@ -1,16 +1,70 @@
 PODS:
-  - react-ios (0.67.4.0)
+  - Base64 (1.1.2)
+  - fmt (6.2.1)
+  - JWT (3.0.0-beta.14):
+    - Base64 (~> 1.1.2)
+  - libwebp (1.2.1):
+    - libwebp/demux (= 1.2.1)
+    - libwebp/mux (= 1.2.1)
+    - libwebp/webp (= 1.2.1)
+  - libwebp/demux (1.2.1):
+    - libwebp/webp
+  - libwebp/mux (1.2.1):
+    - libwebp/demux
+  - libwebp/webp (1.2.1)
+  - lottie-ios (3.2.3)
+  - react-ios (0.67.4.0):
+    - Base64 (~> 1.1.2)
+    - fmt (~> 6.2.1)
+    - JWT (~> 3.0.0-beta.14)
+    - libwebp (~> 1.2.1)
+    - lottie-ios (~> 3.2.3)
+    - SDWebImage (~> 5.11.1)
+    - SDWebImageWebPCoder (~> 0.8.4)
+    - Sentry (~> 7.11.0)
+    - SSZipArchive (~> 2.2.3)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SDWebImageWebPCoder (0.8.4):
+    - libwebp (~> 1.0)
+    - SDWebImage/Core (~> 5.10)
+  - Sentry (7.11.0):
+    - Sentry/Core (= 7.11.0)
+  - Sentry/Core (7.11.0)
+  - SSZipArchive (2.2.3)
 
 DEPENDENCIES:
   - react-ios (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Base64
+    - fmt
+    - JWT
+    - libwebp
+    - lottie-ios
+    - SDWebImage
+    - SDWebImageWebPCoder
+    - Sentry
+    - SSZipArchive
 
 EXTERNAL SOURCES:
   react-ios:
     :path: "../"
 
 SPEC CHECKSUMS:
-  react-ios: 3cc8b213f0647156a489504ec7d51a1c93079c2c
+  Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
+  fmt: ff9d55029c625d3757ed641535fd4a75fedc7ce9
+  JWT: ef71dfb03e1f842081e64dc42eef0e164f35d251
+  libwebp: 98a37e597e40bfdb4c911fc98f2c53d0b12d05fc
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  react-ios: b3bce6281aa0e700c2970a1f2f94fdf33dacc4a9
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SDWebImageWebPCoder: f93010f3f6c031e2f8fb3081ca4ee6966c539815
+  Sentry: 0c5cd63d714187b4a39c331c1f0eb04ba7868341
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
 
 PODFILE CHECKSUM: c38c8b12df7fefe39e4a300af184a0fd3a31e709
 
-COCOAPODS: 1.11.2
+COCOAPODS: 1.11.3

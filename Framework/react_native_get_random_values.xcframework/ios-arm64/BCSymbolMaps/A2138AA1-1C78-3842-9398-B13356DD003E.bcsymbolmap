@@ -1,0 +1,46 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/react-native-get-random-values/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-get-random-values.build/DerivedSources/react_native_get_random_values_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+__OBJC_METACLASS_RO_$_PodsDummy_react_native_get_random_values
+__OBJC_CLASS_RO_$_PodsDummy_react_native_get_random_values
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/react-native-get-random-values/react-native-get-random-values-dummy.m
+-[RNGetRandomValues methodQueue]
++[RNGetRandomValues moduleName]
++[RNGetRandomValues load]
++[RNGetRandomValues __rct_export__11376]
+-[RNGetRandomValues getRandomBase64:]
+___rct_export__11376.config
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+__OBJC_$_CLASS_METHODS_RNGetRandomValues
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_RCTBridgeModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROP_LIST_RCTBridgeModule
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTBridgeModule
+__OBJC_PROTOCOL_$_RCTBridgeModule
+__OBJC_LABEL_PROTOCOL_$_RCTBridgeModule
+__OBJC_CLASS_PROTOCOLS_$_RNGetRandomValues
+__OBJC_METACLASS_RO_$_RNGetRandomValues
+__OBJC_$_INSTANCE_METHODS_RNGetRandomValues
+__OBJC_$_PROP_LIST_RNGetRandomValues
+__OBJC_CLASS_RO_$_RNGetRandomValues
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-get-random-values/ios/RNGetRandomValues.m
+node_modules/react-native-get-random-values/ios/RNGetRandomValues.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/queue.h

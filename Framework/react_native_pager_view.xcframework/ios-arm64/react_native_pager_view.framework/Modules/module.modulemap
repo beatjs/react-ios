@@ -1,0 +1,6 @@
+framework module react_native_pager_view {
+  umbrella header "react-native-pager-view-umbrella.h"
+
+  export *
+  module * { export * }
+}

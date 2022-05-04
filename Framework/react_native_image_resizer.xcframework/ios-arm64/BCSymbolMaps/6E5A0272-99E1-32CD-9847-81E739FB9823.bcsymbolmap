@@ -1,0 +1,152 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/nxdm/Library/Developer/Xcode/DerivedData/AwesomeProject-cbilnzscakqoaogwplmfthngqhmi/Build/Intermediates.noindex/ArchiveIntermediates/react-native-image-resizer/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-image-resizer.build/DerivedSources/react_native_image_resizer_vers.c
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods
+-[UIImage(scale) scaleToSize:]
+_GetDeviceRGBColorSpace.deviceRGBSpace
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.6
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIImage_$_scale
+__OBJC_$_CATEGORY_UIImage_$_scale
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-image-resizer/ios/RCTImageResizer/ImageHelpers.m
+node_modules/react-native-image-resizer/ios/RCTImageResizer/ImageHelpers.m
+/Users/nxdm/Developer/GitHub/AwesomeProject
+GetScaleForProportionalResize
+CreateCGImageFromUIImageScaled
+CreateCGBitmapContextForWidthAndHeight
+GetDeviceRGBColorSpace
++[ImageResizer moduleName]
++[ImageResizer load]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___getImageMeta_block_invoke
+___copy_helper_block_e8_32r
+___destroy_helper_block_e8_32r
+___getImageMeta_block_invoke.80
++[ImageResizer __rct_export__378381]
+-[ImageResizer createResizedImage:width:height:format:quality:rotation:outputPath:keepMeta:options:callback:]
+___109-[ImageResizer createResizedImage:width:height:format:quality:rotation:outputPath:keepMeta:options:callback:]_block_invoke
+___109-[ImageResizer createResizedImage:width:height:format:quality:rotation:outputPath:keepMeta:options:callback:]_block_invoke_2
+___copy_helper_block_e8_32b40s48s56s64s
+___destroy_helper_block_e8_32s40s48s56s64s
+___copy_helper_block_e8_32s40s48b56s64s72s
+___destroy_helper_block_e8_32s40s48s56s64s72s
+-[ImageResizer bridge]
+-[ImageResizer .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+___block_descriptor_40_e8_32r_e17_v16?0"ALAsset"8l
+_OBJC_CLASSLIST_REFERENCES_$_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_CLASSLIST_REFERENCES_$_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+___block_descriptor_32_e17_v16?0"NSError"8l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_CLASSLIST_REFERENCES_$_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_CLASSLIST_REFERENCES_$_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_CLASSLIST_REFERENCES_$_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_CLASSLIST_REFERENCES_$_.147
+_OBJC_SELECTOR_REFERENCES_.149
+___rct_export__378381.config
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_CLASSLIST_REFERENCES_$_.164
+_OBJC_SELECTOR_REFERENCES_.166
+___block_descriptor_97_e8_32bs40s48s56s64s_e29_v24?0"NSError"8"UIImage"16l
+_OBJC_SELECTOR_REFERENCES_.169
+___block_descriptor_97_e8_32s40s48bs56s64s72s_e5_v8?0l
+__OBJC_$_CLASS_METHODS_ImageResizer
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_RCTBridgeModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROTOCOL_CLASS_METHODS_OPT_RCTBridgeModule
+__OBJC_$_PROP_LIST_RCTBridgeModule
+__OBJC_$_PROTOCOL_METHOD_TYPES_RCTBridgeModule
+__OBJC_PROTOCOL_$_RCTBridgeModule
+__OBJC_LABEL_PROTOCOL_$_RCTBridgeModule
+__OBJC_CLASS_PROTOCOLS_$_ImageResizer
+__OBJC_METACLASS_RO_$_ImageResizer
+__OBJC_$_INSTANCE_METHODS_ImageResizer
+_OBJC_IVAR_$_ImageResizer._bridge
+__OBJC_$_INSTANCE_VARIABLES_ImageResizer
+__OBJC_$_PROP_LIST_ImageResizer
+__OBJC_CLASS_RO_$_ImageResizer
+/Users/nxdm/Developer/GitHub/AwesomeProject/node_modules/react-native-image-resizer/ios/RCTImageResizer/RCTImageResizer.m
+node_modules/react-native-image-resizer/ios/RCTImageResizer/RCTImageResizer.m
+__destroy_helper_block_e8_32s40s48s56s64s72s
+__copy_helper_block_e8_32s40s48b56s64s72s
+__destroy_helper_block_e8_32s40s48s56s64s
+__copy_helper_block_e8_32b40s48s56s64s
+__109-[ImageResizer createResizedImage:width:height:format:quality:rotation:outputPath:keepMeta:options:callback:]_block_invoke_2
+__109-[ImageResizer createResizedImage:width:height:format:quality:rotation:outputPath:keepMeta:options:callback:]_block_invoke
+transformImage
+__getImageMeta_block_invoke.80
+__destroy_helper_block_e8_32r
+__copy_helper_block_e8_32r
+__getImageMeta_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+getImageMeta
+scaleImage
+getScaleForProportionalResize
+rotateImage
+__tg_round
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/tgmath.h
+generateFilePath
+saveImage
+__OBJC_METACLASS_RO_$_PodsDummy_react_native_image_resizer
+__OBJC_CLASS_RO_$_PodsDummy_react_native_image_resizer
+/Users/nxdm/Developer/GitHub/AwesomeProject/ios/Pods/Target Support Files/react-native-image-resizer/react-native-image-resizer-dummy.m
