@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'react-ios'
-  s.version = '0.67.4.1'
+  s.version = '0.67.4.2'
   s.summary = 'An runtime base on react-native.'
   s.description =
   <<-DESC
@@ -21,7 +21,10 @@ Pod::Spec.new do |s|
   s.platforms = { :ios => '11.0'}
   s.module_name = 'React'
   s.library = 'stdc++'
-  s.framework = 'JavaScriptCore'
+  s.framework = 
+  'JavaScriptCore',
+  'Photos',
+  'CoreServices'
   s.ios.deployment_target = '11.0'
   s.pod_target_xcconfig = {
     'DEFINES_MODULE' => 'YES'
@@ -69,6 +72,7 @@ Pod::Spec.new do |s|
     'Framework/RNSVG.xcframework',
     'Framework/yoga.xcframework' 
   s.dependency 'Base64', '~> 1.1.2'
+  s.dependency 'DVAssetLoaderDelegate', '~> 0.3.3'
   s.dependency 'fmt', '~> 6.2.1'
   s.dependency 'JWT', '~> 3.0.0-beta.14'
   s.dependency 'libwebp', '~> 1.2.1'
@@ -77,4 +81,5 @@ Pod::Spec.new do |s|
   s.dependency 'SDWebImageWebPCoder', '~> 0.8.4'
   s.dependency 'Sentry', '~> 7.11.0'
   s.dependency 'SSZipArchive', '~> 2.2.3'
+  s.dependency 'SPTPersistentCache', '~> 1.1.1'
 end
