@@ -1,5 +1,6 @@
 PODS:
   - Base64 (1.1.2)
+  - DVAssetLoaderDelegate (0.3.3)
   - fmt (6.2.1)
   - JWT (3.0.0-beta.14):
     - Base64 (~> 1.1.2)
@@ -13,8 +14,9 @@ PODS:
     - libwebp/demux
   - libwebp/webp (1.2.1)
   - lottie-ios (3.2.3)
-  - react-ios (0.67.4.0):
+  - react-ios (0.67.4.2):
     - Base64 (~> 1.1.2)
+    - DVAssetLoaderDelegate (~> 0.3.3)
     - fmt (~> 6.2.1)
     - JWT (~> 3.0.0-beta.14)
     - libwebp (~> 1.2.1)
@@ -22,6 +24,7 @@ PODS:
     - SDWebImage (~> 5.11.1)
     - SDWebImageWebPCoder (~> 0.8.4)
     - Sentry (~> 7.11.0)
+    - SPTPersistentCache (~> 1.1.0)
     - SSZipArchive (~> 2.2.3)
   - SDWebImage (5.11.1):
     - SDWebImage/Core (= 5.11.1)
@@ -32,6 +35,7 @@ PODS:
   - Sentry (7.11.0):
     - Sentry/Core (= 7.11.0)
   - Sentry/Core (7.11.0)
+  - SPTPersistentCache (1.1.0)
   - SSZipArchive (2.2.3)
 
 DEPENDENCIES:
@@ -40,6 +44,7 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - Base64
+    - DVAssetLoaderDelegate
     - fmt
     - JWT
     - libwebp
@@ -47,6 +52,7 @@ SPEC REPOS:
     - SDWebImage
     - SDWebImageWebPCoder
     - Sentry
+    - SPTPersistentCache
     - SSZipArchive
 
 EXTERNAL SOURCES:
@@ -55,14 +61,16 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
+  DVAssetLoaderDelegate: 0caec20e4e08b8560b691131539e9180024d4bce
   fmt: ff9d55029c625d3757ed641535fd4a75fedc7ce9
   JWT: ef71dfb03e1f842081e64dc42eef0e164f35d251
   libwebp: 98a37e597e40bfdb4c911fc98f2c53d0b12d05fc
   lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
-  react-ios: b3bce6281aa0e700c2970a1f2f94fdf33dacc4a9
+  react-ios: 26211d59d62d6ff355e1d061b32e3c49890d5605
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
   SDWebImageWebPCoder: f93010f3f6c031e2f8fb3081ca4ee6966c539815
   Sentry: 0c5cd63d714187b4a39c331c1f0eb04ba7868341
+  SPTPersistentCache: df36ea46762d7cf026502bbb86a8b79d0080dff4
   SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
 
 PODFILE CHECKSUM: c38c8b12df7fefe39e4a300af184a0fd3a31e709

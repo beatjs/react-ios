@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
   'JavaScriptCore',
   'Photos',
   'CoreServices'
+  s.swift_version = '5.0'
   s.ios.deployment_target = '11.0'
   s.pod_target_xcconfig = {
     'DEFINES_MODULE' => 'YES'
@@ -81,5 +82,5 @@ Pod::Spec.new do |s|
   s.dependency 'SDWebImageWebPCoder', '~> 0.8.4'
   s.dependency 'Sentry', '~> 7.11.0'
   s.dependency 'SSZipArchive', '~> 2.2.3'
-  s.dependency 'SPTPersistentCache', '~> 1.1.1'
+  s.dependency 'SPTPersistentCache', '~> 1.1.0'
 end
