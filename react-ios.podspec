@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.author = { 'Liam Xu' => 'liamxujia@outlook.com' }
   s.source = { :git => 'https://github.com/beatjs/react-ios.git', :tag => s.version.to_s }
   s.platforms = { :ios => '11.0'}
-  # s.module_name = 'ReactNative'
+  s.module_name = 'ReactNative'
   s.library = 'stdc++'
   s.framework = 
   'JavaScriptCore'
